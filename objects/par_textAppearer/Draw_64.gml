@@ -24,5 +24,6 @@ else if(alpha == 0 && textDoneAppearing)
 	//Move to next text
 	textDoneAppearing = false;
 }
-//draw_set_alpha(alpha);
+draw_set_alpha(alpha);
 draw_text(50,50,text[i]);
+draw_set_alpha(1);
