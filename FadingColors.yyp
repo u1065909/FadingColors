@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1437da4e-2f88-4f19-8efc-2c6a7a086d01",
+            "Value": {
+                "id": "d3104f4d-c2fc-414d-b7a7-c8321abe49bb",
+                "resourcePath": "rooms\\NathansRoom\\NathansRoom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1e9d3f71-8b9d-4dd2-b917-90efd38bc474",
             "Value": {
                 "id": "7bff01f8-1d9a-4fa2-95e4-e54f8f96edeb",
