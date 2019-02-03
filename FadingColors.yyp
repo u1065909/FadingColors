@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "415f6fc4-03d6-42c5-a1c5-67b73a1c584a",
+            "Value": {
+                "id": "df69590f-f1a6-4e33-8e4e-850037f7ffb7",
+                "resourcePath": "objects\\obj_textAppearer\\obj_textAppearer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "46b8490a-b8c2-4fe1-b36e-79e3c125c858",
             "Value": {
                 "id": "58e314e1-1eb8-42dd-9ab7-b0b37e370c84",
