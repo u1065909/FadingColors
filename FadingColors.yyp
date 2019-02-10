@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "3501d839-58c3-45fa-9040-714a84d9cee2",
+            "Value": {
+                "id": "24095bea-b7ca-4708-b355-9266886eec21",
+                "resourcePath": "views\\3501d839-58c3-45fa-9040-714a84d9cee2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3617c53b-fbad-41c1-b107-7ab92fa8aaca",
             "Value": {
                 "id": "002bc2da-bea5-4e84-96f8-6ca60b44e174",
@@ -207,10 +215,18 @@
             }
         },
         {
+            "Key": "47662644-c861-4854-bcef-89b4e783216c",
+            "Value": {
+                "id": "f26c82f3-3338-46cd-aad1-deb14093a04d",
+                "resourcePath": "scripts\\gain_color\\gain_color.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4c37f250-d899-4909-b668-da74ce1bf597",
             "Value": {
                 "id": "4ec6a1f5-a8e5-4432-836c-2a80db20fe97",
-                "resourcePath": "objects\\obj_speaker\\obj_speaker.yy",
+                "resourcePath": "objects\\obj_cat\\obj_cat.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -463,6 +479,14 @@
             }
         },
         {
+            "Key": "df54f0df-bc2a-4b88-8797-da40f9ab46ec",
+            "Value": {
+                "id": "def50774-d613-4583-979f-f2f81e74a147",
+                "resourcePath": "scripts\\lose_color\\lose_color.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e183d395-f9f2-48cd-b888-2dd3ec89153d",
             "Value": {
                 "id": "f9f98c42-2dc4-478d-bc60-4a0609429e0d",
@@ -551,7 +575,9 @@
         "22c57393-d17c-4500-b428-2d67f27d9725",
         "d0cbf33f-2b88-430a-92bc-d8adabf7fd7e",
         "57dec62d-9ad0-4d05-85bf-948c81f5184b",
-        "02a93034-8f6e-4718-a90d-ef3a3edfc5ae"
+        "02a93034-8f6e-4718-a90d-ef3a3edfc5ae",
+        "df54f0df-bc2a-4b88-8797-da40f9ab46ec",
+        "47662644-c861-4854-bcef-89b4e783216c"
     ],
     "tutorial": ""
 }

@@ -1,3 +1,4 @@
+/*
 draw_set_font(fnt_debug);
 
 var i = 0;
@@ -32,3 +33,4 @@ if(debug){
 	
 	draw_set_halign(fa_left);
 }
+*/

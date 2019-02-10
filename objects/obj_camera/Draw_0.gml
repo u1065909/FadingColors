@@ -1,3 +1,4 @@
+
 if(debug){
 	with(par_speaker){
 		var dr = detection_radius;
