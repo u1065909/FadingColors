@@ -7,7 +7,7 @@ create_textevent(
 	"and he was right", 
 	" it takes the energy...",
 	" The time...",
-	"and eventually even the colors start draining away."],
+	"and eventually even the colors start fading away."],
 	-1,
 	-1,
 	-1,
