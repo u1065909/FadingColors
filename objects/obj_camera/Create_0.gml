@@ -7,6 +7,11 @@ create_textevent(
 	"Make it sound cool.... mysterious... and other things", 
 	"Have people think about life..."],
 	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
 );
 
 //show_debug_overlay(true);
