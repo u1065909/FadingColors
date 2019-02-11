@@ -4,9 +4,9 @@ debug = false;
 
 create_textevent(
 	["My brother once told me that life takes a lot out of you.", 
-	"and he was right", 
-	" it takes the energy...",
-	" The time...",
+	"And he was right.", 
+	" It takes the  time...",
+	" The energy...",
 	"and eventually even the colors start fading away."],
 	-1,
 	-1,
