@@ -3,9 +3,11 @@ freeze = false;
 debug = false;
 
 create_textevent(
-	["Write in here something about depression", 
-	"Make it sound cool.... mysterious... and other things", 
-	"Have people think about life..."],
+	["My brother once told me that life takes a lot out of you.", 
+	"and he was right", 
+	" it takes the energy...",
+	" The time...",
+	"and eventually even the colors start draining away."],
 	-1,
 	-1,
 	-1,
