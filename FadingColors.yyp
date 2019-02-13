@@ -704,6 +704,25 @@
             }
         },
         {
+            "Key": "7b8485b5-9695-48d7-a7fc-1a65e38cc1b2",
+            "Value": {
+                "id": "9b4eb3b3-11d5-4c34-bfec-6c19a96ab1e3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/noah_player\/noah_player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7c03f7ab-2128-4938-aa3e-5514b7770f50",
             "Value": {
                 "id": "67a8e0f8-4032-4b7c-a94b-12db1e973190",
