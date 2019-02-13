@@ -1046,6 +1046,25 @@
             }
         },
         {
+            "Key": "cd0cb210-7b1d-40aa-b905-8daf129c67a4",
+            "Value": {
+                "id": "e8a6650d-7b76-469c-b866-9dd608605569",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/karla_the_cat\/karla_the_cat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ce42980c-2fb0-44d7-868f-246f89e4f507",
             "Value": {
                 "id": "17e87b7f-787b-4600-bce3-b03ebe2d17f5",
