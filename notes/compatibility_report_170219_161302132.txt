@@ -1,0 +1,11 @@
+Font f_std has been converted to font family Arial (Regular) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\objects\o_gui\Draw_0.gml
+Converted string - line 5: 'Control the shader with Q an W.#Saturation: ' -> "Control the shader with Q an W.#Saturation: "
+
+Converting GML script: ${project_dir}\objects\o_shader_start\Step_0.gml
+Converted string - line 1: 'Q' -> "Q"
+Converted string - line 5: 'W' -> "W"
+
+Added compatibility script 'background/draw_background_tiled.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script '__init_global.gml'
