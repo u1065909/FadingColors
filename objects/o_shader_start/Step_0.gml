@@ -1,10 +1,10 @@
-if (keyboard_check(ord("Q"))) {
-  pos -= 0.01;
+
+if (currentColorMeter != obj_player.colorMeter)
+{
+	pos += (obj_player.colorMeter - currentColorMeter)*.01;
+	currentColorMeter = obj_player.colorMeter;
 }
 
-if (keyboard_check(ord("W"))) {
-  pos += 0.01;
-}
 
-pos = clamp(pos, -1, 1);
+pos = clamp(pos, -1, 0);
 
