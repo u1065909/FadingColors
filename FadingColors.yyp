@@ -1084,6 +1084,25 @@
             }
         },
         {
+            "Key": "7436ee6a-51c4-4861-b384-b3fe8c72718c",
+            "Value": {
+                "id": "a9595ba2-0333-461e-9880-eadb6e744534",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/House_First_Floor\/House_First_Floor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "74acbc1b-ba53-42c8-a56c-95986f4705a4",
             "Value": {
                 "id": "1c6212c7-8af5-4630-b5dc-216159d30cd5",
