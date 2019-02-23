@@ -50,8 +50,8 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "End",
-            "id": "4a13045f-81ab-44ff-8e58-adc481a04d8e",
+            "name": "Dialogue_MiniGame_Background",
+            "id": "5d929e3d-5f6d-4fba-a1b0-83ba02005f6d",
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
@@ -62,7 +62,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_6F06847A","id": "ec83cbd6-a4e0-4e41-b60b-bb41e9b73c5b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6F06847A","objId": "65a64fd6-fa53-48a4-b02e-58c19c73009b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 128,"y": 608}
+
             ],
             "layers": [
 
@@ -76,8 +76,8 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Dialogue_Background",
-            "id": "5d929e3d-5f6d-4fba-a1b0-83ba02005f6d",
+            "name": "Dialogue_MiniGame",
+            "id": "da394cd4-c88d-45ca-8fa3-0a4eae65fb5a",
             "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
@@ -102,8 +102,8 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Dialogue_Mini_Game",
-            "id": "da394cd4-c88d-45ca-8fa3-0a4eae65fb5a",
+            "name": "End",
+            "id": "4a13045f-81ab-44ff-8e58-adc481a04d8e",
             "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
@@ -114,7 +114,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_6F06847A","id": "ec83cbd6-a4e0-4e41-b60b-bb41e9b73c5b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6F06847A","objId": "65a64fd6-fa53-48a4-b02e-58c19c73009b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 128,"y": 608}
             ],
             "layers": [
 
