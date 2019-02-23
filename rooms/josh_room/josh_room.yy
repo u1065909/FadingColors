@@ -50,8 +50,8 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Dialogue_MiniGame_Background",
-            "id": "5d929e3d-5f6d-4fba-a1b0-83ba02005f6d",
+            "name": "Dialogue_MiniGame",
+            "id": "da394cd4-c88d-45ca-8fa3-0a4eae65fb5a",
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
@@ -76,8 +76,8 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Dialogue_MiniGame",
-            "id": "da394cd4-c88d-45ca-8fa3-0a4eae65fb5a",
+            "name": "Dialogue_MiniGame_Background",
+            "id": "5d929e3d-5f6d-4fba-a1b0-83ba02005f6d",
             "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
