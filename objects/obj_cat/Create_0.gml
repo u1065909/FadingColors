@@ -13,5 +13,6 @@ myTextCol[2] = [13, c_red,18,c_white];
 myEffects[2] = [13, 2,18,0]; 
 speaker = -1;
 myScripts[2] = [gain_color,5];
+myScripts[4] = [spawn_mini_game];
 
 
