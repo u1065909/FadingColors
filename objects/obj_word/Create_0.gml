@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(player_alpha == 0)
-	instance_destroy();
-mini_player_movement();
+y_speed = 5;
+x_speed = 0;
+alarm[0] = room_speed;
