@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "6d9b8da2-d304-41f2-952b-3ad517c0be19",
+            "Value": {
+                "id": "265f0ce8-8306-444e-adec-c92f7c5e48fc",
+                "resourcePath": "scripts\\go_back_room\\go_back_room.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6e4e9c54-c151-498b-9d42-cb76255e0d50",
             "Value": {
                 "id": "506483b2-9f8a-4d9f-a425-623bb4e28469",
@@ -1056,7 +1064,8 @@
         "2ef927cf-4901-40e7-be7c-9c1f917510f4",
         "6e4e9c54-c151-498b-9d42-cb76255e0d50",
         "2571aeed-b846-4103-9813-92ebd2fb178d",
-        "70b924e5-9c73-46fa-8419-6242f99307ea"
+        "70b924e5-9c73-46fa-8419-6242f99307ea",
+        "6d9b8da2-d304-41f2-952b-3ad517c0be19"
     ],
     "tutorial": ""
 }
