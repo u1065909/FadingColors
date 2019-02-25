@@ -1,28 +1,38 @@
 {
-    "id": "8a2956c8-7547-4269-be86-eab4239bcad8",
+    "id": "46b32611-f02a-4cfe-9e2c-fd182217b029",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_word",
+    "name": "obj_to_portal",
     "eventList": [
         {
-            "id": "37b0223a-912d-41c5-a6b2-dc1519c21ca0",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "8a2956c8-7547-4269-be86-eab4239bcad8"
-        },
-        {
-            "id": "dabb281f-74f5-403f-8938-8776df63ed0a",
+            "id": "9e50de6d-848f-45eb-98d3-5263ff095a3c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "8a2956c8-7547-4269-be86-eab4239bcad8"
+            "m_owner": "46b32611-f02a-4cfe-9e2c-fd182217b029"
+        },
+        {
+            "id": "c689e2f9-2828-4838-bc46-f70961f0d2a7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "46b32611-f02a-4cfe-9e2c-fd182217b029"
+        },
+        {
+            "id": "fd915c3f-ff45-4491-af00-d814a580f6fb",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "46b32611-f02a-4cfe-9e2c-fd182217b029"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1fe0d3bf-700a-45bf-bf68-a663eb1eacba",
+    "spriteId": "a7c6a270-3387-4588-a692-b0eef2e3d561",
     "visible": true
 }

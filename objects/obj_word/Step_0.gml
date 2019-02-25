@@ -6,3 +6,7 @@ if(place_meeting(x,y,obj_mini_player))
 		lose_color(5);
 		destroy_object();
 	}
+else if(!place_meeting(x,y,obj_dialogue_wall))
+	{
+		destroy_object();
+	}
