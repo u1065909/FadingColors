@@ -2,7 +2,7 @@ obj_game_controller.room_id--;
 show_debug_message(obj_game_controller.room_id);
 if(obj_game_controller.room_id == 0)
 {
-	room_goto(josh_room);
+	room_goto(r_player_room);
 }
 else if(obj_game_controller.room_id== 1)
 {
