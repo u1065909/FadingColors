@@ -10,3 +10,4 @@ if(!persistent)
 {
 	persistent = true;
 }
+randomize();

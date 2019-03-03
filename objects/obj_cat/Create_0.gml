@@ -18,6 +18,7 @@ myWords[1] = s_player;
 myWords[2] = Test;
 myWords[3] = Test2;
 myWords[4] = Test2;
+myName = "Carly";
 
 myScripts[4] = [spawn_mini_game,myWords];
 
