@@ -5,9 +5,9 @@
 
 event_inherited();
 myText[0] = "Hi"
-myText[1] = "I am a cat"
-myText[2] = "Become More Happy"
-myText[3] = "Yea"
+myText[1] = "I am your cat"
+myText[2] = "pet me and it just may bring color back into your world"
+myText[3] = "I mean"
 myText[4] = "MEOW"
 myTextCol[2] = [13, c_red,18,c_white];  
 myEffects[2] = [13, 2,18,0]; 
@@ -18,7 +18,7 @@ myWords[1] = s_player;
 myWords[2] = Test;
 myWords[3] = Test2;
 myWords[4] = Test2;
-myName = "Carly";
+myName = "Tally";
 
 myScripts[4] = [spawn_mini_game,myWords];
 
