@@ -5,4 +5,16 @@ if(canMove)
 {
 	player_movement();
 }
+if(instance_exists(obj_bed))
+{
+	if(obj_bed.playerInBed && attemptsOutOfBed < attemptsNeededToLeaveBed)
+	{
+		canMove = false;
+	}
+	if(obj_bed.playerInBed && attemptsOutOfBed < attemptsNeededToLeaveBed && keyboard_check_pressed(vk_space))
+	{
+		
+		attemptsOutOfBed++;
+	}
+}
 	

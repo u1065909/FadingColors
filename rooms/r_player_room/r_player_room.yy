@@ -23,7 +23,8 @@
         "fa0b7dbb-050c-42e5-8452-947a2813264f",
         "3e95ea70-dadd-4d20-a8fd-1f7538472be3",
         "d4de81cb-d11d-4cc8-a1d2-ea0eab20f5f3",
-        "cbbd7d05-b661-4ae0-ba25-9e16047814a6"
+        "cbbd7d05-b661-4ae0-ba25-9e16047814a6",
+        "3a457738-a4a8-4ecc-8a54-f0a2a307b32d"
     ],
     "IsDnD": false,
     "layers": [
@@ -250,9 +251,35 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Interactables",
+            "id": "d4261bc0-fa9e-49c7-b991-d4a3a81523a1",
+            "depth": 800,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_59E27C9D","id": "3a457738-a4a8-4ecc-8a54-f0a2a307b32d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_59E27C9D","objId": "b3be11d2-ecaa-4a7b-ae64-1b440a84d9ce","properties": null,"rotation": 0,"scaleX": 2.5,"scaleY": 3.5,"mvc": "1.0","x": 32,"y": 416}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Walls",
             "id": "d9c2f3c5-cc85-41c9-a3f2-999801147b41",
-            "depth": 800,
+            "depth": 900,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -285,7 +312,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Shader",
             "id": "bc6d435a-4293-4cdd-92d5-c4bbf58ef48b",
-            "depth": 900,
+            "depth": 1000,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
