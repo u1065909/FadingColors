@@ -727,6 +727,14 @@
             }
         },
         {
+            "Key": "76799250-20d1-4490-a704-30cdb3a4df1b",
+            "Value": {
+                "id": "74afa4e8-5438-4ab8-a8f8-1487d87a486c",
+                "resourcePath": "sprites\\Living_Room\\Living_Room.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "782e6c4a-4b55-470a-b104-102c015a0afa",
             "Value": {
                 "id": "cb8cf6cf-8af4-4959-a250-f5a979abaf1f",
