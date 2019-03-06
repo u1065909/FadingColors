@@ -7,13 +7,9 @@ event_inherited();
 wasTalkedTo = false
 if(obj_game_controller.day == 1)
 {
-	myText[0] = "Hi"
-	myText[1] = "I am your cat"
-	myText[2] = "pet me and it just may bring color back into your world"
-	myText[3] = "I mean"
-	myText[4] = "MEOW"
-	myTextCol[2] = [29, c_red,35,c_white];  
-	myEffects[2] = [29, 2,35,0]; 
+	myText[0] = "Your cat Tally is resting against the wall"
+	myText[1] = "*you pet her for a couple moments*"
+	myText[2] = "*you feel calm*"
 	speaker = -3;
 	myScripts[2] = [gain_color,5];
 	//Word sprites under here
