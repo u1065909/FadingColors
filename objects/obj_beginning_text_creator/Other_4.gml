@@ -38,7 +38,7 @@ if(obj_game_controller.day == 1)
 			-1,
 			-1,
 			-1,
-			 [fadeIn,.02],
+			 [[fadeIn,.02]],
 			);
 		}
 		else
