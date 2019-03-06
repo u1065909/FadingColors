@@ -4,21 +4,28 @@
 // Inherit the parent event
 
 event_inherited();
-myText[0] = "Hi"
-myText[1] = "I am a cat"
-myText[2] = "Become More Happy"
-myText[3] = "Yea"
-myText[4] = "MEOW"
-myTextCol[2] = [13, c_red,18,c_white];  
-myEffects[2] = [13, 2,18,0]; 
-speaker = -1;
+wasTalkedTo = false
+if(obj_game_controller.day == 1)
+{
+myText[0] = "Heya"
+myText[1] = "Are you ready for school tommorow?"
+myText[2] = "It'll be tough but your siblings did great."
+myText[3] = "Make me proud."
+
+myTextCol[1] = [18, c_red,25,c_white];
+myTextCol[2] = [22, c_red,31,c_white];
+myTextCol[2] = [38, c_red,43,c_white];
+myTextCol[3] = [9, c_red,15,c_white];
+
+speaker = +2;
 myScripts[2] = [gain_color,5];
-myWords[0] = s_gui;
-myWords[1] = s_player;
-myWords[2] = Test;
-myWords[3] = Test2;
-myWords[4] = Test2;
+myWords[1] = s_words_temp;
+myWords[2] = s_words_temp;
+myWords[2] = s_words_temp;
+myWords[3] = s_words_temp;
 
-myScripts[4] = [spawn_mini_game,myWords];
-
+myName = "Dad";
+myScripts[3] = [setTalkedToTrue,obj_dad];
+myScripts[3] = [spawn_mini_game,myWords];
+}
 
