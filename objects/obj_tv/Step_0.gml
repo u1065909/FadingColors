@@ -4,7 +4,7 @@
 // Inherit the parent event
 event_inherited();
 
-if(obj_game_controller.day == 1)
+if(obj_game_controller.day == 1&& wasTalkedTo)
 {
 	myText = -1;
 	myText[0] = "Something that doesn't bring up your happiness";

@@ -15,5 +15,6 @@ else if(obj_game_controller.day == 1 && !playerInBed && arrayContains(room_get_n
 {
 	playerInBed = false;
 	myText[0] = "Time For bed"
+	myTextCol = -1;
     myScripts[0] = [fadeOut,.02];	
 }
