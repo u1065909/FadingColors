@@ -13,11 +13,11 @@ if(instance_exists(obj_bed))
 	}
 	if(obj_bed.playerInBed && attemptsOutOfBed < attemptsNeededToLeaveBed && keyboard_check_pressed(vk_space))
 	{
-		
 		attemptsOutOfBed++;
 	}
 	if(obj_bed.playerInBed && attemptsOutOfBed == attemptsNeededToLeaveBed)
 	{
+		x += 100;
 		canMove = true;
 		obj_bed.playerInBed = false;
 	}

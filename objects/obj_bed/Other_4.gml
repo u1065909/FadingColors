@@ -3,7 +3,7 @@
 if(obj_game_controller.day == 1 && playerInBed)
 {
 	myText[0] = "Press Space To Get Out Of Bed"
-	myTextCol[0] = [5, c_green,11,c_white];  
+	myTextCol[0] = [6, c_green,12,c_white];  
 	speaker = -1;
 
 }
