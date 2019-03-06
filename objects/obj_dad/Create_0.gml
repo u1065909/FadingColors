@@ -15,7 +15,7 @@ myText[3] = "Make me proud."
 myTextCol[1] = [18, c_red,25,c_white];
 myTextCol[2] = [22, c_red,31,c_white];
 myTextCol[2] = [38, c_red,43,c_white];
-myTextCol[3] = [9, c_red,15,c_white];
+myTextCol[3] = [9, c_red,14,c_white];
 
 speaker = +2;
 myScripts[2] = [gain_color,5];

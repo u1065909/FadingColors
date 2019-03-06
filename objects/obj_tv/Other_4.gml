@@ -3,8 +3,8 @@
 if(obj_game_controller.day == 1)
 {
 	
-	myText[0] = "Something about the t.v maybe add mini game here if you want"
-	myText[1] = "Now bring up happiness";
+	myText[0] = "*The t.v. lights up with colors from your favorite t.v. show*"
+	myText[1] = "*You feel satisfied*";
 	myTextCol[0] = -1;
 	speaker = -1;
 	myScripts[0] = [setTalkedToTrue,obj_tv];
