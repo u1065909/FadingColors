@@ -2,6 +2,7 @@
 // You can write your code in this editor
 
 // Inherit the parent event
+
 event_inherited();
 
 if (obj_game_controller.day == 1 && !playerInBed && !arrayContains(room_get_name(r_living_room),obj_game_controller.roomsVisitedTo))

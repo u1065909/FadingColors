@@ -1,0 +1,1 @@
+argument0.wasTalkedTo = true;

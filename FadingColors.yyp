@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "1fad1553-a8e9-4fe4-9cf0-e2c257d3a0b8",
+            "Value": {
+                "id": "6a606de1-af82-4015-8136-685fc0c1058f",
+                "resourcePath": "views\\1fad1553-a8e9-4fe4-9cf0-e2c257d3a0b8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1fe0d3bf-700a-45bf-bf68-a663eb1eacba",
             "Value": {
                 "id": "25443c3f-c3d1-406a-973b-180f68daec57",
@@ -927,6 +935,14 @@
             }
         },
         {
+            "Key": "94b83494-b4d9-4427-8ae9-44163fbaa13c",
+            "Value": {
+                "id": "847979db-c87f-4653-8294-fb4694a82cc0",
+                "resourcePath": "scripts\\setTalkedToTrue\\setTalkedToTrue.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "95bb1e03-a347-4203-bfc5-68574b099c80",
             "Value": {
                 "id": "52bb2f65-8656-4c4e-91b6-b05e31a0c0a9",
@@ -980,6 +996,14 @@
                 "id": "429e05e6-cc1b-473f-ac2c-a6b178732786",
                 "resourcePath": "sprites\/Carl_The_Kid\/Carl_The_Kid.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9e4309e3-5234-4292-ac53-697c0faef4b7",
+            "Value": {
+                "id": "8f7de9c7-a8d4-4008-8d41-a7eee9673d0a",
+                "resourcePath": "objects\\obj_tv\\obj_tv.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1156,6 +1180,14 @@
                 "id": "9aaff42d-0b99-4a08-a75a-e06fc3735736",
                 "resourcePath": "views\/d133439e-7093-4c56-b04c-46444ee99aee.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d2b46d1e-8d8c-4b76-bf29-9e795f6ea8b3",
+            "Value": {
+                "id": "c06c32c9-daa1-4914-99a0-7bb6293e3013",
+                "resourcePath": "objects\\par_tv\\par_tv.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1357,7 +1389,8 @@
         "bd7a77c8-5fdc-4aa7-b67c-ec61a52d36a1",
         "69b9c21c-fbee-4984-9902-7df35d38cea2",
         "143ce8ed-0d7d-4c57-8fd6-b30a678f5c5c",
-        "07eefc7c-bf1f-49d2-a26c-88fcab313b51"
+        "07eefc7c-bf1f-49d2-a26c-88fcab313b51",
+        "94b83494-b4d9-4427-8ae9-44163fbaa13c"
     ],
     "tutorial": ""
 }
