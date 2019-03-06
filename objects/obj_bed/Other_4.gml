@@ -7,14 +7,12 @@ if(obj_game_controller.day == 1 && playerInBed)
 	speaker = -1;
 
 }
-else if (obj_game_controller.day == 1 && !playerInBed && !arrayContains(room_get_name(r_living_room),obj_game_controller.roomsVisitedTo))
+if(obj_game_controller.day == 1 && !playerInBed && arrayContains(room_get_name(r_living_room),obj_game_controller.roomsVisitedTo))
 {
-	myText[0] = "I can't get in bed yet"
-	speaker = -1;
-	myTextCol[0] = -1;
+	playerInBed = false;
+	
 }
-else if(obj_game_controller.day == 1 && !playerInBed && arrayContains(room_get_name(r_living_room),obj_game_controller.roomsVisitedTo))
+else
 {
-	myText[0] = "Time For bed"
-    myScripts[0] = [fadeOut,.02];	
+	playerInBed = true;
 }

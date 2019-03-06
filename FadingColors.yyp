@@ -559,6 +559,14 @@
             }
         },
         {
+            "Key": "5aadde34-680c-44e5-8352-4a9d3c4c108b",
+            "Value": {
+                "id": "4ea671a8-3c9e-4e19-bb81-7b9df52da453",
+                "resourcePath": "objects\\par_bed\\par_bed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5b8cd4ef-6383-4790-b3a1-43a669b82279",
             "Value": {
                 "id": "26e894dd-abfd-4f57-b05d-1fcb0b9d0c7a",
