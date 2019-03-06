@@ -32,17 +32,13 @@ if(obj_game_controller.day == 1)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 				create_textevent(
-			["My brother once told me that life takes a lot out of you.", 
-			"And he was right.", 
-			" It takes the  time...",
-			" The energy...",
-			"and eventually even the colors start fading away."],
+			["I feel pressure."],
 			-1,
 			-1,
 			-1,
 			-1,
 			-1,
-			 [[doNothing],[doNothing],[doNothing],[doNothing],[fadeIn,.005]],
+			 [fadeIn,.02],
 			);
 		}
 		else
