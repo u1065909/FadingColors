@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "03633853-d048-4335-b0c6-e1016cedf0af",
+            "Value": {
+                "id": "2ff89e80-02b0-4db7-b277-d11f363a78d0",
+                "resourcePath": "sounds\\School_bell\\School_bell.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "067dffec-091e-487f-b8c9-a7c62e7fb051",
             "Value": {
                 "id": "148709f4-3656-406e-80c1-e438e75ef0a2",
@@ -575,6 +583,14 @@
             }
         },
         {
+            "Key": "5b958725-f788-4f7f-bdb4-c8056749f1f0",
+            "Value": {
+                "id": "0464ca8d-ef0a-42dc-a548-94644b9cb183",
+                "resourcePath": "views\\5b958725-f788-4f7f-bdb4-c8056749f1f0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5c52b527-69db-4cdb-bf0e-9975f5a16553",
             "Value": {
                 "id": "5fdf1fca-7f2c-4aa3-a29d-b16cd43b5681",
@@ -839,6 +855,14 @@
             }
         },
         {
+            "Key": "8a8090ba-8be7-44b0-bf4d-7213d32bf517",
+            "Value": {
+                "id": "279c2ffe-b031-428e-ae42-f0f152d9aa52",
+                "resourcePath": "sounds\\Hallway_heavyVent\\Hallway_heavyVent.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8bec2dc0-5ed3-42e2-9dda-db7f46b96429",
             "Value": {
                 "id": "9b22d1a0-8707-451d-bcac-00e421f6c957",
@@ -860,6 +884,14 @@
                 "id": "c454a04a-b414-467c-b9eb-83886932028e",
                 "resourcePath": "sprites\/HiLogan\/HiLogan.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8f9e8f68-3492-4485-ab32-8992aed15743",
+            "Value": {
+                "id": "64ce76b5-c3ad-4a06-914c-e6afcc1ea548",
+                "resourcePath": "sounds\\HallwayClosingDoor_1\\HallwayClosingDoor_1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1207,6 +1239,14 @@
             }
         },
         {
+            "Key": "ea4ed0f8-cb68-459b-9b71-b17602dfce78",
+            "Value": {
+                "id": "9117d7ea-af7d-4347-ae9b-68812213fa12",
+                "resourcePath": "sounds\\park_ambience\\park_ambience.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "eb63ef41-f1fd-4efc-86e9-f74197fc4156",
             "Value": {
                 "id": "ee147d18-ce76-4ff1-b5ff-05287a45b7ce",
@@ -1268,6 +1308,14 @@
                 "id": "feacb8d9-3336-4eb8-8b7f-0749b451d261",
                 "resourcePath": "views\/f84e64d8-fbe5-402d-a7a6-e49d06520325.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f9fee932-4871-432a-a76d-bee9a42c4ff7",
+            "Value": {
+                "id": "4ed00e10-cc50-4153-b76d-2b8856585283",
+                "resourcePath": "sounds\\HallwayClosingDoor_2\\HallwayClosingDoor_2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
