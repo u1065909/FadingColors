@@ -495,14 +495,6 @@
             }
         },
         {
-            "Key": "4a9de7e9-050f-43d3-a3ef-4be3e6fa30f6",
-            "Value": {
-                "id": "ce0e3aae-9aa5-4980-bbc8-3a721193b705",
-                "resourcePath": "sprites\\Rando\\Rando.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "4c37f250-d899-4909-b668-da74ce1bf597",
             "Value": {
                 "id": "4ec6a1f5-a8e5-4432-836c-2a80db20fe97",
@@ -779,14 +771,6 @@
             "Value": {
                 "id": "90c757df-e9b5-4203-af54-e274ccdaad3a",
                 "resourcePath": "sprites\/spr_dialogue_wall\/spr_dialogue_wall.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "80bd3105-b4d5-4837-9e08-65964430150a",
-            "Value": {
-                "id": "619b1d25-5ed1-480d-a6b1-b970b1a0b94b",
-                "resourcePath": "sprites\/Player_House\/Player_House.yy",
                 "resourceType": "GMSprite"
             }
         },

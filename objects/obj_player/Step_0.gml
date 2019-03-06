@@ -16,5 +16,10 @@ if(instance_exists(obj_bed))
 		
 		attemptsOutOfBed++;
 	}
+	if(obj_bed.playerInBed && attemptsOutOfBed == attemptsNeededToLeaveBed)
+	{
+		canMove = true;
+		obj_bed.playerInBed = false;
+	}
 }
 	
