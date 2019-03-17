@@ -6,4 +6,5 @@ if(obj_player.colorMeter < 1)
 	fadeOut(.03);
 	obj_player.alarm[2] = room_speed * 2;
 	//Player Loses
+	
 }

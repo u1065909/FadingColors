@@ -5,7 +5,7 @@ if(canMove)
 {
 	player_movement();
 }
-if(instance_exists(obj_bed))
+if(instance_exists(obj_bed) && !leftBed)
 {
 	if(obj_bed.playerInBed && attemptsOutOfBed < attemptsNeededToLeaveBed)
 	{
@@ -19,6 +19,7 @@ if(instance_exists(obj_bed))
 	{
 		x += 100;
 		canMove = true;
+		leftBed = true;
 		obj_bed.playerInBed = false;
 	}
 }
