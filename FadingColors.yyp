@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "236bfa54-597f-4158-b36b-fd87ca95db2a",
+            "Value": {
+                "id": "a50b294b-7e87-4070-82a6-b77c3ff91c32",
+                "resourcePath": "scripts\\goToNextDay\\goToNextDay.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "24ea9cb3-836e-4274-b1dd-d0642b958409",
             "Value": {
                 "id": "cd77bba1-c32f-4973-9ed1-54842924be5c",
@@ -1031,6 +1039,14 @@
             }
         },
         {
+            "Key": "a513938d-15f4-4c13-b987-0131a862eb49",
+            "Value": {
+                "id": "b3e646a1-2602-4cc5-aa84-39b0a8450588",
+                "resourcePath": "scripts\\resetPlayer\\resetPlayer.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a57e6b2e-b8b3-412c-b268-ad02f5ab79a8",
             "Value": {
                 "id": "1d4f2dba-7d37-4b57-bba5-1447b6622362",
@@ -1414,7 +1430,9 @@
         "69b9c21c-fbee-4984-9902-7df35d38cea2",
         "143ce8ed-0d7d-4c57-8fd6-b30a678f5c5c",
         "07eefc7c-bf1f-49d2-a26c-88fcab313b51",
-        "94b83494-b4d9-4427-8ae9-44163fbaa13c"
+        "94b83494-b4d9-4427-8ae9-44163fbaa13c",
+        "236bfa54-597f-4158-b36b-fd87ca95db2a",
+        "a513938d-15f4-4c13-b987-0131a862eb49"
     ],
     "tutorial": ""
 }
