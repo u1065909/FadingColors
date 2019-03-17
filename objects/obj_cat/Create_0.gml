@@ -13,7 +13,7 @@ if(obj_game_controller.day == 1)
 	speaker = -1;
 	myScripts[2] = [gain_color,5];
 	myName = "Tally";
-	myScripts[3] = [addToTalkedArray,obj_cat];
+	myScripts[1] = [addToTalkedArray,obj_cat];
 
 }
 if(obj_game_controller.day == 2)

@@ -3,6 +3,7 @@
 
 // Inherit the parent event
 event_inherited();
+//Check if Talked to already
 if(obj_game_controller.day == 1 && arrayContains(obj_mom,obj_game_controller.objsTalkedTo))
 {
 	myText = -1;
