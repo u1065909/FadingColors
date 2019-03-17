@@ -12,14 +12,8 @@ if(obj_game_controller.day == 1)
 	myText[2] = "*you feel calm*"
 	speaker = -1;
 	myScripts[2] = [gain_color,5];
-	//Word sprites under here
-	myWords[0] = s_gui;
-	myWords[1] = s_player;
-	myWords[2] = Test;
-	myWords[3] = Test2;
-	myWords[4] = Test2;
 	myName = "Tally";
-	myScripts[3] = [setTalkedToTrue,obj_cat];
+	myScripts[3] = [addToTalkedArray,obj_cat];
 
 }
 if(obj_game_controller.day == 2)

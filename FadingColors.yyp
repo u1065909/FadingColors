@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "480da48a-f8dc-4afe-a0a2-a7456fd40c9f",
+            "Value": {
+                "id": "71e0b3dd-753e-4564-b707-cbfdfe0b6990",
+                "resourcePath": "scripts\\addToTalkedArray\\addToTalkedArray.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4956c5f8-546a-4324-addf-3c72156bfcda",
             "Value": {
                 "id": "212df021-259c-4cb9-8e26-6606cdeab1dd",
@@ -1428,6 +1436,7 @@
         "6d9b8da2-d304-41f2-952b-3ad517c0be19",
         "bd7a77c8-5fdc-4aa7-b67c-ec61a52d36a1",
         "69b9c21c-fbee-4984-9902-7df35d38cea2",
+        "480da48a-f8dc-4afe-a0a2-a7456fd40c9f",
         "143ce8ed-0d7d-4c57-8fd6-b30a678f5c5c",
         "07eefc7c-bf1f-49d2-a26c-88fcab313b51",
         "94b83494-b4d9-4427-8ae9-44163fbaa13c",

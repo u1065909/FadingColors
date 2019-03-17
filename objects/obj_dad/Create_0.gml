@@ -25,7 +25,6 @@ myWords[2] = s_words_temp;
 myWords[3] = s_words_temp;
 
 myName = "Dad";
-myScripts[3] = [setTalkedToTrue,obj_dad];
-myScripts[3] = [spawn_mini_game,myWords];
+myScripts[3] = [spawn_mini_game,myWords,obj_dad];
 }
 

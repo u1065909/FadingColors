@@ -4,10 +4,10 @@
 // Inherit the parent event
 event_inherited();
 
-if(obj_game_controller.day == 1&& wasTalkedTo)
+if(obj_game_controller.day == 1 && arrayContains(obj_tv,obj_game_controller.objsTalkedTo))
 {
 	myText = -1;
 	myText[0] = "Something that doesn't bring up your happiness";
-	myScripts[1] = -1;
+	myScripts = -1;
 	speaker = -1;
 }

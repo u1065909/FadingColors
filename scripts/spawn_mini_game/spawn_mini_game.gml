@@ -1,3 +1,4 @@
+addToTalkedArray(argument1);
 var view = view_camera[0];
 offset = 722;
 var cam_x = camera_get_view_x(view);
