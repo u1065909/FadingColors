@@ -20,6 +20,8 @@ if(instance_exists(obj_bed) && !leftBed)
 		x += 100;
 		canMove = true;
 		leftBed = true;
+		show_debug_message("HEY");
+		show_debug_message(attemptsOutOfBed);
 	}
 }
 	

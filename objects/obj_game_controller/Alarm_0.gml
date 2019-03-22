@@ -15,14 +15,15 @@ if(room == r_next_day)
 }
 else if(room == r_game_over)
 {
+	show_debug_message("DEAD");
 	room_id = -1;
 	//Reset Arrays
 	roomsVisitedTo = -1;
 	roomsVisitedTo[0] = 0;
 	objsTalkedTo = -1;
 	objsTalkedTo[0] = 0;
-	
-	obj_player.leftBed = false;
+	resetPlayer();
+	obj_player.colorMeter = 75;
 	go_to_room();
 }
 else if(!arrayContains(room_get_name(room),roomsVisitedTo))

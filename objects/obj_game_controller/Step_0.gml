@@ -10,6 +10,8 @@ if(day != prev_day)
 	roomsVisitedBack[0] = 0;
 }
 */
+if(keyboard_check_pressed(vk_escape)){ game_end(); }
+if(keyboard_check_pressed(ord("p"))){ game_restart(); }
 if(currentRoom != room)
 {
 	show_debug_message(currentRoom);
