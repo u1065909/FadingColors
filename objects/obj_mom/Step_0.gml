@@ -3,6 +3,7 @@
 
 // Inherit the parent event
 event_inherited();
+detection_radius = 50;
 //Check if Talked to already
 if(obj_game_controller.day == 1 && arrayContains(obj_mom,obj_game_controller.objsTalkedTo))
 {

@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0c50e5a4-2263-41ed-bdf3-c63dd4a74be9",
+            "Value": {
+                "id": "6de13ca3-1f09-4932-a2a2-1b3364197db2",
+                "resourcePath": "scripts\\resetGameController\\resetGameController.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0c7d51c4-ce7c-4014-93d4-b3674cca2f57",
             "Value": {
                 "id": "5c37a095-03e7-42c0-8a98-544116dda14d",
@@ -1441,7 +1449,8 @@
         "07eefc7c-bf1f-49d2-a26c-88fcab313b51",
         "94b83494-b4d9-4427-8ae9-44163fbaa13c",
         "236bfa54-597f-4158-b36b-fd87ca95db2a",
-        "a513938d-15f4-4c13-b987-0131a862eb49"
+        "a513938d-15f4-4c13-b987-0131a862eb49",
+        "0c50e5a4-2263-41ed-bdf3-c63dd4a74be9"
     ],
     "tutorial": ""
 }

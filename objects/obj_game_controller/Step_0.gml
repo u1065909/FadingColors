@@ -20,3 +20,19 @@ if(currentRoom != room)
 	obj_player.alarm[1] = room_speed;
 	currentRoom = room;
 }
+
+//This is for thoughts for the player after talking to an npc
+if(day == 1 && arrayContains(obj_mom,objsTalkedTo)
+	&& arrayContains(obj_dad,objsTalkedTo)
+	&& !arrayContains(obj_dad,thoughtsActivatedOnObjs)
+	&& !arrayContains(obj_mom,thoughtsActivatedOnObjs) 
+	&& !instance_exists(obj_dialogue_wall)
+	&& !instance_exists(obj_textbox))
+{
+	thoughtsActivatedOnObjs[array_length_1d(thoughtsActivatedOnObjs)] = obj_mom;
+	thoughtsActivatedOnObjs[array_length_1d(thoughtsActivatedOnObjs)] = obj_dad;
+	create_textevent(
+		["I should probably go to bed and get ready for school tomorrow"], 
+		-1,
+		);
+}

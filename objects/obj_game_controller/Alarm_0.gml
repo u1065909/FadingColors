@@ -9,19 +9,23 @@ if(room == r_next_day)
 	roomsVisitedTo[0] = 0;
 	objsTalkedTo = -1;
 	objsTalkedTo[0] = 0;
+	thoughtsActivatedOnObjs = -1;
+	thoughtsActivatedOnObjs[0] = 0;
 	
 	obj_player.leftBed = false;
 	go_to_room();
 }
 else if(room == r_game_over)
 {
-	show_debug_message("DEAD");
 	room_id = -1;
 	//Reset Arrays
 	roomsVisitedTo = -1;
 	roomsVisitedTo[0] = 0;
 	objsTalkedTo = -1;
 	objsTalkedTo[0] = 0;
+	thoughtsActivatedOnObjs = -1;
+	thoughtsActivatedOnObjs[0] = 0;
+	
 	resetPlayer();
 	obj_player.colorMeter = 75;
 	go_to_room();
