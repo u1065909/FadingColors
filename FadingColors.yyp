@@ -419,6 +419,25 @@
             }
         },
         {
+            "Key": "166eb857-f9eb-4f6e-83d7-abf68ac6014e",
+            "Value": {
+                "id": "033a60bc-8fc3-4f1e-9457-06fc67f72551",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Classroom\/Classroom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "16fe1d1a-9107-4f99-a519-e279b6c761b0",
             "Value": {
                 "id": "e7a73f27-6627-40fa-a5bc-c099246ba8f4",
@@ -1536,6 +1555,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/Test\/Test.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "64afe86d-8bdd-4498-b1e3-f4bfb4cdcdec",
+            "Value": {
+                "id": "56f482bc-86c9-40de-986f-390d2a51eec4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Hallway\/Hallway.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2924,6 +2962,25 @@
                 ],
                 "resourcePath": "objects\/par_tv\/par_tv.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d2d78378-d18f-4ca6-b417-40c60cb3c647",
+            "Value": {
+                "id": "a2044591-3ae6-4997-8392-7226aa02b8ae",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/the_fountain\/the_fountain.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
