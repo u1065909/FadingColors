@@ -1,25 +1,27 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(instance_exists(obj_textbox)) exit;
+if(instance_exists(obj_textbox) || obj_black_fade.blackFadeAlpha > 0) exit;
 if(canMove)
 {
 	player_movement();
 }
-if(instance_exists(obj_bed))
+if(instance_exists(obj_bed) && !leftBed)
 {
-	if(obj_bed.playerInBed && attemptsOutOfBed < attemptsNeededToLeaveBed)
+	if(attemptsOutOfBed < attemptsNeededToLeaveBed)
 	{
 		canMove = false;
 	}
-	if(obj_bed.playerInBed && attemptsOutOfBed < attemptsNeededToLeaveBed && keyboard_check_pressed(vk_space))
+	if(attemptsOutOfBed < attemptsNeededToLeaveBed && keyboard_check_pressed(vk_space))
 	{
 		attemptsOutOfBed++;
 	}
-	if(obj_bed.playerInBed && attemptsOutOfBed == attemptsNeededToLeaveBed)
+	if(attemptsOutOfBed == attemptsNeededToLeaveBed)
 	{
 		x += 100;
 		canMove = true;
-		obj_bed.playerInBed = false;
+		leftBed = true;
+		show_debug_message("HEY");
+		show_debug_message(attemptsOutOfBed);
 	}
 }
 	

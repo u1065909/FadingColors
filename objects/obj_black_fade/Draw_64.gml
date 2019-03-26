@@ -22,6 +22,7 @@ if(shouldFadeOut)
 	{
 		blackFadeAlpha = 0;
 		shouldFadeOut = false;
+		
 	}
 }
 

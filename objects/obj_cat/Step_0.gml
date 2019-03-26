@@ -3,7 +3,8 @@
 
 // Inherit the parent event
 event_inherited();
-if(obj_game_controller.day == 1 && wasTalkedTo)
+//Check if Talked to already
+if(obj_game_controller.day == 1 && arrayContains(obj_cat,obj_game_controller.objsTalkedTo))
 {
 	myText = -1;
 	myScripts = -1;

@@ -1,6 +1,36 @@
 /// @description Checks if the room has been visited if so add to visited to
 // You can write your code in this editor
-if(!arrayContains(room_get_name(room),roomsVisitedTo))
+if(room == r_next_day)
+{
+	day++;
+	room_id--;
+	//Reset Arrays
+	roomsVisitedTo = -1;
+	roomsVisitedTo[0] = 0;
+	objsTalkedTo = -1;
+	objsTalkedTo[0] = 0;
+	thoughtsActivatedOnObjs = -1;
+	thoughtsActivatedOnObjs[0] = 0;
+	
+	obj_player.leftBed = false;
+	go_to_room();
+}
+else if(room == r_game_over)
+{
+	room_id = -1;
+	//Reset Arrays
+	roomsVisitedTo = -1;
+	roomsVisitedTo[0] = 0;
+	objsTalkedTo = -1;
+	objsTalkedTo[0] = 0;
+	thoughtsActivatedOnObjs = -1;
+	thoughtsActivatedOnObjs[0] = 0;
+	
+	resetPlayer();
+	obj_player.colorMeter = 75;
+	go_to_room();
+}
+else if(!arrayContains(room_get_name(room),roomsVisitedTo))
 {
 	roomsVisitedTo[array_length_1d(roomsVisitedTo)] = room_get_name(room);
 }

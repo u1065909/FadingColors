@@ -4,17 +4,37 @@
 // Inherit the parent event
 
 event_inherited();
+objectsTalkedTo = obj_game_controller.objsTalkedTo;
+if(obj_player.leftBed)
+{
+	if (obj_game_controller.day == 1 && !arrayContains(obj_dad,objectsTalkedTo)&&!arrayContains(obj_mom,objectsTalkedTo))
+	{
+		myText[0] = "I can't get in bed yet"
+		speaker = -1;
+		myTextCol[0] = -1;
+	}
+	else if(obj_game_controller.day == 1 && arrayContains(obj_dad,objectsTalkedTo) && arrayContains(obj_mom,objectsTalkedTo))
+	{
+		playerInBed = false;
+		myText[0] = "Time For bed"
+		myTextCol = -1;
+		myScripts[0] = [goToNextDay];	
+	}
+	
+	if (obj_game_controller.day == 2 && !arrayContains(room_get_name(r_living_room),obj_game_controller.roomsVisitedTo))
+	{
+		myText[0] = "I promised my parents I would go to school today"
+		speaker = -1;
+		myTextCol[0] = -1;
+	}
+	else if(obj_game_controller.day == 2 && arrayContains(room_get_name(r_living_room),obj_game_controller.roomsVisitedTo))
+	{
+		playerInBed = false;
+		myText[0] = "Time For bed"
+		myTextCol = -1;
+		myScripts[0] = [goToNextDay];	
+	}
+}
 
-if (obj_game_controller.day == 1 && !playerInBed && !arrayContains(room_get_name(r_living_room),obj_game_controller.roomsVisitedTo))
-{
-	myText[0] = "I can't get in bed yet"
-	speaker = -1;
-	myTextCol[0] = -1;
-}
-else if(obj_game_controller.day == 1 && !playerInBed && arrayContains(room_get_name(r_living_room),obj_game_controller.roomsVisitedTo))
-{
-	playerInBed = false;
-	myText[0] = "Time For bed"
-	myTextCol = -1;
-    myScripts[0] = [fadeOut,.02];	
-}
+
+

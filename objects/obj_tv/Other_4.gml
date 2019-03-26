@@ -7,7 +7,7 @@ if(obj_game_controller.day == 1)
 	myText[1] = "*You feel satisfied*";
 	myTextCol[0] = -1;
 	speaker = -1;
-	myScripts[0] = [setTalkedToTrue,obj_tv];
-	myScripts[1] = [gain_color,10];
+	myScripts[0] = [gain_color,10];
+	myScripts[1] = [addToTalkedArray,obj_tv];
 
 }

@@ -17,5 +17,3 @@ if(!freeze and instance_exists(following)){
 //if(keyboard_check_pressed(ord("F"))){ freeze = !freeze;	}
 //if(keyboard_check_pressed(ord("D"))){ debug = !debug;	}
 
-if(keyboard_check_pressed(vk_escape)){ game_end(); }
-if(keyboard_check_pressed(ord("R"))){ game_restart(); }

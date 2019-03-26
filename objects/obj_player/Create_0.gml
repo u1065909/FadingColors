@@ -7,6 +7,8 @@ secondsPerLoss = 1;
 canMove = true;
 attemptsOutOfBed = 0;
 attemptsNeededToLeaveBed = 1;
+leftBed = false;
+lost = false;
 alarm[0] = secondsPerLoss*room_speed;
 if(!persistent)
 {
