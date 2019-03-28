@@ -780,6 +780,25 @@
             }
         },
         {
+            "Key": "28712977-11c6-46c4-987b-022d80b89456",
+            "Value": {
+                "id": "f44062fc-b4ee-4b9a-8e11-3776bef4be42",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Park_Master_3\/Park_Master_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2a713b54-38c6-4578-a92b-8faf44610997",
             "Value": {
                 "id": "7c73a98e-edd1-4bad-8694-f60f3017afb2",
@@ -1328,6 +1347,25 @@
                 ],
                 "resourcePath": "views\/4dfab902-5a7c-4590-8a93-84ddede0debe.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4e12f62d-5402-4234-a248-af333aaa27f7",
+            "Value": {
+                "id": "c3dc719d-1f31-450d-ad4a-8a2bcc830381",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Park_remaster_1\/Park_remaster_1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2410,6 +2448,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/Noah_The_Player\/Noah_The_Player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9694259b-ad89-42e6-b3f3-0fa6b0e3c4fc",
+            "Value": {
+                "id": "f63d54ee-4484-404d-94cc-c25d06b190e3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/park_remaster_2\/park_remaster_2.yy",
                 "resourceType": "GMSprite"
             }
         },
