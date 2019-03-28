@@ -76,7 +76,7 @@ else if(obj_game_controller.day == 2)
 			fadeIn(.02);
 		}
 	}
-	else if(room == r_player_room)
+	else if(room == r_living_room)
 	{
 		
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
