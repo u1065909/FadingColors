@@ -47,11 +47,15 @@ if(obj_game_controller.day == 1)
 		}
 		
 	}
+	if(room == r_Park)
+		fadeIn(.02);
 }
 //DAY 2 ***************************************************************************************************
 else if(obj_game_controller.day == 2)
 {
-	if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
+	if(room == r_player_room )
+	{
+		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
 		["Day 2", 
@@ -71,6 +75,10 @@ else if(obj_game_controller.day == 2)
 		{
 			fadeIn(.02);
 		}
+	}
+	if(room == r_Park)
+		fadeIn(.02);
+	
 }
 //DAY 3 *****************************************************************************************************
 else if(obj_game_controller.day == 3)

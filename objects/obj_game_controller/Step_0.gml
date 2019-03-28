@@ -10,6 +10,20 @@ if(day != prev_day)
 	roomsVisitedBack[0] = 0;
 }
 */
+if(shake){
+	show_debug_message("In here");
+    shakeDur --;
+    viewx += choose(-shakeForce,shakeForce);
+    viewy += choose(-shakeForce,shakeForce);
+    if(shakeDur <= 0){
+        shake = false;
+        shakeDur = 5;
+    }
+}else{
+    viewx = approach(viewx,0,0.3);
+    viewy = approach(viewy,0,0.3);
+}
+
 if(keyboard_check_pressed(vk_escape)){ game_end(); }
 if(keyboard_check_pressed(ord("p"))){ game_restart(); }
 if(currentRoom != room)

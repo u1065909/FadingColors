@@ -13,6 +13,8 @@ else if(obj_game_controller.room_id == 1)
 }
 else if(obj_game_controller.room_id== 2)
 {
+	obj_player.x = 0;
+	obj_player.y =0;
 	room_goto(r_Park);
 }
 else if(obj_game_controller.room_id == 3)
