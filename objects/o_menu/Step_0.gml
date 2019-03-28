@@ -11,4 +11,3 @@ if (menu_index != last_selected) audio_play_sound(snd_menu_switch,1,false);
 
 last_selected = menu_index;
 
-go_to_room(r_player_room)

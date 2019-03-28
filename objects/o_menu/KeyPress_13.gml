@@ -3,7 +3,7 @@
 switch(menu_index) {
 	
 	case 0:
-		show_debug_message("NEW MENU");
+		room_goto(r_player_room);
 		break;
 	case 1:
 		game_end();
