@@ -267,6 +267,25 @@
             }
         },
         {
+            "Key": "0c5c66ac-2035-4800-99e4-0eaa505c43d5",
+            "Value": {
+                "id": "f24497ad-1c8c-4715-8859-7681fad28f3a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Lamppost\/Lamppost.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c7d51c4-ce7c-4014-93d4-b3674cca2f57",
             "Value": {
                 "id": "5c37a095-03e7-42c0-8a98-544116dda14d",
@@ -378,6 +397,25 @@
                 ],
                 "resourcePath": "sounds\/snd_voice1\/snd_voice1.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "11aa04c6-7c5a-4162-ac95-29f4d6f0440b",
+            "Value": {
+                "id": "ec19cb91-fd30-4628-b24c-9d47d83a3db0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Fountain\/Fountain.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -701,6 +739,25 @@
                 ],
                 "resourcePath": "sprites\/Danny_The_Dad\/Danny_The_Dad.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "228ab65b-672d-4ff1-bd39-850143ded37d",
+            "Value": {
+                "id": "5f2e556c-c626-4d7e-bfb9-6f93842636bd",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/DepthChange\/DepthChange.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -2832,6 +2889,25 @@
             }
         },
         {
+            "Key": "b88f3145-e9af-44be-bd88-1c88b6d1d029",
+            "Value": {
+                "id": "ff1f1886-2f55-468d-bc93-8753215e5439",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Bush\/Bush.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ba67c66b-9a07-4e70-816b-6cd3857290f4",
             "Value": {
                 "id": "1a836beb-ff8a-4a83-a376-009d57f65f5e",
@@ -3079,6 +3155,25 @@
             }
         },
         {
+            "Key": "d0d11d4b-ac18-4849-b89b-493522677d56",
+            "Value": {
+                "id": "a6a5699b-e963-4e00-9320-1fab90a37462",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Bench\/Bench.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d133439e-7093-4c56-b04c-46444ee99aee",
             "Value": {
                 "id": "9aaff42d-0b99-4a08-a75a-e06fc3735736",
@@ -3170,6 +3265,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/player_room\/player_room.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d8ded6eb-d0b7-4bbd-a4d4-b01eb559652e",
+            "Value": {
+                "id": "bc697650-33a3-44ee-b797-b7c88e9aee16",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Grass_Path\/Grass_Path.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3601,7 +3715,8 @@
         "236bfa54-597f-4158-b36b-fd87ca95db2a",
         "a513938d-15f4-4c13-b987-0131a862eb49",
         "0c50e5a4-2263-41ed-bdf3-c63dd4a74be9",
-        "6d6a62d2-40a9-4918-933b-0fc76c99c6d1"
+        "6d6a62d2-40a9-4918-933b-0fc76c99c6d1",
+        "228ab65b-672d-4ff1-bd39-850143ded37d"
     ],
     "tutorial": ""
 }

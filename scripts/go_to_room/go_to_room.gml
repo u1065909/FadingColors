@@ -1,4 +1,5 @@
 obj_game_controller.room_id++;
+
 if(obj_game_controller.room_id == 0)
 {
 	obj_player.x = 64;

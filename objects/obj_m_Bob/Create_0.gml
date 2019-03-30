@@ -4,11 +4,8 @@
 // Inherit the parent event
 
 event_inherited();
-myText[0] = "Hi"
-myText[1] = "I am a cat"
-myText[2] = "Become More Happy"
-myText[3] = "Yea"
-myText[4] = "MEOW"
+myText[0] = "did you do you today’s homework?"
+
 myTextCol[2] = [13, c_red,18,c_white];  
 myEffects[2] = [13, 2,18,0]; 
 speaker = -1;

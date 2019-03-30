@@ -10,6 +10,7 @@ if(day != prev_day)
 	roomsVisitedBack[0] = 0;
 }
 */
+
 if(shake){
 	show_debug_message("In here");
     shakeDur --;

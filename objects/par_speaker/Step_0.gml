@@ -19,3 +19,4 @@ if(point_in_rectangle(playerobject.x, playerobject.y, x-dr, y-dr, x+dr, y+dr)){
 		myTextbox = noone;
 	}
 }
+DepthChange();

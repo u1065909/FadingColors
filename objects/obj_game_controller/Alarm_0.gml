@@ -11,7 +11,9 @@ if(room == r_next_day)
 	objsTalkedTo[0] = 0;
 	thoughtsActivatedOnObjs = -1;
 	thoughtsActivatedOnObjs[0] = 0;
-	
+	show_debug_message("Next Day");
+	instance_destroy(obj_beginning_text_creator);
+	instance_create_layer(0,0,"Instances",obj_beginning_text_creator);
 	obj_player.leftBed = false;
 	go_to_room();
 }
@@ -25,6 +27,8 @@ else if(room == r_game_over)
 	objsTalkedTo[0] = 0;
 	thoughtsActivatedOnObjs = -1;
 	thoughtsActivatedOnObjs[0] = 0;
+	instance_destroy(obj_beginning_text_creator);
+	instance_create_layer(0,0,"Instances",obj_beginning_text_creator);
 	
 	resetPlayer();
 	obj_player.colorMeter = 75;
