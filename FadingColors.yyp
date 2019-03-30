@@ -552,6 +552,25 @@
             }
         },
         {
+            "Key": "1a5af7c5-5586-4576-a22a-fbac221ebf96",
+            "Value": {
+                "id": "c4777a5d-545a-401b-a971-92ef0be1fd31",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Tree\/Tree.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1b8f7a0c-8cc0-4e13-8ef9-5407c777b799",
             "Value": {
                 "id": "75ad7d4e-0a4b-4abd-b44c-3899ee478bed",
@@ -3608,6 +3627,25 @@
                 ],
                 "resourcePath": "views\/f84e64d8-fbe5-402d-a7a6-e49d06520325.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f8959269-afc2-4a7f-9b52-5d004856cc45",
+            "Value": {
+                "id": "e67c36f6-e1bf-4248-a1ff-fd14ccf53d04",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Grass_and_Path_Final\/Grass_and_Path_Final.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
