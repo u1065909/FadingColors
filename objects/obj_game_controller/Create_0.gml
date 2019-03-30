@@ -9,5 +9,11 @@ objsTalkedTo[0] = 0;
 //This is thoughts that have been activated
 thoughtsActivatedOnObjs[0] = 0;
 currentRoom = -10;
+
+shake = false;
+shakeDur = 5;
+shakeForce = 1;
+viewx = 0;
+viewy = 0;
 //obj_game_controller.roomsVisitedTo[1] = room_get_name(room);
 //arrayAdd(room_get_name(room),obj_game_controller.roomsVisitedTo);
