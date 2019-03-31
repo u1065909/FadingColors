@@ -17,7 +17,7 @@ if(obj_game_controller.day == 1)
 	myTextCol[2] = [38, c_red,43,c_white];
 	myTextCol[3] = [9, c_red,14,c_white];
 
-	speaker = +2;
+	speaker = -1;
 	myScripts[1] = [addToTalkedArray,obj_dad];
 	myScripts[2] = [gain_color,5];
 	myWords[1] = s_words_temp;

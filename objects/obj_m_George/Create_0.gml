@@ -4,11 +4,9 @@
 // Inherit the parent event
 
 event_inherited();
-myText[0] = "Hi"
-myText[1] = "I am a cat"
-myText[2] = "Become More Happy"
-myText[3] = "Yea"
-myText[4] = "MEOW"
+myText[0] = "Youre in my class?"
+myText[1] = "You should've flunked."
+myText[2] = "But i guess thats what happens when your mom begs the teacher to pass you."
 myTextCol[2] = [13, c_red,18,c_white];  
 myEffects[2] = [13, 2,18,0]; 
 speaker = -1;
@@ -18,6 +16,8 @@ myWords[1] = s_player;
 myWords[2] = Test;
 myWords[3] = Test2;
 myWords[4] = Test2;
+
+myName = "George"
 
 myScripts[4] = [spawn_mini_game,myWords];
 

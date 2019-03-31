@@ -4,7 +4,7 @@
 // Inherit the parent event
 
 event_inherited();
-myText[0] = "Sup, i got my ds with me, lunch is gonna be great!"
+myText[0] = "Sup, I got my ds with me, lunch is gonna be great!"
 
 myEffects[2] = [13, 2,18,0]; 
 speaker = -1;
@@ -14,6 +14,7 @@ myWords[1] = s_player;
 myWords[2] = Test;
 myWords[3] = Test2;
 myWords[4] = Test2;
+myName = "Kevin"
 
 myScripts[4] = [spawn_mini_game,myWords];
 
