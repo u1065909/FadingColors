@@ -224,7 +224,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_mom\/obj_mom.yy",
+                "resourcePath": "objects\/Mallory_The_Mom\/Mallory_The_Mom.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -319,7 +319,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_m_Kevin\/obj_m_Kevin.yy",
+                "resourcePath": "objects\/Kevin_The_King\/Kevin_The_King.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -357,7 +357,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_m_Bob\/obj_m_Bob.yy",
+                "resourcePath": "objects\/Tasha_The_Tricky\/Tasha_The_Tricky.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -680,7 +680,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_dad\/obj_dad.yy",
+                "resourcePath": "objects\/Derek_The_Dad\/Derek_The_Dad.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -723,6 +723,25 @@
             }
         },
         {
+            "Key": "1ffc67b9-faad-46c8-b3e8-09684485d0b6",
+            "Value": {
+                "id": "d4f106f9-9058-40ae-9ccb-e3b1d405415b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Sarah\/Sarah.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21cdf0c5-ddd7-4ec2-b554-a168ce61ab6b",
             "Value": {
                 "id": "f7fe300a-a6d4-4854-b689-fc855255e748",
@@ -737,7 +756,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_m_Tony\/obj_m_Tony.yy",
+                "resourcePath": "objects\/Butch_The_Bully\/Butch_The_Bully.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -756,7 +775,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/Danny_The_Dad\/Danny_The_Dad.yy",
+                "resourcePath": "sprites\/Derek\/Derek.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -856,6 +875,25 @@
             }
         },
         {
+            "Key": "265db2bf-1eb5-46ca-8e83-d5c341fa4524",
+            "Value": {
+                "id": "ebe09c15-6466-4ab3-b7fa-6172fca8bbd6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Rachel\/Rachel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "28712977-11c6-46c4-987b-022d80b89456",
             "Value": {
                 "id": "f44062fc-b4ee-4b9a-8e11-3776bef4be42",
@@ -948,6 +986,25 @@
                 ],
                 "resourcePath": "objects\/obj_examplechar\/obj_examplechar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "34c45678-3c44-4a12-b970-d9436e21037c",
+            "Value": {
+                "id": "6a1a5db3-72e0-436e-ad91-afe879d8320a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Butch\/Butch.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1274,6 +1331,25 @@
             }
         },
         {
+            "Key": "46688e05-2084-41a7-96f9-4e98a0a4712e",
+            "Value": {
+                "id": "4afd47e7-9d61-4540-924e-6aeece6051f3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Jordan\/Jordan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "46b32611-f02a-4cfe-9e2c-fd182217b029",
             "Value": {
                 "id": "ab07e8c6-540e-4e3e-87e6-6271a515baf1",
@@ -1402,7 +1478,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_cat\/obj_cat.yy",
+                "resourcePath": "objects\/Patty_The_Professor\/Patty_The_Professor.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1578,6 +1654,25 @@
             }
         },
         {
+            "Key": "5943b0ba-3fc2-472e-9b95-1cbc8e04cad3",
+            "Value": {
+                "id": "8eb42e2d-33bb-4acd-93f3-62797899b0b5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Tasha\/Tasha.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5aadde34-680c-44e5-8352-4a9d3c4c108b",
             "Value": {
                 "id": "4ea671a8-3c9e-4e19-bb81-7b9df52da453",
@@ -1650,6 +1745,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/Player_Room_Pixel\/Player_Room_Pixel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "60c6fda1-d0d3-44d1-937e-6de45c2807eb",
+            "Value": {
+                "id": "e4db11ad-f201-4e9f-80c3-73158d87e269",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Bridget\/Bridget.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1727,6 +1841,25 @@
                 ],
                 "resourcePath": "objects\/o_shader_end\/o_shader_end.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "66d01aac-ba60-41fa-aa66-beb1f4db6bc7",
+            "Value": {
+                "id": "235deeaf-8972-4fb0-83a2-6514b8098c8c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Myles\/Myles.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2091,25 +2224,6 @@
             }
         },
         {
-            "Key": "7b8485b5-9695-48d7-a7fc-1a65e38cc1b2",
-            "Value": {
-                "id": "9b4eb3b3-11d5-4c34-bfec-6c19a96ab1e3",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/noah_player\/noah_player.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7c03f7ab-2128-4938-aa3e-5514b7770f50",
             "Value": {
                 "id": "67a8e0f8-4032-4b7c-a94b-12db1e973190",
@@ -2144,6 +2258,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_namebox\/spr_namebox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7ca33a18-042a-4dc3-80dc-00e5438a0066",
+            "Value": {
+                "id": "101af622-16e2-43b7-925f-a9f10c5868aa",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Annie_Su\/Annie_Su.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2257,7 +2390,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/Malory_The_Mom\/Malory_The_Mom.yy",
+                "resourcePath": "sprites\/Malory\/Malory.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2523,7 +2656,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/Noah_The_Player\/Noah_The_Player.yy",
+                "resourcePath": "sprites\/Noah\/Noah.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2580,7 +2713,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_f_Veronica\/obj_f_Veronica.yy",
+                "resourcePath": "objects\/Jordan_The_Jokester\/Jordan_The_Jokester.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2618,7 +2751,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_f_Sarah\/obj_f_Sarah.yy",
+                "resourcePath": "objects\/Sarah_The_Socialite\/Sarah_The_Socialite.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2770,7 +2903,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_f_Aubrey\/obj_f_Aubrey.yy",
+                "resourcePath": "objects\/Annie_The_Audacious\/Annie_The_Audacious.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2867,6 +3000,25 @@
                 ],
                 "resourcePath": "views\/b4552d63-8f56-4b95-9eba-76e48affb8e0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b543bee5-a470-4fe7-a2e0-fbf3aad43f98",
+            "Value": {
+                "id": "1039492a-4f95-4da2-9b10-e46efa3585f4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Kevin\/Kevin.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2979,7 +3131,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_m_George\/obj_m_George.yy",
+                "resourcePath": "objects\/Myles_The_Maverick\/Myles_The_Maverick.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -3055,7 +3207,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_f_Natalie\/obj_f_Natalie.yy",
+                "resourcePath": "objects\/Bridget_The_Bookworm\/Bridget_The_Bookworm.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -3492,7 +3644,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_f_Kim\/obj_f_Kim.yy",
+                "resourcePath": "objects\/Rachel_The_Random\/Rachel_The_Random.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -3535,9 +3687,9 @@
             }
         },
         {
-            "Key": "f1412305-b910-45d1-8ac0-6468faa291e6",
+            "Key": "f148669b-b3ea-45c8-9059-25ec192f4924",
             "Value": {
-                "id": "e8fd0509-ca78-4150-90b1-e459a0ba1d6e",
+                "id": "a46d65c3-f395-4b49-9bc0-49e3c9e7ec2c",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -3549,7 +3701,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/Butch_The_Bully\/Butch_The_Bully.yy",
+                "resourcePath": "sprites\/Patty\/Patty.yy",
                 "resourceType": "GMSprite"
             }
         },
