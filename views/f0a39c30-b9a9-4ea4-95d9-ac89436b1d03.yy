@@ -6,7 +6,8 @@
     "children": [
         "b3be11d2-ecaa-4a7b-ae64-1b440a84d9ce",
         "9e4309e3-5234-4292-ac53-697c0faef4b7",
-        "1fad1553-a8e9-4fe4-9cf0-e2c257d3a0b8"
+        "1fad1553-a8e9-4fe4-9cf0-e2c257d3a0b8",
+        "cd926deb-cccf-4265-80cd-d4c5644d3439"
     ],
     "filterType": "GMObject",
     "folderName": "Interactables",
