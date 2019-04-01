@@ -5,7 +5,7 @@
 event_inherited();
 detection_radius = 50;
 //Check if Talked to already
-if(obj_game_controller.day == 1 && arrayContains(obj_mom,obj_game_controller.objsTalkedTo))
+if(obj_game_controller.day == 1 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo))
 {
 	myText = -1;
 	myText[0] = "Have Fun at school"

@@ -18,7 +18,7 @@ if(obj_game_controller.day == 1)
 	myTextCol[3] = [9, c_red,14,c_white];
 
 	speaker = +2;
-	myScripts[1] = [addToTalkedArray,obj_dad];
+	myScripts[1] = [addToTalkedArray,Derek_The_Dad];
 	myScripts[2] = [gain_color,5];
 	myWords[1] = s_words_temp;
 	myWords[2] = s_words_temp;
@@ -26,7 +26,7 @@ if(obj_game_controller.day == 1)
 	myWords[3] = s_words_temp;
 
 	myName = "Dad";
-	myScripts[3] = [spawn_mini_game,myWords,obj_dad];
+	myScripts[3] = [spawn_mini_game,myWords,Derek_The_Dad];
 }
 else if(obj_game_controller.day == 2)
 {

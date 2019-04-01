@@ -7,13 +7,13 @@ event_inherited();
 objectsTalkedTo = obj_game_controller.objsTalkedTo;
 if(obj_player.leftBed)
 {
-	if (obj_game_controller.day == 1 && !arrayContains(obj_dad,objectsTalkedTo)&&!arrayContains(obj_mom,objectsTalkedTo))
+	if (obj_game_controller.day == 1 && !arrayContains(Derek_The_Dad,objectsTalkedTo)&&!arrayContains(Mallory_The_Mom,objectsTalkedTo))
 	{
 		myText[0] = "I can't get in bed yet"
 		speaker = -1;
 		myTextCol[0] = -1;
 	}
-	else if(obj_game_controller.day == 1 && arrayContains(obj_dad,objectsTalkedTo) && arrayContains(obj_mom,objectsTalkedTo))
+	else if(obj_game_controller.day == 1 && arrayContains(Derek_The_Dad,objectsTalkedTo) && arrayContains(Mallory_The_Mom,objectsTalkedTo))
 	{
 		playerInBed = false;
 		myText[0] = "Time For bed"

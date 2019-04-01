@@ -37,15 +37,15 @@ if(currentRoom != room)
 }
 
 //This is for thoughts for the player after talking to an npc
-if(day == 1 && arrayContains(obj_mom,objsTalkedTo)
-	&& arrayContains(obj_dad,objsTalkedTo)
-	&& !arrayContains(obj_dad,thoughtsActivatedOnObjs)
-	&& !arrayContains(obj_mom,thoughtsActivatedOnObjs) 
+if(day == 1 && arrayContains(Mallory_The_Mom,objsTalkedTo)
+	&& arrayContains(Derek_The_Dad,objsTalkedTo)
+	&& !arrayContains(Derek_The_Dad,thoughtsActivatedOnObjs)
+	&& !arrayContains(Mallory_The_Mom,thoughtsActivatedOnObjs) 
 	&& !instance_exists(obj_dialogue_wall)
 	&& !instance_exists(obj_textbox))
 {
-	thoughtsActivatedOnObjs[array_length_1d(thoughtsActivatedOnObjs)] = obj_mom;
-	thoughtsActivatedOnObjs[array_length_1d(thoughtsActivatedOnObjs)] = obj_dad;
+	thoughtsActivatedOnObjs[array_length_1d(thoughtsActivatedOnObjs)] = Mallory_The_Mom;
+	thoughtsActivatedOnObjs[array_length_1d(thoughtsActivatedOnObjs)] = Derek_The_Dad;
 	create_textevent(
 		["I should probably go to bed and get ready for school tomorrow"], 
 		-1,
