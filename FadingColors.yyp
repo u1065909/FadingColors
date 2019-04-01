@@ -2566,6 +2566,25 @@
             }
         },
         {
+            "Key": "8d0cb131-b04d-414d-b134-b1fbe324a2a9",
+            "Value": {
+                "id": "0e62e2a5-cd7b-4061-9481-ae9cd2f84859",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Class_No_items\/Class_No_items.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8f7c0266-6f3b-49bc-8fd7-688eed9405a9",
             "Value": {
                 "id": "c454a04a-b414-467c-b9eb-83886932028e",
