@@ -47,8 +47,6 @@ if(obj_game_controller.day == 1)
 		}
 		
 	}
-	if(room == r_Park)
-		fadeIn(.02);
 }
 //DAY 2 ***************************************************************************************************
 else if(obj_game_controller.day == 2)

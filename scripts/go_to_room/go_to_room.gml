@@ -20,10 +20,14 @@ else if(obj_game_controller.room_id== 2)
 }
 else if(obj_game_controller.room_id == 3)
 {
+	obj_player.x = 0;
+	obj_player.y =0;
 	room_goto(r_hallway);
 }
 else if(obj_game_controller.room_id == 4)
 {
+	obj_player.x = 0;
+	obj_player.y =0;
 	room_goto(r_classroom);
 }
 else if(obj_game_controller.room_id == 5)
