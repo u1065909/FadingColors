@@ -1497,7 +1497,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sounds\/music\/music.yy",
+                "resourcePath": "sounds\/mFadingColors\/mFadingColors.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -2145,6 +2145,25 @@
                 ],
                 "resourcePath": "scripts\/go_to_room\/go_to_room.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "70fede33-2864-401b-b102-5a9132277a66",
+            "Value": {
+                "id": "e11dc067-1ed2-4709-a6d4-01b539097693",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Menu_background\/Menu_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2984,6 +3003,25 @@
             }
         },
         {
+            "Key": "a75af6df-92b5-48a5-a327-3bfb15bda08b",
+            "Value": {
+                "id": "4e36f590-943f-436b-9ca7-45aa56743813",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oMusic\/oMusic.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a7c6a270-3387-4588-a692-b0eef2e3d561",
             "Value": {
                 "id": "40b541ad-aa3a-441f-8f32-9bc8db59c106",
@@ -3304,6 +3342,25 @@
                 ],
                 "resourcePath": "views\/c2858bfd-4200-4816-a0ea-e6aa131528de.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c521edfc-9dde-4801-a746-f83dc2b12dd1",
+            "Value": {
+                "id": "ae30f137-c0f8-4fd4-bfea-f10e08c51e8d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/noisyhallway\/noisyhallway.yy",
+                "resourceType": "GMSound"
             }
         },
         {
