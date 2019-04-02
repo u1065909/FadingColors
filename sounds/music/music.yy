@@ -1,14 +1,14 @@
 {
-    "id": "8f9e8f68-3492-4485-ab32-8992aed15743",
+    "id": "4be2c864-5caa-4347-a212-4e9acbe92447",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "HallwayClosingDoor_1",
+    "name": "music",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
-    "kind": 0,
+    "kind": 3,
     "preload": false,
     "sampleRate": 44100,
-    "type": 0,
-    "volume": 1
+    "type": 1,
+    "volume": 0.56
 }

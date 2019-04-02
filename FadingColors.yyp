@@ -1483,6 +1483,25 @@
             }
         },
         {
+            "Key": "4be2c864-5caa-4347-a212-4e9acbe92447",
+            "Value": {
+                "id": "c84960c3-dfeb-4866-a9fb-8cfb17a2c0a8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/music\/music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4c37f250-d899-4909-b668-da74ce1bf597",
             "Value": {
                 "id": "4ec6a1f5-a8e5-4432-836c-2a80db20fe97",
@@ -2601,25 +2620,6 @@
                 ],
                 "resourcePath": "sprites\/HiLogan\/HiLogan.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "8f9e8f68-3492-4485-ab32-8992aed15743",
-            "Value": {
-                "id": "64ce76b5-c3ad-4a06-914c-e6afcc1ea548",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sounds\/HallwayClosingDoor_1\/HallwayClosingDoor_1.yy",
-                "resourceType": "GMSound"
             }
         },
         {
