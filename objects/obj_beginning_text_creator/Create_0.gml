@@ -62,7 +62,8 @@ else if(obj_game_controller.day == 2)
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[doNothing],[doNothing],[doNothing],[fadeIn,.005]],
+		-1,
+		[[doNothing],[fadeIn,.005]],
 		);
 		}
 		else
@@ -82,7 +83,7 @@ else if(obj_game_controller.day == 2)
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[doNothing],[doNothing],[doNothing],[fadeIn,.005]],
+		 [[fadeIn,.005]],
 		);
 		}
 		else
@@ -95,12 +96,13 @@ else if(obj_game_controller.day == 2)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["The Fresh air smells nice"]
+		["The Fresh air smells nice"],
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[doNothing],[doNothing],[doNothing],[fadeIn,.005]],
+		-1,
+		 [[fadeIn,.005]],
 		);
 		}
 		else
@@ -119,7 +121,7 @@ else if(obj_game_controller.day == 2)
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[doNothing],[doNothing],[doNothing],[fadeIn,.005]],
+		 [[fadeIn,.005]],
 		);
 		}
 		else
@@ -138,7 +140,7 @@ else if(obj_game_controller.day == 2)
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[doNothing],[doNothing],[doNothing],[fadeIn,.005]],
+		 [[fadeIn,.005]],
 		);
 		}
 		else
