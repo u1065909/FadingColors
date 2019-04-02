@@ -2148,6 +2148,25 @@
             }
         },
         {
+            "Key": "70fede33-2864-401b-b102-5a9132277a66",
+            "Value": {
+                "id": "e11dc067-1ed2-4709-a6d4-01b539097693",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Menu_background\/Menu_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "737014f7-fe43-4787-af15-308aabd39b98",
             "Value": {
                 "id": "49f914d1-e58e-42d0-84f7-515b30221124",
