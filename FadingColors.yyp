@@ -3307,6 +3307,25 @@
             }
         },
         {
+            "Key": "c521edfc-9dde-4801-a746-f83dc2b12dd1",
+            "Value": {
+                "id": "ae30f137-c0f8-4fd4-bfea-f10e08c51e8d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/noisyhallway\/noisyhallway.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c86ccb4c-1bfc-42cb-8e07-614051494a98",
             "Value": {
                 "id": "b48cff4c-2299-42f7-b3fe-0230ffe492ea",
