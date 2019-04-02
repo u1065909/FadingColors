@@ -5,12 +5,14 @@
 
 event_inherited();
 myText[0] = "Did you do the 'what we did over the summer' essay?"
-myText[1] = " It was SO easy"
-myTextCol[2] = [13, c_red,18,c_white];  
-myEffects[2] = [13, 2,18,0]; 
+myText[1] = "It was SO easy"
+myTextCol[0] = [17, c_red,44,c_white];  
+myTextCol[1] = [11, c_red,15,c_white];  
 speaker = -1;
 myScripts[2] = [gain_color,5];
 myWords[0] = s_words_temp
+myWords[1] = s_words_temp
+
 
 myName = "Bridget"
 
