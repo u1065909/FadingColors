@@ -8,6 +8,6 @@ if(obj_game_controller.day == 1 && arrayContains(obj_cat,obj_game_controller.obj
 {
 	myText = -1;
 	myScripts = -1;
-	myText[0] = "Can't pet me again";
+	myText[0] = "*Talley steps away from you, you think she has had enough pets for now*";
 	speaker = -1;
 }
