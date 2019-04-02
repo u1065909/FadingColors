@@ -1236,6 +1236,25 @@
             }
         },
         {
+            "Key": "40599f5c-6f64-4699-b3d7-f039d27eb234",
+            "Value": {
+                "id": "b2815feb-e981-423f-a048-de499ff3ef1e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Plant\/Plant.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "410e7bd0-44dc-488f-b5d7-569601a21186",
             "Value": {
                 "id": "3fbd0411-0610-4c57-91d2-a65dbd9831f7",
@@ -1480,6 +1499,25 @@
                 ],
                 "resourcePath": "shaders\/sh_saturation\/sh_saturation.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "4bbcd4df-be86-4106-87be-c67f63f42faa",
+            "Value": {
+                "id": "3dce900e-ac3f-4b3c-957d-63244b6d6fff",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Lamp_Book\/Lamp_Book.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2258,6 +2296,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/s_gui\/s_gui.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "799d8298-4537-4c0f-8149-4d6ee5d7a6f4",
+            "Value": {
+                "id": "877c7753-778d-4646-960f-bbbf5d073e73",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Desk_Chair\/Desk_Chair.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3478,6 +3535,25 @@
             }
         },
         {
+            "Key": "d3b9c040-3d60-4617-9020-d0d0518043c6",
+            "Value": {
+                "id": "49d9dd33-94ae-42ec-92ce-76cf483ad46b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Door\/Door.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d48d534a-ddea-4fe0-81e7-3d0484c25110",
             "Value": {
                 "id": "b452953c-43dc-4c69-bc87-485b4bb1f46c",
@@ -3858,6 +3934,44 @@
             }
         },
         {
+            "Key": "f5c04686-f4bb-4c29-9fa2-304cbf53ba23",
+            "Value": {
+                "id": "967789cd-678a-4a3a-81ee-8d491421b441",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Chair\/Chair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f7bdac08-3d80-4979-b13e-b0f8bd4d7a48",
+            "Value": {
+                "id": "e78810c2-7f6d-4683-9e4e-d3d01f732a1e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/TableTop\/TableTop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f84e64d8-fbe5-402d-a7a6-e49d06520325",
             "Value": {
                 "id": "feacb8d9-3336-4eb8-8b7f-0749b451d261",
@@ -3931,6 +4045,25 @@
                 ],
                 "resourcePath": "sounds\/HallwayClosingDoor_2\/HallwayClosingDoor_2.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "fdd8e3d7-a460-4fd6-8b0a-8b0e6b6a0e11",
+            "Value": {
+                "id": "8507bb88-2d49-4c04-b5c2-c16e2ea2970d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/PC\/PC.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
