@@ -1497,7 +1497,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sounds\/music\/music.yy",
+                "resourcePath": "sounds\/mFadingColors\/mFadingColors.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -2980,6 +2980,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/Annie_The_Audacious\/Annie_The_Audacious.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a75af6df-92b5-48a5-a327-3bfb15bda08b",
+            "Value": {
+                "id": "4e36f590-943f-436b-9ca7-45aa56743813",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oMusic\/oMusic.yy",
                 "resourceType": "GMObject"
             }
         },
