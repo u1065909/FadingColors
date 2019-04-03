@@ -15,7 +15,7 @@ myWords[0] = s_words_temp
 
 myName ="Myles"
 
-myScripts[4] = [spawn_mini_game,myWords];
+myScripts[1] = [spawn_mini_game,myWords];
 
 
 

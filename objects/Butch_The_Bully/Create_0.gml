@@ -9,7 +9,6 @@ myText[1] = "You shouldv'e failed"
 myText[2] = "but i guess thats what happens when your mom begs the teacher to let you pass."
 
 myTextCol[2] = [13, c_red,18,c_white];  
-myEffects[2] = [13, 2,18,0]; 
 myTextCol[1] = [4, c_red,21,c_white];  
 myTextCol[2] = [41,c_red,49,c_white];
 myTextCol[2] = [69,c_red,77,c_white];

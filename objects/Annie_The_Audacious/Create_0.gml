@@ -13,6 +13,6 @@ myScripts[0] = [gain_color,5];
 myWords[0] = s_words_temp;
 
 
-myScripts[0] = [spawn_mini_game,myWords];
+myScripts[1] = [spawn_mini_game,myWords];
 
 
