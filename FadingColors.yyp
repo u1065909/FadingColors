@@ -248,6 +248,25 @@
             }
         },
         {
+            "Key": "0a11c4fe-279f-49f9-952a-f5fadb626e83",
+            "Value": {
+                "id": "62bb22cb-6465-4953-999b-9b263eb0a680",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Noah_Opposite_Side_Walk_Complete\/Noah_Opposite_Side_Walk_Complete.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b390aa3-b48d-4dbe-98db-24d9dcfbd5c8",
             "Value": {
                 "id": "594febb9-c1a5-45c5-b67f-e3532938c576",
