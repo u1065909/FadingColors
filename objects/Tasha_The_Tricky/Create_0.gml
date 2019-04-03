@@ -15,5 +15,5 @@ myWords[0] = s_words_temp;
 
 myName = "Tasha"
 
-myScripts[4] = [spawn_mini_game,myWords];
+myScripts[2] = [spawn_mini_game,myWords];
 

@@ -15,7 +15,7 @@ myTextCol[2] = [41,c_red,49,c_white];
 myTextCol[2] = [69,c_red,77,c_white];
 
 speaker = -1;
-myScripts[2] = [gain_color,5];
+
 myWords[0] = s_words_temp;
 myWords[1] = s_words_temp;
 myWords[1] = s_words_temp;
@@ -26,4 +26,4 @@ myWords[2] = s_words_temp;
 
 
 
-myScripts[4] = [spawn_mini_game,myWords];
+myScripts[2] = [spawn_mini_game,myWords];
