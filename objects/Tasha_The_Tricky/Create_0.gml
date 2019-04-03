@@ -11,7 +11,8 @@ myText[2] = "Ill change it so the teacher doesnt know."
 myTextCol = [20,c_red,25,c_white]
 speaker = -1;
 myScripts[1] = [gain_color,5];
-myWords[0] = spr_Essay;
+myWords[1] = spr_Essay;
+myWords[2] = spr_Essay;
 
 myName = "Tasha"
 

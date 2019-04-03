@@ -15,10 +15,11 @@ myTextCol[2] = [66,c_red,70,c_white];
 
 speaker = -1;
 
-myWords[0] = spr_Shouldve;
-myWords[1] = spr_Failed;
-myWords[1] = spr_Mom;
-myWords[2] = spr_Begs;
+myWords[1] = spr_Shouldve;
+myWords[2] = spr_Failed;
+myWords[3] = spr_Mom;
+myWords[4] = spr_Begs;
+myWords[5] = spr_Begs;
 
 
 

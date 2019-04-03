@@ -10,9 +10,11 @@ myTextCol[0] = [46, c_red,48,c_white];
 myTextCol[1] = [11, c_red,15,c_white];  
 speaker = -1;
 myScripts[1] = [gain_color,5];
-myWords[0] = spr_Essay
-myWords[1] = spr_Easy
+myWords[1] = spr_Essay
+myWords[2] = spr_Easy
+myWords[3] = spr_Easy
 
 
 myName = "Bridget"
 
+myScripts[2] = [spawn_mini_game,myWords];

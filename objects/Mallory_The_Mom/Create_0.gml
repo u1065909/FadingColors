@@ -37,5 +37,5 @@ if(obj_game_controller.day == 2)
 
 	myName = "Mom";
 
-	myScripts[0] = [spawn_mini_game,myWords,Mallory_The_Mom];
+
 }

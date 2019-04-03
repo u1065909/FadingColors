@@ -79,7 +79,7 @@ else if(obj_game_controller.day == 2)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["Why is it hard to breathe?"]
+		["Why is it hard to breathe?"],
 		-1,
 		-1,
 		-1,
@@ -98,7 +98,7 @@ else if(obj_game_controller.day == 2)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["The Fresh air smells nice"]
+		["The Fresh air smells nice"],
 		-1,
 		-1,
 		-1,
@@ -117,7 +117,7 @@ else if(obj_game_controller.day == 2)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["... I forgot to write my introduction essay"]
+		["... I forgot to write my introduction essay"],
 		-1,
 		-1,
 		-1,
@@ -136,7 +136,7 @@ else if(obj_game_controller.day == 2)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["here we go."]
+		["here we go."],
 		-1,
 		-1,
 		-1,
