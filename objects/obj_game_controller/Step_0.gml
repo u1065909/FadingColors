@@ -35,7 +35,15 @@ if(currentRoom != room)
 	obj_player.alarm[1] = room_speed;
 	currentRoom = room;
 }
-
+if(day == 2 && arrayContains(Patty_The_Professor,objsTalkedTo) && !classHappened)
+{
+	classHappened = true;
+	fadeInThenOut(.02);
+	obj_player.x = 634;
+	obj_player.y = 450;
+	alarm[2] = 2.5 * room_speed;
+	//fadeOut(.02);
+}
 //This is for thoughts for the player after talking to an npc
 if(day == 1 && arrayContains(Mallory_The_Mom,objsTalkedTo)
 	&& arrayContains(Derek_The_Dad,objsTalkedTo)

@@ -117,13 +117,14 @@ else if(obj_game_controller.day == 2)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["... I forgot to write my introduction essay"],
+		["... I forgot to write my introduction essay",
+		"The classroom is at the end of the hall"],
 		-1,
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[fadeIn,.005]],
+		 [[doNothing],[fadeIn,.005]],
 		);
 		}
 		else

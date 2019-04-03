@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Park_Tree",
     "eventList": [
-        
+        {
+            "id": "05b68ef7-2b31-4f37-be3b-3bfee5792645",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "c52fe6c7-0453-438f-a97a-6fcf2a9271bd"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

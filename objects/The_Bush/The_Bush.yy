@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "The_Bush",
     "eventList": [
-        
+        {
+            "id": "8fe12cdc-3620-414f-8133-13656d587b73",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "d8f2fcb7-5f6b-4ae6-a4fc-6b7f07c9e21b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

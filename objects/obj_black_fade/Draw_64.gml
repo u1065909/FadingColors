@@ -12,8 +12,9 @@ if(shouldFadeIn)
 		shouldFadeIn = false;
 	}
 }
-if(shouldFadeOut)
+else if(shouldFadeOut)
 {
+	
 	if(blackFadeAlpha > 0)
 	{
 		blackFadeAlpha -= blackFadingRate;

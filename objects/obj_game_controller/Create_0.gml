@@ -9,7 +9,7 @@ objsTalkedTo[0] = 0;
 //This is thoughts that have been activated
 thoughtsActivatedOnObjs[0] = 0;
 currentRoom = -10;
-
+classHappened = false;
 shake = false;
 shakeDur = 5;
 shakeForce = 1;
