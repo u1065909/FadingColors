@@ -11,7 +11,7 @@ myScripts[1] = [addToTalkedArray,Myles_The_Maverick]
 
 speaker = -1;
 myScripts[0] = [gain_color,5];
-
+myName = "Myles";
 
 
 

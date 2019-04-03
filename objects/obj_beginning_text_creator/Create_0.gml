@@ -118,7 +118,7 @@ else if(obj_game_controller.day == 2)
 		{
 			create_textevent(
 		["... I forgot to write my introduction essay",
-		"My class should be in the last room down the hallway"],
+		"Where is my class... I think it's the last door"],
 		-1,
 		-1,
 		-1,
