@@ -3402,6 +3402,25 @@
             }
         },
         {
+            "Key": "c1af17f1-bee2-4066-ad4d-d3becfbe8679",
+            "Value": {
+                "id": "cbb87454-a3fd-41e7-b3da-5af9fa8e2bd6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/The_Bench\/The_Bench.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c2858bfd-4200-4816-a0ea-e6aa131528de",
             "Value": {
                 "id": "32faf81c-d9d0-47dd-a777-436245a0c99a",
@@ -3988,6 +4007,25 @@
                 ],
                 "resourcePath": "sprites\/Patty\/Patty.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f15840db-d322-444f-84de-ee09eb0ff278",
+            "Value": {
+                "id": "e45d8411-a6e3-46e5-b407-e6f4b44274be",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Bushy\/Bushy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
