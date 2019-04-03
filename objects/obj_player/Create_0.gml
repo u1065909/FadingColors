@@ -9,6 +9,8 @@ attemptsOutOfBed = 0;
 attemptsNeededToLeaveBed = 1;
 leftBed = false;
 lost = false;
+anim_direction = "down";
+anim_isMoving = false;
 alarm[0] = secondsPerLoss*room_speed;
 if(!persistent)
 {
