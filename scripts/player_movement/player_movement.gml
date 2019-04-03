@@ -4,7 +4,7 @@ if (keyboard_check(ord("D"))&& place_free(x+collision_speed,y))
 		x += player_speed;
 		anim_direction = "right";
 		anim_isMoving = true;
-		sprite_index = Noah_Opposite_Side_Walk_Complete
+		sprite_index = Noah_Reverse_Walk_Complete
    }
 if (keyboard_check(ord("A"))&& place_free(x-collision_speed,y))
 	{
@@ -27,5 +27,9 @@ if (keyboard_check(ord("S"))&& place_free(x,y+collision_speed))
 		anim_isMoving = true;
 		sprite_index = Noah_Front_Walk_Complete
 	}
+if (keyboard_check(vk_nokey)) {
+	sprite_index = Noah_is_idle
+}
+	
 	
 	

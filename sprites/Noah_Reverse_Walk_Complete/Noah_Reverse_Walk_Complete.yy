@@ -2,7 +2,7 @@
     "id": "0a11c4fe-279f-49f9-952a-f5fadb626e83",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Noah_Opposite_Side_Walk_Complete",
+    "name": "Noah_Reverse_Walk_Complete",
     "For3D": false,
     "HTile": false,
     "VTile": false,
