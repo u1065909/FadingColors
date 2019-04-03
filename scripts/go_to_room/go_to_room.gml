@@ -14,20 +14,20 @@ else if(obj_game_controller.room_id == 1)
 }
 else if(obj_game_controller.room_id== 2)
 {
-	obj_player.x = 0;
-	obj_player.y =0;
+	obj_player.x = 128;
+	obj_player.y =352;
 	room_goto(r_Park);
 }
 else if(obj_game_controller.room_id == 3)
 {
-	obj_player.x = 0;
-	obj_player.y =0;
+	obj_player.x = 130;
+	obj_player.y = 335;
 	room_goto(r_hallway);
 }
 else if(obj_game_controller.room_id == 4)
 {
-	obj_player.x = 0;
-	obj_player.y =0;
+	obj_player.x = 290;
+	obj_player.y =200;
 	room_goto(r_classroom);
 }
 else if(obj_game_controller.room_id == 5)
