@@ -14,6 +14,6 @@ myScripts[0] = [gain_color,5];
 myWords[1] = spr_hamster;
 myWords[2] = spr_Bury;
 myWords[3] = spr_Bury;
-myScripts[1] = [spawn_mini_game,myWords];
+myScripts[1] = [spawn_mini_game,myWords,Annie_The_Audacious];
 
 

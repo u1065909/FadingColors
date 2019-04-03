@@ -17,5 +17,5 @@ myWords[2] = spr_Essay
 
 myName = "Sarah"
 
-myScripts[1] = [spawn_mini_game,myWords];
+myScripts[1] = [spawn_mini_game,myWords,Sarah_The_Socialite];
 

@@ -23,4 +23,4 @@ myWords[5] = spr_Begs;
 
 
 
-myScripts[2] = [spawn_mini_game,myWords];
+myScripts[2] = [spawn_mini_game,myWords,Butch_The_Bully];

@@ -17,5 +17,5 @@ myWords[3] = spr_Easy
 
 myName = "Bridget"
 
-myScripts[1] = [spawn_mini_game,myWords];
+myScripts[1] = [spawn_mini_game,myWords,Bridget_The_Bookworm];
 

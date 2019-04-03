@@ -28,11 +28,12 @@ if(obj_game_controller.day == 1)
 if(obj_game_controller.day == 2)
 {
 	myText[0] = "Have a Wonderful day at school dear."
+	myText[1] = "you are going to love it."
 
 
 	speaker = -1;
 	myScripts[0] = [gain_color,5];
-	
+	myScripts[1] = [addToTalkedArray,Mallory_The_Mom]
 
 	myName = "Mom";
 

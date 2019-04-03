@@ -14,3 +14,12 @@ if(obj_game_controller.day == 1 && arrayContains(Derek_The_Dad,obj_game_controll
 	speaker = -1;
 
 }
+if(obj_game_controller.day == 2 && arrayContains(Derek_The_Dad,obj_game_controller.objsTalkedTo))
+{
+	myText = -1;
+	myText[0] = "Excited?"
+
+	myTextCol = -1;
+	speaker = -1;
+
+}
