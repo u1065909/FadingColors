@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(room == r_classroom && !obj_game_controller.classHappened)
+if((room == r_classroom || room == r_hallway) && !obj_game_controller.classHappened)
 	exit;
 if(place_meeting(x,y,obj_player) && !wasTouched)
 {

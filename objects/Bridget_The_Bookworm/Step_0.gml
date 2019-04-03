@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 // Inherit the parent event
-detection_radius = 75;
+detection_radius = 50;
 event_inherited();
 
 if(obj_game_controller.day == 2 && arrayContains(Bridget_The_Bookworm,obj_game_controller.objsTalkedTo))
