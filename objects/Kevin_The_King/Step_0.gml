@@ -9,7 +9,7 @@ if(obj_game_controller.day == 2 && arrayContains(Mallory_The_Mom,obj_game_contro
 {
 	myText = -1;
 	myText[0] = "Sup"
-
+	myScripts[0] = [doNothing];
 	myTextCol = -1;
 	speaker = -1;
 	myName = "Kevin";

@@ -9,7 +9,7 @@ if(obj_game_controller.day == 2 && arrayContains(Annie_The_Audacious,obj_game_co
 {
 	myText = -1;
 	myText[0] = "Sorry, I dont feel like talking."
-
+	myScripts[0] = [doNothing];
 	myTextCol = -1;
 	speaker = -1;
 	myName = "Annie";

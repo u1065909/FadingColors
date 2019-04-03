@@ -9,7 +9,7 @@ if(obj_game_controller.day == 2 && arrayContains(Tasha_The_Tricky,obj_game_contr
 {
 	myText = -1;
 	myText[0] = "Have Fun at school"
-
+	myScripts[0] = [doNothing];
 	myTextCol = -1;
 	speaker = -1;
 	myName = "Tasha";

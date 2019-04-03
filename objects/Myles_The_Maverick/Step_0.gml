@@ -10,7 +10,7 @@ if(obj_game_controller.day == 2 && arrayContains(Myles_The_Maverick,obj_game_con
 {
 	myText = -1;
 	myText[0] = "see ya dude"
-
+	myScripts[0] = [doNothing];
 	myTextCol = -1;
 	speaker = -1;
 	myName = "Myles";
