@@ -10,18 +10,15 @@ myText[2] = "but i guess thats what happens when your mom begs the teacher to le
 
 myTextCol[2] = [13, c_red,18,c_white];  
 myTextCol[1] = [4, c_red,21,c_white];  
-myTextCol[2] = [41,c_red,49,c_white];
-myTextCol[2] = [69,c_red,77,c_white];
+myTextCol[2] = [66,c_red,70,c_white];
+
 
 speaker = -1;
 
-myWords[0] = s_words_temp;
-myWords[1] = s_words_temp;
-myWords[1] = s_words_temp;
-myWords[2] = s_words_temp;
-myWords[2] = s_words_temp;
-myWords[2] = s_words_temp;
-myWords[2] = s_words_temp;
+myWords[0] = spr_Shouldve;
+myWords[1] = spr_Failed;
+myWords[1] = spr_Mom;
+myWords[2] = spr_Begs;
 
 
 
