@@ -25,3 +25,16 @@ if(obj_game_controller.day == 1)
 	myScripts[2] = [spawn_mini_game,myWords,Mallory_The_Mom];
 }
 
+if(obj_game_controller.day == 2)
+{
+	myText[0] = "Have a Wonderful day at school dear."
+	myTextCol[0] = [39, c_red,45,c_white];
+
+	speaker = -1;
+	myScripts[2] = [gain_color,5];
+	myWords[0] = s_words_temp;
+
+	myName = "Mom";
+
+	myScripts[0] = [spawn_mini_game,myWords,Mallory_The_Mom];
+}
