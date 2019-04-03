@@ -34,8 +34,8 @@ else if(obj_game_controller.day == 2)
 	myText[0] = "Make me proud Champ"
 	myText[1] = "Make me proud."
 
-	myTextCol[0] = [13,c_red,18,c_white];
-	myTextCol[1] = [13,c_red,18,c_white];
+	myTextCol[0] = [9,c_red,15,c_white];
+	myTextCol[1] = [9,c_red,15,c_white];
 	speaker = +2;
 	myScripts[1] = [addToTalkedArray,Derek_The_Dad];
 	myScripts[2] = [gain_color,5];

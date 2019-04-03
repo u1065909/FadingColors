@@ -28,11 +28,11 @@ if(obj_game_controller.day == 1)
 if(obj_game_controller.day == 2)
 {
 	myText[0] = "Have a Wonderful day at school dear."
-	myTextCol[0] = [39, c_red,45,c_white];
+
 
 	speaker = -1;
 	myScripts[2] = [gain_color,5];
-	myWords[0] = spr_school;
+	
 
 	myName = "Mom";
 

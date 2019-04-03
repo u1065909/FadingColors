@@ -14,6 +14,6 @@ myWords[1] = spr_hamster;
 myWords[2] = spr_Bury;
 myWords[3] = spr_Bury;
 
-myScripts[2] = [spawn_mini_game,myWords];
+myScripts[0] = [spawn_mini_game,myWords];
 
 
