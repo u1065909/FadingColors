@@ -723,6 +723,25 @@
             }
         },
         {
+            "Key": "1f0f9647-5292-4edc-9c4b-7f429b19c989",
+            "Value": {
+                "id": "94a64330-38ee-463c-b484-ce67b166db0c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Animated_Fountain\/Animated_Fountain.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f98e760-1a68-4fda-9c7e-69db6d405b38",
             "Value": {
                 "id": "f1fba7f8-0f86-4765-9da3-440fc8b9e051",
@@ -2277,6 +2296,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_portrait_examplechar_mouth\/spr_portrait_examplechar_mouth.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6f517206-58ec-49ef-9be1-7230edf575c8",
+            "Value": {
+                "id": "6aaf3d13-491d-4a33-a8ed-64e0089fad95",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Fountain_No_Water\/Fountain_No_Water.yy",
                 "resourceType": "GMSprite"
             }
         },
