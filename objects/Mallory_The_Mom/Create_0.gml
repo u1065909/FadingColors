@@ -10,8 +10,7 @@ if(obj_game_controller.day == 1)
 	myText[0] = "Are you excited for your first day at school tommorow?"
 	myText[1] = "Im sure you are going to enjoy highschool much more than middle school."
 	myText[2] = "I know I did."
-	myTextCol[0] = [39, c_red,45,c_white];
-	myTextCol[0] = [46, c_red,58,c_white];
+	myTextCol[0] = [39, c_red,45,c_white, 46, c_red,58,c_white];
 
 
 	speaker = -1;
