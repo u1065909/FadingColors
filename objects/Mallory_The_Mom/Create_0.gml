@@ -15,7 +15,7 @@ if(obj_game_controller.day == 1)
 
 
 	speaker = -1;
-	myScripts[2] = [gain_color,5];
+	myScripts[0] = [gain_color,5];
 	myWords[0] = spr_school;
 	myWords[1] = spr_Tomorow;
 
