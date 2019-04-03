@@ -23,6 +23,7 @@ if(obj_game_controller.day == 1)
 	myWords[1] = spr_school;
 	myWords[2] = spr_Siblings;
 	myWords[3] = spr_Proud;
+	myWords[4] = spr_Proud;
 
 
 	myName = "Dad";
