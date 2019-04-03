@@ -2718,6 +2718,25 @@
             }
         },
         {
+            "Key": "7c898b9f-2ae5-4616-bd02-f76df0a15d78",
+            "Value": {
+                "id": "59b0cf5d-1434-40dd-9b08-46c8b8007904",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/font2\/font2.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "7ca33a18-042a-4dc3-80dc-00e5438a0066",
             "Value": {
                 "id": "101af622-16e2-43b7-925f-a9f10c5868aa",
