@@ -12,5 +12,5 @@ myScripts[1] = [gain_color,5];
 myName = "Jordan"
 
 
-
+myScripts[2] = [addToTalkedArray,Jordan_The_Jokester]
 

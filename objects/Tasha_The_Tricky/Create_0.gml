@@ -18,3 +18,4 @@ myName = "Tasha"
 
 myScripts[2] = [spawn_mini_game,myWords];
 
+myScripts[3] = [addToTalkedArray,Tasha_The_Tricky]

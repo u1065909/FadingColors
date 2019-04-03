@@ -8,7 +8,17 @@ detection_radius = 50;
 if(obj_game_controller.day == 1 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo))
 {
 	myText = -1;
-	myText[0] = "Have Fun at school"
+	myText[0] = "Be sure to get a good nights rest."
+
+	myTextCol = -1;
+	speaker = -1;
+	myName = "Mom";
+
+}
+if(obj_game_controller.day == 2 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo))
+{
+	myText = -1;
+	myText[0] = "be sure to pay attention."
 
 	myTextCol = -1;
 	speaker = -1;

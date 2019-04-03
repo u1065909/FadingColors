@@ -13,7 +13,7 @@ myScripts[1] = [gain_color,5];
 myWords[1] = spr_hamster;
 myWords[2] = spr_Bury;
 myWords[3] = spr_Bury;
-
+myScripts[2] = [addToTalkedArray,Annie_The_Audacious]
 myScripts[0] = [spawn_mini_game,myWords];
 
 
