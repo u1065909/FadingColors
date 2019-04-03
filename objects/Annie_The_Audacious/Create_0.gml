@@ -6,8 +6,9 @@
 event_inherited();
 myText[0] = "I had to bury my hamster yesterday, this sucks"
 
-myTextCol[0] = [10, c_red,14,c_white];  
-myTextCol[0] = [18, c_red,25,c_white]; 
+myTextCol[0] = [10, c_red,14,c_white];
+myTextCol[0] = [18, c_red,25,c_white]
+
 speaker = -1;
 myScripts[1] = [gain_color,5];
 myWords[1] = spr_hamster;
