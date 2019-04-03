@@ -5,7 +5,7 @@
 
 event_inherited();
 wasTalkedTo = false;
-if(obj_game_controller.day == 1)
+if(obj_game_controller.day == 1 ||obj_game_controller.day == 2)
 {
 	
 	myText[0] = "*The t.v. lights up with colors from your favorite t.v. show*"
