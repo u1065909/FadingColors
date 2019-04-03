@@ -3497,6 +3497,25 @@
             }
         },
         {
+            "Key": "a382e110-6912-4e3e-a68e-a45aaad5e8f5",
+            "Value": {
+                "id": "248f23a4-d435-4c48-91ce-80588c21abc6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Noah_Room_Remaser\/Noah_Room_Remaser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a513938d-15f4-4c13-b987-0131a862eb49",
             "Value": {
                 "id": "b3e646a1-2602-4cc5-aa84-39b0a8450588",
