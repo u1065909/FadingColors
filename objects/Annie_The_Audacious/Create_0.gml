@@ -4,7 +4,8 @@
 // Inherit the parent event
 
 event_inherited();
-myText[0] = "I had to bury my hamster yesterday, this sucks"
+myText[0] = "I had to bury my hamster yesterday..."
+myText[1] = "this sucks"
 
 myTextCol[0] = [10, c_red,14,c_white, 18, c_red,25,c_white]
 

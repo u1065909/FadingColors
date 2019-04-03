@@ -11,7 +11,7 @@ speaker = -1;
 myScripts[0] = [gain_color,5];
 
 myName = "Rachel"
-myScripts[2] = [addToTalkedArray,Rachel_The_Random]
+myScripts[1] = [addToTalkedArray,Rachel_The_Random]
 
 
 

@@ -4,13 +4,14 @@
 // Inherit the parent event
 
 event_inherited();
-myText[0] = "Hey dude, whats up?"
+myText[0] = "Hey dude"
+myText[1] = "whats up?"
 
 speaker = -1;
-myScripts[1] = [gain_color,5];
+myScripts[0] = [gain_color,5];
 
 myName = "Jordan"
 
 
-myScripts[2] = [addToTalkedArray,Jordan_The_Jokester]
+myScripts[1] = [addToTalkedArray,Jordan_The_Jokester]
 
