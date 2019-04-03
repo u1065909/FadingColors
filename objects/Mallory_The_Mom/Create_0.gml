@@ -31,7 +31,7 @@ if(obj_game_controller.day == 2)
 
 
 	speaker = -1;
-	myScripts[2] = [gain_color,5];
+	myScripts[0] = [gain_color,5];
 	
 
 	myName = "Mom";
