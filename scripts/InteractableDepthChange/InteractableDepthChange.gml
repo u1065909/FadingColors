@@ -1,8 +1,8 @@
 if(obj_player.y < y)
 {
-	depth = 402;
+	depth = 401;
 }
 else
 {
-	depth = 600;
+	depth = 550;
 }

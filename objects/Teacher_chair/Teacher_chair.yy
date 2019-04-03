@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Teacher_chair",
     "eventList": [
-        
+        {
+            "id": "88ef083b-e964-4897-9124-888eeec14ac2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a31cfaa5-28fb-4524-a4ff-9ac58434df59"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
