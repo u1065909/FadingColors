@@ -56,17 +56,16 @@ else if(obj_game_controller.day == 2)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["Day 2", 
-		"And he was right.", 
-		" It takes the  time...",
-		" The energy...",
-		"and eventually even the colors start fading away."],
+		["Fall", 
+		"i feel so alone"],
+	
+		
 		-1,
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[doNothing],[doNothing],[doNothing],[fadeIn,.005]],
+		 [[doNothing],[fadeIn,.005]],
 		);
 		}
 		else
@@ -80,17 +79,13 @@ else if(obj_game_controller.day == 2)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["Day 2", 
-		"And he was right.", 
-		" It takes the  time...",
-		" The energy...",
-		"and eventually even the colors start fading away."],
+		["Why is it hard to breathe?"],
 		-1,
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[doNothing],[doNothing],[doNothing],[fadeIn,.005]],
+		 [[fadeIn,.005]],
 		);
 		}
 		else
@@ -103,17 +98,13 @@ else if(obj_game_controller.day == 2)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["Day 2", 
-		"And he was right.", 
-		" It takes the  time...",
-		" The energy...",
-		"and eventually even the colors start fading away."],
+		["The Fresh air smells nice"],
 		-1,
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[doNothing],[doNothing],[doNothing],[fadeIn,.005]],
+		 [[fadeIn,.005]],
 		);
 		}
 		else
@@ -126,17 +117,13 @@ else if(obj_game_controller.day == 2)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["Day 2", 
-		"And he was right.", 
-		" It takes the  time...",
-		" The energy...",
-		"and eventually even the colors start fading away."],
+		["... I forgot to write my introduction essay"],
 		-1,
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[doNothing],[doNothing],[doNothing],[fadeIn,.005]],
+		 [[fadeIn,.005]],
 		);
 		}
 		else
@@ -149,17 +136,13 @@ else if(obj_game_controller.day == 2)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["Day 2", 
-		"And he was right.", 
-		" It takes the  time...",
-		" The energy...",
-		"and eventually even the colors start fading away."],
+		["here we go."],
 		-1,
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[doNothing],[doNothing],[doNothing],[fadeIn,.005]],
+		 [[fadeIn,.005]],
 		);
 		}
 		else

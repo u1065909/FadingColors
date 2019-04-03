@@ -1,5 +1,5 @@
 {
-    "id": "c1af17f1-bee2-4066-ad4d-d3becfbe8679",
+    "id": "877cb2af-4fbc-4eed-b3cd-da9956c0948c",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "The_Bench",

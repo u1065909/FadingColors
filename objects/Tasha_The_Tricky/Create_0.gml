@@ -4,14 +4,17 @@
 // Inherit the parent event
 
 event_inherited();
-myText[0] = "did you do you today’s homework?"
+myText[0] = "Did you do you the essay?"
+myText[1] = "Can I copy?"
+myText[2] = "Ill change it so the teacher doesnt know."
 
-myTextCol[2] = [13, c_red,18,c_white];  
-myEffects[2] = [13, 2,18,0]; 
+myTextCol = [20,c_red,25,c_white]
 speaker = -1;
-myScripts[2] = [gain_color,5];
-myWords[0] = s_words_temp;
+myScripts[1] = [gain_color,5];
+myWords[1] = spr_Essay;
+myWords[2] = spr_Essay;
 
-myScripts[4] = [spawn_mini_game,myWords];
+myName = "Tasha"
 
+myScripts[2] = [spawn_mini_game,myWords];
 

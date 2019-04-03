@@ -8,7 +8,7 @@ detection_radius = 50;
 if(obj_game_controller.day == 1 && arrayContains(Derek_The_Dad,obj_game_controller.objsTalkedTo))
 {
 	myText = -1;
-	myText[0] = "I like turtles"
+	myText[0] = "Hello champ"
 
 	myTextCol = -1;
 	speaker = -1;

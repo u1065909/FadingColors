@@ -5,8 +5,8 @@
     "name": "21a70f6f-52fd-4f72-890d-6d0490a5a817",
     "children": [
         "c52fe6c7-0453-438f-a97a-6fcf2a9271bd",
-        "f15840db-d322-444f-84de-ee09eb0ff278",
-        "c1af17f1-bee2-4066-ad4d-d3becfbe8679"
+        "d8f2fcb7-5f6b-4ae6-a4fc-6b7f07c9e21b",
+        "877cb2af-4fbc-4eed-b3cd-da9956c0948c"
     ],
     "filterType": "GMObject",
     "folderName": "Park_items",
