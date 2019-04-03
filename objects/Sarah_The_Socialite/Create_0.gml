@@ -15,7 +15,6 @@ myScripts[0] = [gain_color,5];
 myWords[1] = spr_Essay
 myWords[2] = spr_Essay
 
-myScripts[2] = [addToTalkedArray,Sarah_The_Socialite];
 myName = "Sarah"
 
 myScripts[1] = [spawn_mini_game,myWords];
