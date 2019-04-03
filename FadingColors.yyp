@@ -591,6 +591,25 @@
             }
         },
         {
+            "Key": "41230b99-b144-45e6-bb90-bb8fb0de7791",
+            "Value": {
+                "id": "9682d642-24e0-47a4-8323-5f79c2984f6d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Noah_Back_Walk_Left\/Noah_Back_Walk_Left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "415f6fc4-03d6-42c5-a1c5-67b73a1c584a",
             "Value": {
                 "id": "df69590f-f1a6-4e33-8e4e-850037f7ffb7",
@@ -612,6 +631,25 @@
                 "id": "caa33245-f9ef-405d-9f2d-ae74cf10371f",
                 "resourcePath": "views\/4317ba63-77d2-4c54-8647-2381d7553243.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "44041765-1fe5-4ef4-aad9-3a193bc09c14",
+            "Value": {
+                "id": "37debc62-1d02-420a-be7d-c55bb6e19284",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Noah_Front_Walk_Right\/Noah_Front_Walk_Right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -807,6 +845,25 @@
             }
         },
         {
+            "Key": "5b8abd85-35b8-4d18-bfbd-b816040b7b2d",
+            "Value": {
+                "id": "4d8c9a39-0eaa-438f-b65c-b3c9b8af5859",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Noah_Back__Walk_Right\/Noah_Back__Walk_Right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5b8cd4ef-6383-4790-b3a1-43a669b82279",
             "Value": {
                 "id": "26e894dd-abfd-4f57-b05d-1fcb0b9d0c7a",
@@ -916,6 +973,25 @@
                 "id": "002ab65c-68e9-4071-9309-3df10601c88c",
                 "resourcePath": "rooms\/r_game_over\/r_game_over.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6b9307a7-d38a-474e-9d68-cb616119f5f5",
+            "Value": {
+                "id": "11988a01-0610-491c-b83d-d9dd1875f71d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Noah_Back\/Noah_Back.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1263,6 +1339,25 @@
             }
         },
         {
+            "Key": "93db5713-9587-4dc9-8351-b8b98942a3de",
+            "Value": {
+                "id": "389f42bb-a95e-47a5-8b5f-4caf0c3fb802",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Noah_Side_Walk_2\/Noah_Side_Walk_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93ea4c7c-a5dc-42f6-95bf-dff71ccc1ec5",
             "Value": {
                 "id": "127c27d4-d7cc-4ecd-819b-355550704559",
@@ -1428,6 +1523,25 @@
                 "id": "205da422-cf63-4f34-89fb-1e15a849f851",
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a9781010-2f93-4f41-a046-8fec02ca7c53",
+            "Value": {
+                "id": "32f4e4f5-68b7-4d5b-a903-b32882ab51d8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Noah_Side_Walk_1\/Noah_Side_Walk_1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1772,6 +1886,25 @@
                 "id": "a182bf04-915d-4d08-852b-4f4a8e62aaca",
                 "resourcePath": "views\/e1c49b07-b5a0-408f-a02c-6b6f5fce7c12.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e1e554cb-4406-4ea5-8cfe-1aee1efb30d4",
+            "Value": {
+                "id": "7f6f8551-7603-4753-bcbb-7e96ac8b5e1f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Noah_Front_Walk_Left\/Noah_Front_Walk_Left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
