@@ -4,3 +4,13 @@
 // Inherit the parent event
 event_inherited();
 
+if(obj_game_controller.day == 2 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo))
+{
+	myText = -1;
+	myText[0] = "Sup"
+
+	myTextCol = -1;
+	speaker = -1;
+	myName = "Kevin";
+
+}

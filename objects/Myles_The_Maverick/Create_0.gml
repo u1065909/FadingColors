@@ -5,11 +5,11 @@
 
 event_inherited();
 myText[0] = "Yo, Why are you talkin to me?"
-myTextCol[2] = [13, c_red,18,c_white];  
-myEffects[2] = [13, 2,18,0]; 
+myTextCol[0] = [13, c_red,18,c_white];  
+
 
 speaker = -1;
-myScripts[2] = [gain_color,5];
+myScripts[0] = [gain_color,5];
 myWords[0] = s_words_temp
 
 

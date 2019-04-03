@@ -5,9 +5,8 @@
 
 event_inherited();
 myText[0] = "hi, i just transferred here i'm sarah whats up"
-myText[1] = "how are ya? did the essay treat you well"
-myTextCol[2] = [13, c_red,18,c_white];  
-myEffects[2] = [13, 2,18,0]; 
+myText[1] = "how are ya? did the essay treat you well"  
+
 myTextCol[2] = [21, c_red,26,c_white];  
 
 speaker = -1;
