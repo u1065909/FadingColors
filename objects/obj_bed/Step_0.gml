@@ -21,13 +21,13 @@ if(obj_player.leftBed)
 		myScripts[0] = [goToNextDay];	
 	}
 	
-	if (obj_game_controller.day == 2 && !arrayContains(room_get_name(r_living_room),obj_game_controller.roomsVisitedTo))
+	if (obj_game_controller.day == 2 && !obj_game_controller.classHappened)
 	{
 		myText[0] = "I promised my parents I would go to school today"
 		speaker = -1;
 		myTextCol[0] = -1;
 	}
-	else if(obj_game_controller.day == 2 && arrayContains(room_get_name(r_living_room),obj_game_controller.roomsVisitedTo))
+	else if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 	{
 		playerInBed = false;
 		myText[0] = "Time For bed"
