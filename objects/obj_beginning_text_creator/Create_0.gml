@@ -65,7 +65,7 @@ else if(obj_game_controller.day == 2)
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[fadeIn,.005]],
+		 [[doNothing],[fadeIn,.02]],
 		);
 		}
 		else
@@ -85,7 +85,7 @@ else if(obj_game_controller.day == 2)
 		-1,
 		-1,
 		-1,
-		 [[fadeIn,.005]],
+		 [[fadeIn,.02]],
 		);
 		}
 		else
@@ -104,7 +104,7 @@ else if(obj_game_controller.day == 2)
 		-1,
 		-1,
 		-1,
-		 [[fadeIn,.005]],
+		 [[fadeIn,.02]],
 		);
 		}
 		else
@@ -118,13 +118,13 @@ else if(obj_game_controller.day == 2)
 		{
 			create_textevent(
 		["... I forgot to write my introduction essay",
-		"The classroom is at the end of the hall"],
+		"My class should be in the last room down the hallway"],
 		-1,
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[fadeIn,.005]],
+		 [[doNothing],[fadeIn,.02]],
 		);
 		}
 		else
@@ -143,7 +143,7 @@ else if(obj_game_controller.day == 2)
 		-1,
 		-1,
 		-1,
-		 [[fadeIn,.005]],
+		 [[fadeIn,.02]],
 		);
 		}
 		else

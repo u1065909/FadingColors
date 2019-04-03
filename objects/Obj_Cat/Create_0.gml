@@ -6,7 +6,7 @@
 event_inherited();
 wasTalkedTo = false
 detection_radius = 50
-if(obj_game_controller.day == 1)
+if(obj_game_controller.day == 1 || obj_game_controller.day == 2)
 {
 	myText[0] = "Your cat Tally is resting against the wall"
 	myText[1] = "*you pet her for a couple moments*"
@@ -16,11 +16,4 @@ if(obj_game_controller.day == 1)
 	myName = "Tally";
 	myScripts[1] = [addToTalkedArray,obj_cat];
 
-}
-if(obj_game_controller.day == 2)
-{
-	myText = -1;
-	speaker = -1;
-	myScripts = -1;
-	myText[0] = "This is Day 2";
 }

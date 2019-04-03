@@ -11,6 +11,7 @@ if (keyboard_check(ord("A"))&& place_free(x-collision_speed,y))
 		x -= player_speed;
 		anim_direction = "left";
 		anim_isMoving = true;
+		sprite_index = Noah_Side_Walk_Complete
 	}
 if (keyboard_check(ord("W"))&& place_free(x,y-collision_speed))
 	{
