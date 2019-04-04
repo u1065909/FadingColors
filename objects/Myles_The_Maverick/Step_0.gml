@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 // Inherit the parent event
-detection_radius = 50;
+detection_radius = 75;
 event_inherited();
 
 

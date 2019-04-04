@@ -41,6 +41,7 @@ else if(obj_game_controller.day == 2)
 	myScripts[0] = [gain_color,5];
 	myWords[2] = spr_Proud;
 	myWords[1] = spr_Proud;
+	myWords[3] = spr_Proud;
 
 
 	myName = "Dad";

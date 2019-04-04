@@ -3,7 +3,7 @@ obj_game_controller.room_id++;
 if(obj_game_controller.room_id == 0)
 {
 	obj_player.x = 64;
-	obj_player.y = 448;
+	obj_player.y = 548;
 	room_goto(r_player_room);
 }
 else if(obj_game_controller.room_id == 1)

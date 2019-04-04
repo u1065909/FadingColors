@@ -1,5 +1,5 @@
 anim_isMoving = false;
-if (keyboard_check(ord("D"))&& place_free(x+collision_speed,y))
+if (keyboard_check(ord("D"))&& place_free(x+collision_speed+30,y))
    {
 		x += player_speed;
 		anim_direction = "right";
