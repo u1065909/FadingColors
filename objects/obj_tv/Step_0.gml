@@ -3,7 +3,7 @@
 
 // Inherit the parent event
 event_inherited();
-
+detection_radius= 150;
 if((obj_game_controller.day == 1 ||obj_game_controller.day == 2) && arrayContains(obj_tv,obj_game_controller.objsTalkedTo))
 {
 	myText = -1;
