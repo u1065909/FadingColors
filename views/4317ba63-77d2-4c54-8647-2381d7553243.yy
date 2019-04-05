@@ -15,7 +15,8 @@
         "95193ccf-5285-4aec-9b33-5a50e760e75d",
         "091029a1-f67d-4b36-b5eb-a29b3b9b3204",
         "de1e2e42-5277-4b4c-a704-3bde178006b6",
-        "7fb0a7ad-f63e-4189-96ee-435bcc992c48"
+        "7fb0a7ad-f63e-4189-96ee-435bcc992c48",
+        "d837803a-2feb-45cf-8520-4ba525d92803"
     ],
     "filterType": "GMSprite",
     "folderName": "Words minigame",
