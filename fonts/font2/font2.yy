@@ -1,7 +1,7 @@
 {
     "id": "7c898b9f-2ae5-4616-bd02-f76df0a15d78",
     "modelName": "GMFont",
-    "mvc": "1.1",
+    "mvc": "1.0",
     "name": "font2",
     "AntiAlias": 1,
     "TTFName": "",
@@ -10,7 +10,6 @@
     "charset": 0,
     "first": 0,
     "fontName": "koliko",
-    "glyphOperations": 0,
     "glyphs": [
         {
             "Key": 32,
@@ -1453,9 +1452,8 @@
             }
         }
     ],
-    "hinting": 0,
+    "image": null,
     "includeTTF": false,
-    "interpreter": 0,
     "italic": false,
     "kerningPairs": [
         {
@@ -4772,8 +4770,6 @@
         }
     ],
     "last": 0,
-    "maintainGms1Font": false,
-    "pointRounding": 0,
     "ranges": [
         {
             "x": 32,
