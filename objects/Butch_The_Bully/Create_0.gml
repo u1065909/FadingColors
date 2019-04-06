@@ -12,6 +12,7 @@ myTextCol[2] = [13, c_red,18,c_white, 66,c_red,70,c_white];
 myTextCol[1] = [4, c_red,21,c_white];  
 
 
+myScripts[1] = [gain_color,-5]
 
 speaker = -1;
 
@@ -24,3 +25,16 @@ myWords[5] = spr_Begs;
 myName = "Butch";
 
 myScripts[2] = [spawn_mini_game,myWords,Butch_The_Bully];
+
+if(obj_game_controller.day == 3)
+{
+	myText[0] = "What do you want?"
+	myText[1] = "Wait, why do I care"
+	speaker = -1;
+
+	myScripts[0] = [gain_color,-5];
+	myScripts[1] = [addToTalkedArray,Butch_The_Bully]
+
+	myName = "Butch";
+
+}

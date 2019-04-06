@@ -14,7 +14,7 @@ if(obj_game_controller.day == 1)
 
 
 	speaker = -1;
-	myScripts[0] = [gain_color,5];
+	myScripts[0] = [gain_color,10];
 	myWords[1] = spr_school;
 	myWords[2] = spr_Tomorow;
 	myWords[3] = spr_Tomorow;
@@ -32,7 +32,7 @@ if(obj_game_controller.day == 2)
 
 
 	speaker = -1;
-	myScripts[0] = [gain_color,5];
+	myScripts[0] = [gain_color,10];
 	myScripts[1] = [addToTalkedArray,Mallory_The_Mom]
 
 	myName = "Mom";

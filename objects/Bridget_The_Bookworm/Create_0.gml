@@ -9,7 +9,7 @@ myText[1] = "It was SO easy"
 myTextCol[0] = [46, c_red,51,c_white];  
 myTextCol[1] = [11, c_red,16,c_white];  
 speaker = -1;
-myScripts[0] = [gain_color,5];
+myScripts[0] = [gain_color,10];
 myWords[1] = spr_Essay
 myWords[2] = spr_Easy
 myWords[3] = spr_Easy
@@ -19,3 +19,17 @@ myName = "Bridget"
 
 myScripts[1] = [spawn_mini_game,myWords,Bridget_The_Bookworm];
 
+if(obj_game_controller.day == 3)
+{
+	myText[0] = "Another essay"
+	myText[1] = "Great!"
+
+	speaker = -1;
+
+	myScripts[0] = [gain_color,10];
+	myScripts[1] = [addToTalkedArray,Bridget_The_Bookworm]
+
+
+	myName = "Bridget";
+
+}

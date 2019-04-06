@@ -10,10 +10,23 @@ myText[1] = "Why are you talkin to me?"
 myScripts[1] = [addToTalkedArray,Myles_The_Maverick]
 
 speaker = -1;
-myScripts[0] = [gain_color,5];
+myScripts[0] = [gain_color,10];
 myName = "Myles";
 
+if(obj_game_controller.day == 3)
+{
+	myText[0] = "Another Essay"
+	myText[1] = "Great..."
 
+	speaker = -1;
+
+	myScripts[0] = [gain_color,10];
+	myScripts[1] = [addToTalkedArray,Myles_The_Maverick]
+
+
+	myName = "Myles";
+
+}
 
 
 

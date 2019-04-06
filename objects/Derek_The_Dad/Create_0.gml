@@ -19,7 +19,7 @@ if(obj_game_controller.day == 1)
 
 	speaker = +2;
 	myScripts[1] = [addToTalkedArray,Derek_The_Dad];
-	myScripts[2] = [gain_color,5];
+	myScripts[2] = [gain_color,10];
 	myWords[1] = spr_school;
 	myWords[2] = spr_Siblings;
 	myWords[3] = spr_Proud;
@@ -38,7 +38,7 @@ else if(obj_game_controller.day == 2)
 	myTextCol[1] = [9,c_red,15,c_white];
 	speaker = -1;
 
-	myScripts[0] = [gain_color,5];
+	myScripts[0] = [gain_color,10];
 	myWords[2] = spr_Proud;
 	myWords[1] = spr_Proud;
 	myWords[3] = spr_Proud;
