@@ -5,8 +5,9 @@ if(!indicatorAppeared && place_meeting(x,y,obj_player))
 	indicatorInst = instance_create_layer(x+sprite_width/2,y-argument0,"NPCS",obj_indicator);
 	indicatorAppeared = true;
 }
-else if(indicatorAppeared && !place_meeting(x,y,obj_player))
+else if(indicatorAppeared && !place_meeting(x,y,obj_player) )
 {
-	indicatorInst.playerLeft = true;
+	if(instance_exists(indicatorInst))
+		indicatorInst.playerLeft = true;
 	indicatorAppeared = false;
 }
