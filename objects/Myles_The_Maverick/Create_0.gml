@@ -4,6 +4,7 @@
 // Inherit the parent event
 
 event_inherited();
+
 myText[0] = "Hey"
 myText[1] = "Why are you talkin to me?"
 

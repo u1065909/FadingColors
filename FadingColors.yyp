@@ -1375,6 +1375,14 @@
             }
         },
         {
+            "Key": "92215f5e-df3e-47cf-a062-506ac2d07b5e",
+            "Value": {
+                "id": "0be48909-b95d-4d1a-9464-014ef579f11b",
+                "resourcePath": "rooms\\r_fadeOut\\r_fadeOut.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "92389f80-b7c9-458b-86a1-7966d9f8110f",
             "Value": {
                 "id": "10c83f0e-a727-4f9e-bafe-ced32ba5792b",

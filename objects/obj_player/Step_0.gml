@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+
 if(instance_exists(obj_textbox) || obj_black_fade.blackFadeAlpha > 0) exit;
 if(canMove)
 {

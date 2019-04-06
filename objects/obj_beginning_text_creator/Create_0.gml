@@ -151,6 +151,7 @@ else if(obj_game_controller.day == 2)
 			fadeIn(.02);
 		}
 	}
+	
 		
 	
 }

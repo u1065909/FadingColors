@@ -16,3 +16,7 @@ if(obj_game_controller.day == 2 && arrayContains(Myles_The_Maverick,obj_game_con
 	myName = "Myles";
 
 }
+else if(obj_game_controller.day == 2 && arrayContains(Myles_The_Maverick,obj_game_controller.objsTalkedTo))
+{
+	
+}
