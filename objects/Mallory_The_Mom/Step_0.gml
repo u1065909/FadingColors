@@ -25,3 +25,9 @@ if(obj_game_controller.day == 2 && arrayContains(Mallory_The_Mom,obj_game_contro
 	myName = "Mom";
 
 }
+else if(obj_game_controller.day == 2 && arrayContains(Butch_The_Bully,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+	myText = -1;
+	myText[0] = "Did you enjoy your first day at school dear?"
+
+	myTextCol = -1;
+	speaker = -1;

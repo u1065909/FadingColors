@@ -15,3 +15,18 @@ if(obj_game_controller.day == 2 && arrayContains(Bridget_The_Bookworm,obj_game_c
 	myName = "Bridget";
 
 }
+else if(obj_game_controller.day == 2 && arrayContains(Bridget_The_Bookworm,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+{
+	myText = -1
+	myText[0] = "Another essay"
+	myText[1] = "Great!"
+
+	speaker = -1;
+
+	myScripts[0] = [gain_color,10];
+	myScripts[1] = [addToTalkedArray,Bridget_The_Bookworm]
+
+
+	myName = "Bridget";
+
+}

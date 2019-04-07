@@ -15,3 +15,16 @@ if(obj_game_controller.day == 2 && arrayContains(Kevin_The_King,obj_game_control
 	myName = "Kevin";
 
 }
+else if(obj_game_controller.day == 2 && arrayContains(Kevin_The_King,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+{
+	myText = -1
+	myText[0] = "My ds was confiscated"
+	myText[1] = "Apparently I was 'distracted' in class"
+	speaker = -1;
+
+	myScripts[0] = [gain_color,10];
+	myScripts[1] = [addToTalkedArray,Myles_The_Maverick]
+
+	myName = "Kevin";
+
+}

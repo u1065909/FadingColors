@@ -16,7 +16,17 @@ if(obj_game_controller.day == 2 && arrayContains(Myles_The_Maverick,obj_game_con
 	myName = "Myles";
 
 }
-else if(obj_game_controller.day == 2 && arrayContains(Myles_The_Maverick,obj_game_controller.objsTalkedTo))
+else if(obj_game_controller.day == 2 && arrayContains(Myles_The_Maverick,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
 {
-	
+	myText = -1
+	myText[0] = "Another Essay"
+	myText[1] = "Great..."
+
+	speaker = -1;
+
+	myScripts[0] = [gain_color,10];
+	myScripts[1] = [addToTalkedArray,Myles_The_Maverick]
+
+
+	myName = "Myles";
 }
