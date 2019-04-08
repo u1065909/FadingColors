@@ -16,18 +16,15 @@ if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game_cont
 	myName = "Rachel";
 
 }
-else if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 {
 	myText = -1
-	myText[0] = "Im going to the store with Kevin"
-	myText[1] = "What about you?"
-
+	myText[0] = "Nope"
+	myText[1] = "Still not"
 	speaker = -1;
 
-	myScripts[0] = [gain_color,10];
-	myScripts[1] = [addToTalkedArray,Sarah_The_Socialite]
+	myTextCol = -1;
 
 
-	myName = "Sarah";
-
+	myName = "Rachel";
 }

@@ -15,11 +15,10 @@ if(obj_game_controller.day == 2 && arrayContains(Annie_The_Audacious,obj_game_co
 	myName = "Annie";
 
 }
-else if(obj_game_controller.day == 2 && arrayContains(Annie_The_Audacious,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 {
 	myText = -1
-	myText[0] = "On my way home"
-	myText[1] = "My mom said we might get a dog"
+	myText[0] = "Just need to think of a name..."
 	speaker = -1;
 
 	myScripts[0] = [gain_color,10];

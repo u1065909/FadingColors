@@ -47,4 +47,11 @@ else if(obj_game_controller.day == 2)
 	myName = "Dad";
 	myScripts[1] = [spawn_mini_game,myWords,Derek_The_Dad];
 }
+else if(obj_game_controller.day == 2 && arrayContains(Derek_The_Dad,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
 
+	myText = -1;
+	myText[0] = "How was your first day at school champ?"
+	myText[1] = "Did you make me proud?"
+
+	myTextCol = -1;
+	speaker = -1;

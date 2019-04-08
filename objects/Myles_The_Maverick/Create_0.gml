@@ -29,6 +29,20 @@ if(obj_game_controller.day == 3)
 
 }
 
+else if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
+{
+	myText = -1
+	myText[0] = "Another Essay"
+	myText[1] = "Great..."
+
+	speaker = -1;
+
+	myScripts[0] = [gain_color,10];
+	myScripts[1] = [addToTalkedArray,Myles_The_Maverick]
+
+
+	myName = "Myles";
+}
 
 
 

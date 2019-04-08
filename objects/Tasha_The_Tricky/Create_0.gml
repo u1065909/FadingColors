@@ -18,7 +18,7 @@ myName = "Tasha"
 
 myScripts[2] = [spawn_mini_game,myWords,Tasha_The_Tricky];
 
-if(obj_game_controller.day == 3)
+if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 {
 	myText[0] = "See you tommorow."
 

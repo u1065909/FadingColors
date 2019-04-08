@@ -39,3 +39,9 @@ if(obj_game_controller.day == 2)
 
 
 }
+else if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
+	myText = -1;
+	myText[0] = "Did you enjoy your first day at school dear?"
+
+	myTextCol = -1;
+	speaker = -1;

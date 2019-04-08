@@ -40,3 +40,6 @@ else if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 	myName = "Butch";
 
 }
+else if(obj_game_controller.day == 2 && arrayContains(Butch_The_Bully,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+	myText[1] = "What"
+	myText[1] = "go home to your mom"

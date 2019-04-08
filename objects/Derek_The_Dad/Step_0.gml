@@ -23,11 +23,11 @@ if(obj_game_controller.day == 2 && arrayContains(Derek_The_Dad,obj_game_controll
 	speaker = -1;
 
 }
-else if(obj_game_controller.day == 2 && arrayContains(Butch_The_Bully,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
-
+else if(obj_game_controller.day == 2 && arrayContains(Derek_The_Dad,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+{
 	myText = -1;
-	myText[0] = "How was your first day at school champ?"
-	myText[1] = "Did you make me proud?"
+	myText[0] = "Be sure to listen to your mother"
 
 	myTextCol = -1;
 	speaker = -1;
+}

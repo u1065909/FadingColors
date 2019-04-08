@@ -18,8 +18,8 @@ if(obj_game_controller.day == 2 && arrayContains(Bridget_The_Bookworm,obj_game_c
 else if(obj_game_controller.day == 2 && arrayContains(Bridget_The_Bookworm,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
 {
 	myText = -1
-	myText[0] = "Another essay"
-	myText[1] = "Great!"
+	myText[0] = "Time to study."
+
 
 	speaker = -1;
 

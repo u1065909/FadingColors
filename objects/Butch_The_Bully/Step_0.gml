@@ -19,7 +19,7 @@ else if(obj_game_controller.day == 2 && arrayContains(Butch_The_Bully,obj_game_c
 {
 	//This is for the second time you talk to them after class
 	myText = -1;
-	myText[0] = "Second Time talking to me after class"
+	myText[0] = "what, you gonna cry?"
 
 	myTextCol = -1;
 	speaker = -1;

@@ -15,16 +15,12 @@ if(obj_game_controller.day == 2 && arrayContains(Jordan_The_Jokester,obj_game_co
 	myName = "Jordan";
 
 }
-else if(obj_game_controller.day == 2 && arrayContains(Jordan_The_Jokester,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 {
 	myText = -1
-	myText[0] = "Yo broseph"
-	myText[1] = "Whats up?"
+	myText[0] = "See ya tommorow bro"
 	speaker = -1;
-
-	myScripts[0] = [gain_color,10];
-	myScripts[1] = [addToTalkedArray,Jordan_The_Jokester]
-
+	myTextCol = -1;
 
 	myName = "Jordan";
 	

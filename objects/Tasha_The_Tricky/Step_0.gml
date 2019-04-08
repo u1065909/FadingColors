@@ -17,7 +17,7 @@ if(obj_game_controller.day == 2 && arrayContains(Tasha_The_Tricky,obj_game_contr
 else if(obj_game_controller.day == 2 && arrayContains(Tasha_The_Tricky,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
 {
 	myText = -1
-	myText[0] = "See you tommorow."
+	myText[0] = "Bye."
 
 	speaker = -1;
 

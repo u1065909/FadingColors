@@ -14,7 +14,7 @@ myScripts[0] = [gain_color,10];
 myScripts[1] = [addToTalkedArray,Kevin_The_King]
 myName = "Kevin";
 
-if(obj_game_controller.day == 3)
+if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 {
 	myText[0] = "My ds was confiscated"
 	myText[1] = "Apparently I was 'distracted' in class"
