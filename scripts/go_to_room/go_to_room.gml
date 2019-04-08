@@ -16,13 +16,12 @@ else if(obj_game_controller.room_id== 2 && obj_game_controller.day == 2)
 {
 	obj_player.x = 128;
 	obj_player.y =352;
-	room_goto(r_Park);
-}
-else if(obj_game_controller.room_id== 2 && obj_game_controller.day == 3)
-{
-	obj_player.x = 128;
-	obj_player.y =352;
-	room_goto(r_Park);
+	if(obj_game_controller.day == 2)
+		room_goto(r_Park_Fall);
+	else if(obj_game_controller.day == 3)
+		room_goto(r_Park_Winter);
+	else
+		room_goto(r_Park_Spring);
 }
 else if(obj_game_controller.room_id == 3)
 {
