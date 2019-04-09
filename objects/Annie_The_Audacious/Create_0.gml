@@ -20,8 +20,8 @@ myName = "Annie";
 
 if(obj_game_controller.day == 3)
 {
-	myText[0] = "On my way home"
-	myText[1] = "My mom said we might get a dog"
+	myText[0] = "Having a dog running around is really nice"
+	myText[1] = "It makes my house feel less empty"
 	speaker = -1;
 
 	myScripts[0] = [gain_color,10];

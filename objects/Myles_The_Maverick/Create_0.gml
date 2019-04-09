@@ -16,14 +16,14 @@ myName = "Myles";
 
 if(obj_game_controller.day == 3)
 {
-	myText[0] = "Another Essay"
-	myText[1] = "Great..."
+	myText[0] = "Yo..."
+	myText[1] = "Now get outta here Im waiting for Annie"
+	myText[2] = "Wish me luck"
 
 	speaker = -1;
 
-	myScripts[0] = [gain_color,10];
 	myScripts[1] = [addToTalkedArray,Myles_The_Maverick]
-
+	myScripts[2] = [gain_color,10];
 
 	myName = "Myles";
 

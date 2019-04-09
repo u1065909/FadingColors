@@ -21,8 +21,9 @@ myScripts[1] = [spawn_mini_game,myWords,Sarah_The_Socialite];
 
 if(obj_game_controller.day == 3)
 {
-	myText[0] = "Im going to the store with Kevin"
-	myText[1] = "What about you?"
+	myText[0] = "How are you doing?"
+	myText[1] = "I heard that the teacher is going to have a pop quiz today"
+	myText[2] = "have you studied?"
 
 	speaker = -1;
 

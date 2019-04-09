@@ -45,3 +45,9 @@ else if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 
 	myTextCol = -1;
 	speaker = -1;
+	
+if(obj_game_controller.day == 3)
+	myText[0] = "Are you okay dear?"
+	myText[1] = "you seem under the weather"
+	myTextCol = -1;
+	speaker = -1;

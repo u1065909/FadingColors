@@ -15,9 +15,10 @@ myScripts[1] = [addToTalkedArray,Rachel_The_Random]
 
 if(obj_game_controller.day == 3)
 {
-	myText[0] = "Ready for another day?"
-	myText[1] = "Im not."
-
+	myText[0] = "I got a pet lizard the other day"
+	myText[1] = "I named him Zuul"
+	myText[2] = "You have a cat named Talley right?"
+	myText[3] = "I heard it from Myles"
 	speaker = -1;
 
 	myScripts[0] = [gain_color,10];

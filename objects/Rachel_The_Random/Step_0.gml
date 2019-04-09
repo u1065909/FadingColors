@@ -28,3 +28,11 @@ if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 
 	myName = "Rachel";
 }
+if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
+	
+	myText = -1
+	myText[0] = "You have a cat named Talley right?"
+	myText[1] = "I heard it from Myles"
+	speaker = -1;
+	myTextCol = -1
+	myName = "Rachel"

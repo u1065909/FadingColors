@@ -31,3 +31,10 @@ if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 	myName = "Tasha";
 
 }
+if(obj_game_controller.day == 3)
+{
+	myText[0] = "Finally did an essay"
+	myText[1] = "I feel surprisingly good about it"
+	speaker = -1
+	myScripts [1] = [gain_color,10]
+}	

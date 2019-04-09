@@ -47,7 +47,7 @@ else if(obj_game_controller.day == 2)
 	myName = "Dad";
 	myScripts[1] = [spawn_mini_game,myWords,Derek_The_Dad];
 }
-else if(obj_game_controller.day == 2 && arrayContains(Derek_The_Dad,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+else if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 
 	myText = -1;
 	myText[0] = "How was your first day at school champ?"
@@ -55,3 +55,11 @@ else if(obj_game_controller.day == 2 && arrayContains(Derek_The_Dad,obj_game_con
 
 	myTextCol = -1;
 	speaker = -1;
+if(obj_game_controller.day == 3)
+	myText[0] = "Bye Champ"
+	myText[1] = "Im heading to work"
+	myText[2] = "Have fun at school"
+	myTextCol =  -1
+	speaker = -1
+	myName = "Dad"
+	myScripts[1] = [gain_color,10]
