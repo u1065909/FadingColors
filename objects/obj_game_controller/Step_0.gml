@@ -37,6 +37,8 @@ if(currentRoom != room)
 }
 if(day == 2 && arrayContains(Patty_The_Professor,objsTalkedTo) && !classHappened)
 {
+	objsTalkedTo = -1;
+	objsTalkedTo[0] = 0;
 	classHappened = true;
 	//fadeInThenOut(.02);
 	obj_player.x = 634;

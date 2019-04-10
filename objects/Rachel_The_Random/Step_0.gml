@@ -5,7 +5,7 @@
 detection_radius = 50;
 event_inherited();
 
-if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game_controller.objsTalkedTo))
+if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game_controller.objsTalkedTo)&& obj_game_controller.classHappened)
 {
 	myScripts[0] = [doNothing];
 	myText = -1;
@@ -16,7 +16,7 @@ if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game_cont
 	myName = "Rachel";
 
 }
-if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
+else if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game_controller.objsTalkedTo)&& obj_game_controller.classHappened)
 {
 	myText = -1
 	myText[0] = "Nope"

@@ -4,15 +4,17 @@
 // Inherit the parent event
 
 event_inherited();
-myText[0] = "Yo"
-myText[1] = "What brings you to my corner of the classroom?"
+if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
+{
+	myText[0] = "Yo"
+	myText[1] = "What brings you to my corner of the classroom?"
 
-speaker = -1;
-myScripts[0] = [gain_color,10];
+	speaker = -1;
+	myScripts[0] = [gain_color,10];
 
-myName = "Rachel"
-myScripts[1] = [addToTalkedArray,Rachel_The_Random]
-
+	myName = "Rachel"
+	myScripts[1] = [addToTalkedArray,Rachel_The_Random]
+}
 if(obj_game_controller.day == 3)
 {
 	myText[0] = "I got a pet lizard the other day"

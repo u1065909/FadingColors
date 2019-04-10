@@ -5,7 +5,7 @@
 detection_radius = 50;
 event_inherited();
 
-if(obj_game_controller.day == 2 && arrayContains(Sarah_The_Socialite,obj_game_controller.objsTalkedTo))
+if(obj_game_controller.day == 2 && arrayContains(Sarah_The_Socialite,obj_game_controller.objsTalkedTo)&& !obj_game_controller.classHappened)
 {
 	myText = -1;
 	myText[0] = "Im talking to Kevin."
@@ -15,7 +15,7 @@ if(obj_game_controller.day == 2 && arrayContains(Sarah_The_Socialite,obj_game_co
 	myName = "Sarah";
 
 }
-if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
+else if(obj_game_controller.day == 2 && arrayContains(Sarah_The_Socialite,obj_game_controller.objsTalkedTo)&& obj_game_controller.classHappened)
 {
 	myText = -1
 	myText[0] = "Bye"
