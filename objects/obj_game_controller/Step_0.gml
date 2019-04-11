@@ -62,3 +62,12 @@ if(day == 1 && arrayContains(Mallory_The_Mom,objsTalkedTo)
 		-1,
 		);
 }
+
+if(day == 2 && arrayContains(Mallory_The_Mom,objsTalkedTo) 
+&& !arrayContains(Mallory_The_Mom,thoughtsActivatedOnObjs) 
+&& !instance_exists(obj_dialogue_wall)
+&& !instance_exists(obj_textbox)
+&& classHappened)
+{
+		
+}

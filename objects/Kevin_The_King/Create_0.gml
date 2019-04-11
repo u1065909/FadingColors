@@ -33,7 +33,8 @@ if(obj_game_controller.day == 3)
 		myText[0] = "Sup"
 		myText[1] = "What are you up to?"
 		myText[2] = "I just beat the new Halo"
+		myText[3] = "I'm pumped"
 		speaker = -1
-		myScripts[1] = [gain_color,10]
+		myScripts[3] = [gain_color,10]
 		myName = "Kevin"
 }

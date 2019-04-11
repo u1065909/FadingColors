@@ -31,7 +31,7 @@ else if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 }
 if(obj_game_controller.day == 3)
 {
-	myText[0] = "Yo..."
+	myText[0] = "Yo, bro..."
 	myText[1] = "Now get outta here Im waiting for Annie"
 	myText[2] = "Wish me luck"
 

@@ -26,3 +26,11 @@ else if(obj_game_controller.day == 2 && arrayContains(Butch_The_Bully,obj_game_c
 	speaker = -1;
 	myName = "Butch";
 }
+if(obj_game_controller.day == 3 && arrayContains(Butch_The_Bully,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
+
+	myText = -1;
+	myText[0] = "Piss Off Douchenozzle"
+	myScripts[0] = [gain_color,-5]
+	myTextCol = -1
+	speaker = -1;
+
