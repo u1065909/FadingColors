@@ -4637,6 +4637,25 @@
             }
         },
         {
+            "Key": "c7000e5d-49fa-4f17-9248-734b26806a22",
+            "Value": {
+                "id": "3402f06b-39a7-4328-9488-ea4e047b8988",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Tree_For_Fall\/Tree_For_Fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c86ccb4c-1bfc-42cb-8e07-614051494a98",
             "Value": {
                 "id": "b48cff4c-2299-42f7-b3fe-0230ffe492ea",
@@ -5454,6 +5473,25 @@
             }
         },
         {
+            "Key": "f3cc3ec8-e595-42b1-991a-f01115bddefa",
+            "Value": {
+                "id": "8db004ce-dab3-42a1-a1ae-43eff703ba82",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/The_Park_For_Fall\/The_Park_For_Fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "4fba082c-31ff-47f0-ba45-c2c9705b63a9",
@@ -5603,6 +5641,25 @@
                 ],
                 "resourcePath": "sounds\/HallwayClosingDoor_2\/HallwayClosingDoor_2.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "fa66ec66-f042-4fdc-b68d-61b96f972740",
+            "Value": {
+                "id": "fb5e7396-5936-4a45-a806-50213609283e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/A_Tree_For_Fall\/A_Tree_For_Fall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
