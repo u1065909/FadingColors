@@ -12,7 +12,7 @@ else if(obj_game_controller.room_id == 1)
 	obj_player.y = 150;
 	room_goto(r_living_room);
 }
-else if(obj_game_controller.room_id== 2 && obj_game_controller.day == 2)
+else if(obj_game_controller.room_id== 2)
 {
 	obj_player.x = 128;
 	obj_player.y =352;

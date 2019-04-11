@@ -18,8 +18,9 @@ if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
 
 
 	myName = "Bridget"
+	myScripts[1] = [spawn_mini_game,myWords,Bridget_The_Bookworm];
 }
-myScripts[1] = [spawn_mini_game,myWords,Bridget_The_Bookworm];
+
 
 if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 {
