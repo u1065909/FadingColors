@@ -2,7 +2,7 @@
 // You can write your code in this editor
 if(i < array_length_1d(words)-1)
 {
-	randompos = random_range(0, 200);
+	randompos = random_range(50, 150);
 	if(i == 0)
 	{
 		show_debug_message("In here");
