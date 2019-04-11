@@ -2129,6 +2129,25 @@
             }
         },
         {
+            "Key": "58c8cbe6-ce45-4531-a6e8-e6c79c48b13a",
+            "Value": {
+                "id": "fce1eb91-2414-4aa5-bf97-58a85d560c27",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Myles_For_Fall\/Myles_For_Fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "58ed1fb2-4495-4a42-a52c-8b4b273e285b",
             "Value": {
                 "id": "206a34f5-0caa-422a-bbed-70e35512e3dc",
@@ -2163,6 +2182,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/Tasha\/Tasha.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5aa37d35-9ff4-40c6-8cdd-3a5f66c9ef77",
+            "Value": {
+                "id": "b213f829-056f-49c7-81ef-b05e97942987",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Noah_For_Fall\/Noah_For_Fall.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3440,6 +3478,25 @@
             }
         },
         {
+            "Key": "8ed31a87-bb4a-4468-a3f2-1249516abfbe",
+            "Value": {
+                "id": "d695bafa-346b-47b9-8fb4-bb0bc9612c56",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Annie_Su_For_Fall\/Annie_Su_For_Fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8f7c0266-6f3b-49bc-8fd7-688eed9405a9",
             "Value": {
                 "id": "c454a04a-b414-467c-b9eb-83886932028e",
@@ -3474,6 +3531,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_black_fader\/spr_black_fader.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "918f32a6-78ca-4700-9cb2-a2584c87d64b",
+            "Value": {
+                "id": "303a9ad1-863b-48b7-bfa6-c4f6dae580cf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Rachel_For_Fall\/Rachel_For_Fall.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3782,6 +3858,25 @@
             }
         },
         {
+            "Key": "9a7863e0-5e1a-4209-b058-69ca53dc14f4",
+            "Value": {
+                "id": "0c61c4c5-0f13-466b-977a-b3058f7f29bf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Butch_For_Fall\/Butch_For_Fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9aa7eb7b-d11b-429e-973c-70a2ee27f1e8",
             "Value": {
                 "id": "02c1d879-0850-4abb-a4d0-bce96b2bacb4",
@@ -4064,6 +4159,25 @@
                 ],
                 "resourcePath": "objects\/Annie_The_Audacious\/Annie_The_Audacious.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a77065d1-f7c6-4466-9313-12db0db5ac54",
+            "Value": {
+                "id": "e46d2251-1fd9-4e07-a256-6bc14e8a99b3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Tasha_For_Fall\/Tasha_For_Fall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -4542,6 +4656,25 @@
             }
         },
         {
+            "Key": "c8a76323-3deb-44c2-a1a5-f1beb3c22caf",
+            "Value": {
+                "id": "4f11e209-f390-4192-9d66-f008d191a69e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Jordan_For_Fall\/Jordan_For_Fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c9ea24e2-f526-46d0-904d-6da08ceb0370",
             "Value": {
                 "id": "0816eff2-b5d7-48a5-bb97-b9f2abfe214a",
@@ -4941,6 +5074,25 @@
             }
         },
         {
+            "Key": "dbf524fc-a052-4761-b5a8-6586e541e9a2",
+            "Value": {
+                "id": "50db00e4-4e22-4d86-89ab-f732dc8d349b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Ellen_For_Fall\/Ellen_For_Fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dce5b4d1-5e6e-4f14-b49f-71b1ad621c72",
             "Value": {
                 "id": "333ec373-bb4c-4893-9e2c-9c8a02b6f7bd",
@@ -5014,6 +5166,25 @@
                 ],
                 "resourcePath": "scripts\/lose_color\/lose_color.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e15b729f-6f34-4f9c-a273-4e6ec6d67226",
+            "Value": {
+                "id": "0c0a2b30-8bb5-4c72-8e6e-6ac0b280c522",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Kevin_For_Fall\/Kevin_For_Fall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -5432,6 +5603,25 @@
                 ],
                 "resourcePath": "sounds\/HallwayClosingDoor_2\/HallwayClosingDoor_2.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "fab64e34-072d-4ca2-8d34-9d3dabb0cdd7",
+            "Value": {
+                "id": "9238bb8d-d0b7-4537-a631-13c221cf9622",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Sarah_For_Fall\/Sarah_For_Fall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
