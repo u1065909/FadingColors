@@ -164,15 +164,16 @@ else if(obj_game_controller.day == 3)
 		{
 			create_textevent(
 		["Winter", 
-		"i feel so alone"],
+		"School sucked",
+		"I was able to make some friends at least",
+		"Myles and Rachel"],
 	
-		
 		-1,
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[fadeIn,.02]],
+		 [[doNothing],[doNothing],[doNothing],[fadeIn,.02]],
 		);
 		}
 		else
@@ -186,13 +187,15 @@ else if(obj_game_controller.day == 3)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["Why is it hard to breathe?"],
+		["Class....",
+		"End of the hall once again",
+		"I hope Butch isnt in the way"],
 		-1,
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[fadeIn,.02]],
+		 [[doNothing],[doNothing],[fadeIn,.02]],
 		);
 		}
 		else
@@ -205,7 +208,9 @@ else if(obj_game_controller.day == 3)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["The Fresh air smells nice"],
+		["Class....",
+		"End of the hall once again",
+		"I hope Butch isnt in the way"],
 		-1,
 		-1,
 		-1,
