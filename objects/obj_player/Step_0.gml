@@ -6,6 +6,7 @@ if(canMove)
 {
 	player_movement();
 }
+playerAnim();
 if(colorMeter == 70)
 	attemptsNeededToLeaveBed = 2;
 else if(colorMeter == 50)
