@@ -35,7 +35,7 @@ if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 	myName = "Bridget";
 
 }
-if(obj_game_controller.day == 3)
+if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 {
 		myText[0] = "Hey!"
 		myText[1] = "Have you caught up on the reading?"
