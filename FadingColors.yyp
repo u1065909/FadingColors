@@ -5036,6 +5036,25 @@
             }
         },
         {
+            "Key": "d3534a56-7865-4633-bf47-28c66ac65270",
+            "Value": {
+                "id": "f26cd22a-7413-40ee-bd50-3a7b99985aa4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Idle_Noah\/Idle_Noah.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d3ac7a74-b108-4b57-8682-0e700c4d0b5e",
             "Value": {
                 "id": "4b662b37-14c9-4ac0-b8eb-7be3fa82cf4b",
