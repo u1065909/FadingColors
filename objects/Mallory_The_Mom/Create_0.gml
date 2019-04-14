@@ -46,8 +46,23 @@ else if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 	myTextCol = -1;
 	speaker = -1;
 	
-if(obj_game_controller.day == 3)
+if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
+{
 	myText[0] = "Are you okay dear?"
 	myText[1] = "you seem under the weather"
 	myTextCol = -1;
 	speaker = -1;
+	myScripts[0] = [gain_color,10];
+	myScripts[1] = [addToTalkedArray,Mallory_The_Mom]
+	myName = "Mom";
+}	
+if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
+{
+	myText[0] = "How was school?"
+	myText[1] = "How is Myles and Rachel"
+	myTextCol = -1;
+	speaker = -1
+	myScripts[0] = [gain_color,10]
+	myScripts[1] = [addToTalkedArray,Mallory_The_Mom]
+	myName = "Mom"
+}

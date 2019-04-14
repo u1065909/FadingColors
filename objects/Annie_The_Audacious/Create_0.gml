@@ -17,8 +17,16 @@ myWords[3] = spr_Bury;
 myScripts[1] = [spawn_mini_game,myWords,Annie_The_Audacious];
 myName = "Annie";
 
+if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
+{
+	myText[0] = "My parents called and said we were going to get a puppy"
+	speaker = -1;
+	myName = "Annie";
+}
 
-if(obj_game_controller.day == 3)
+
+
+if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 {
 	myText[0] = "Having a dog running around is really nice"
 	myText[1] = "It makes my house feel less empty"
@@ -30,4 +38,13 @@ if(obj_game_controller.day == 3)
 
 	myName = "Annie";
 
+}
+if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
+{
+	myText[0] = "Now I get to go home and see Teddy!"
+	myText[1] = "...My dog"
+	speaker = -1
+	myScripts[0] = [gain_color,10];
+	myScripts[1] = [addToTalkedArray, Annie_The_Audacious]
+	myName = "Annie";
 }

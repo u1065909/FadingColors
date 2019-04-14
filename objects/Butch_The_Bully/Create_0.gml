@@ -44,10 +44,17 @@ else if(obj_game_controller.day == 2 && arrayContains(Butch_The_Bully,obj_game_c
 	myText[1] = "What"
 	myText[1] = "go home to your mom"
 	
-if(obj_game_controller.day == 3)
+if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 	myText[0] = "Hey dweeb"
 	myText[1] = "Where you running to?"
 	myText[2] = "Another fuck up?"
 	myScripts[1] = [gain_color,-5];
 	myScripts[2] = [addToTalkedArray, Butch_The_Bully]
 	myName = "Butch"
+if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
+{
+	myText[0] = "Look, just leave me alone"
+	myText[1] = "Talking to you is pointless"
+	myScripts[1] = [addToTalkedArray,Butch_The_Bully]
+	myName = "Butch"
+}

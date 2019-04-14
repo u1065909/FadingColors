@@ -17,13 +17,19 @@ if(obj_game_controller.day == 2 && arrayContains(Tasha_The_Tricky,obj_game_contr
 else if(obj_game_controller.day == 2 && arrayContains(Tasha_The_Tricky,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
 {
 	myText = -1
-	myText[0] = "Bye."
+	myText[0] = "Bye"
 
 	speaker = -1;
-
-	myScripts[0] = [gain_color,10];
-	myScripts[1] = [addToTalkedArray,Tasha_The_Tricky]
 
 
 	myName = "Tasha";
 }
+else if(obj_game_controller.day == 2 && arrayContains(Tasha_The_Tricky,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+{
+		myText = -1
+		myText[0] = "The more you know"
+		speaker = -1
+		myName = "Tasha"
+}
+		
+		

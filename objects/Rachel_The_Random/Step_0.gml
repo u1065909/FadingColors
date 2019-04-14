@@ -28,7 +28,7 @@ else if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game
 
 	myName = "Rachel";
 }
-if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
+if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 	
 	myText = -1
 	myText[0] = "You have a cat named Talley right?"

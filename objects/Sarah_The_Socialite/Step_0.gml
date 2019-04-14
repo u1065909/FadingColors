@@ -27,3 +27,18 @@ else if(obj_game_controller.day == 2 && arrayContains(Sarah_The_Socialite,obj_ga
 	myName = "Sarah";
 
 }
+else if(obj_game_controller.day == 3 && arrayContains(Sarah_The_Socialite,obj_game_controller.objsTalkedTo))
+{
+	myText = -1
+	myText[0] = "I'm so unprepared"
+
+	speaker = -1;
+	myTextCol = -1;
+	myScripts[0] = [doNothing];
+
+	myName = "Sarah";
+
+}
+else if(obj_game_controller.day == 3 && arrayContains(Sarah_The_Socialite,obj_game_controller.objsTalkedTo)&& obj_game_controller.classHappened)
+{
+}

@@ -21,7 +21,7 @@ if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
 
 	myScripts[1] = [spawn_mini_game,myWords,Sarah_The_Socialite];
 }
-if(obj_game_controller.day == 3)
+if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 {
 	myText[0] = "How are you doing?"
 	myText[1] = "I heard that the teacher is going to have a pop quiz today"
@@ -35,4 +35,12 @@ if(obj_game_controller.day == 3)
 
 	myName = "Sarah";
 
+}
+if(obj_game_controller.day == 4 && obj_game_controller.classHappened)
+{
+	myText[0] = "Hey..."
+	myText[1] = "Can you leave me alone please"
+	speaker = -1
+	myScripts[0] = [gain_color, 10]
+	myScripts[1] = [addToTalkedArray,Sarah_The_Socialite]
 }

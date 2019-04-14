@@ -33,3 +33,11 @@ else if(obj_game_controller.day == 2 && arrayContains(Mallory_The_Mom,obj_game_c
 	speaker = -1
 	myName = "Mom"
 }
+else if(obj_game_controller.day == 3 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+{
+	myText = -1;
+	myText[0] = "Your dad should me back from work in a couple hours"
+	myTextCol = -1
+	speaker = -1
+	myName = "Mom"
+}
