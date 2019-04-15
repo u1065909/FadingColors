@@ -12,3 +12,11 @@ if(obj_game_controller.day == 2 && arrayContains(Patty_The_Professor,obj_game_co
 	speaker = -1;
 	myScripts[0] = [doNothing];
 }
+if(obj_game_controller.day == 3 && arrayContains(Patty_The_Professor,obj_game_controller.objsTalkedTo))
+{
+	myText = -1;
+	myScripts = -1
+	myText[0] = "be sure to read the noext fifteen pages"
+	speaker = -1;
+	myScripts[0] = [doNothing]
+}

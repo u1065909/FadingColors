@@ -51,10 +51,17 @@ if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
 }
 if(obj_game_controller.day == 4 && obj_game_controller.classHappened)	
 {
-	myText[1] = "Im so glad we are done with the book"
-	myText[0] = "It was so boring"
+	myText[0] = "Im so glad we are done with the book"
+	myText[1] = "It was so boring"
 	myScripts[0] = [addToTalkedArray,Jordan_The_Jokester]
 	myScripts[1] = [gain_color,10];
 	myName = "Jordan"
 }
+if(obj_game_controller.day == 4 && obj_game_controller.classHappened)
+{
+	myText[0] = "Finally, now I can catch up on Thrones"
+	myText[1] = "The new season just started"
+	myScripts[0] = [gain_color,10]
+	myScripts[1] = [addToTalkedArray,Jordan_The_Jokester]
+	myName = "Jordan"
 }

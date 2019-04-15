@@ -41,3 +41,18 @@ else if(obj_game_controller.day == 3 && arrayContains(Mallory_The_Mom,obj_game_c
 	speaker = -1
 	myName = "Mom"
 }
+else if(obj_game_controller.day == 3 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo))
+{
+	myText = -1;
+	myText[0] = "Say hi to Myles and Rachel for me"
+	myTextCol = -1
+	speaker = -1
+	myName = "Mom"
+}
+else if(obj_game_controller.day == 4 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+{
+	myText = -1
+	myTextCol = -1
+	speaker = -1
+	myText[0] = "Have a good day at school dear"
+}

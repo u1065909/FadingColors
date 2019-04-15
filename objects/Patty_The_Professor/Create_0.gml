@@ -15,3 +15,10 @@ if(obj_game_controller.day == 2)
 	myName = "Teacher";
 	myScripts[1] = [addToTalkedArray,Patty_The_Professor];
 }
+if(obj_game_controller.day == 3)
+{
+	myText[0] = "Alright, Time for class"
+	speaker = -1
+	myScripts[0] = [addToTalkedArray,Patty_The_Professor]
+	myName = "Teacher"
+}

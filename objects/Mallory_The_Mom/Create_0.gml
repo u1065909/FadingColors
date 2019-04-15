@@ -66,3 +66,13 @@ if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
 	myScripts[1] = [addToTalkedArray,Mallory_The_Mom]
 	myName = "Mom"
 }
+if(obj_game_controller.day == 4 && !obj_game_controller.classHappened)
+{
+	myText[0] = "You can do this"
+	myText[1] = "Summer is almost here"
+	myTextCol = -1;
+	speaker = -1
+	myScripts[0] = [addToTalkedArray,Mallory_The_Mom]
+	myScripts[1] = [gain_color,10]
+	myName = "Mom"
+}
