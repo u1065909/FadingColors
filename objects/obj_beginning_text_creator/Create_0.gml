@@ -228,7 +228,7 @@ else if(obj_game_controller.day == 3)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["I hope I dont run into Butch
+		["I hope I dont run into Butch"
 		"Im to tired for this"],
 		-1,
 		-1,
@@ -236,7 +236,7 @@ else if(obj_game_controller.day == 3)
 		-1,
 		-1,
 		 [[doNothing],[fadeIn,.02]],
-		);
+		)
 		}
 		else
 		{
@@ -248,7 +248,7 @@ else if(obj_game_controller.day == 3)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["here we go."],
+		["I hope I dont fall asleep during class"],
 		-1,
 		-1,
 		-1,
@@ -272,7 +272,8 @@ else if(obj_game_controller.day == 4)
 		{
 			create_textevent(
 		["Spring", 
-		"i feel so alone"],
+		"Almost done"
+		"Then summer"],
 	
 		
 		-1,
@@ -294,7 +295,8 @@ else if(obj_game_controller.day == 4)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["Why is it hard to breathe?"],
+		["I hope Myles and Rachel will want to hang out"  
+		"its summer after all"],
 		-1,
 		-1,
 		-1,
@@ -313,7 +315,7 @@ else if(obj_game_controller.day == 4)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["The Fresh air smells nice"],
+		["Nature smells nice"],
 		-1,
 		-1,
 		-1,
@@ -332,14 +334,13 @@ else if(obj_game_controller.day == 4)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["... I forgot to write my introduction essay",
-		"Where is my class... I think it's the last door"],
+		["One last time"]
 		-1,
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[fadeIn,.02]],
+		 [fadeIn,.02],
 		);
 		}
 		else
@@ -352,7 +353,7 @@ else if(obj_game_controller.day == 4)
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
 			create_textevent(
-		["here we go."],
+		["I hope things end up the same way next year"],
 		-1,
 		-1,
 		-1,
