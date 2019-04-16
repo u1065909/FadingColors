@@ -51,6 +51,11 @@ if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 	myScripts[1] = [gain_color,-5];
 	myScripts[2] = [spawn_mini_game,myWords,Butch_The_Bully];
 	myName = "Butch"
+	myWords[1] = spr_Another;
+	myWords[2] = spr_Running;
+	myWords[3] = spr_Problem;
+
+
 if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 {
 	myText[0] = "Look, just leave me alone"
