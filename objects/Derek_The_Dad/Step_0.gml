@@ -31,3 +31,17 @@ else if(obj_game_controller.day == 2 && arrayContains(Derek_The_Dad,obj_game_con
 	myTextCol = -1;
 	speaker = -1;
 }
+else if(obj_game_controller.day == 3 && arrayContains(Derek_The_Dad,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
+{
+	myText = -1
+	myText[0] = "Be sure to take plenty of notes"
+	myTextCol = -1
+	speaker = -1
+}
+else if(obj_game_controller.day == 4 && arrayContains(Derek_The_Dad,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
+{
+	myText = -1
+	myText[0] = "youre in the home stretch champ"
+	myTextCol = -1
+	speaker = -1
+}

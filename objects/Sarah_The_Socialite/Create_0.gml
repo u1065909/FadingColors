@@ -36,6 +36,15 @@ if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 	myName = "Sarah";
 
 }
+if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
+{
+	myText[0] = "That test was so irritating"
+	myText[1] = "We didnt learn that stuff"
+	speaker = -1
+	myScripts[0] = [gain_color,10]
+	myScripts[1] = [addToTalkedArray,Sarah_The_Socialite]
+	myName = "Sarah"
+}
 if(obj_game_controller.day == 4 && !obj_game_controller.classHappened)
 {
 	myText[0] = "Hey..."
@@ -46,8 +55,8 @@ if(obj_game_controller.day == 4 && !obj_game_controller.classHappened)
 }
 if(obj_game_controller.day == 4 && obj_game_controller.classHappened)
 {
-	myText[0] = "..."
-	myText[1] = "Time to go to a water park"
+	myText[0] = "Time to go to a waterpark"
+	myText[1] = "no use feeling down"
 	speaker = -1
 	myScripts[0] = [addToTalkedArray,Sarah_The_Socialite]
 	myScripts[1] = [gain_color,10]

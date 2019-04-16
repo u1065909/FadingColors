@@ -20,9 +20,28 @@ else if(obj_game_controller.day == 2 && arrayContains(Annie_The_Audacious,obj_ga
 	myText = -1
 	myText[0] = "Just need to think of a name..."
 	speaker = -1;
+	myScripts[0] = [doNothing];
 
-	myScripts[0] = [gain_color,10];
-	myScripts[1] = [addToTalkedArray, Annie_The_Audacious]
+
+
+	myName = "Annie";
+}
+else if(obj_game_controller.day == 3 && arrayContains(Annie_The_Audacious,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
+{
+	myText = -1
+	myText[0] = "See you in class"
+	speaker = -1;
+	myScripts[0] = [doNothing];
+
+
+	myName = "Annie";
+}
+else if(obj_game_controller.day == 3 && arrayContains(Annie_The_Audacious,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
+{
+	myText = -1
+	myText[0] = "On my way home"
+	speaker = -1;
+	myScripts[0] = [doNothing];
 
 
 	myName = "Annie";

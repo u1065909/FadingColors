@@ -22,3 +22,10 @@ if(obj_game_controller.day == 3)
 	myScripts[0] = [addToTalkedArray,Patty_The_Professor]
 	myName = "Teacher"
 }
+if(obj_game_controller.day == 4)
+{
+	myText[0] = "It may be the last day but you still have to pay attention"
+	speaker = -1
+	myScripts[0] = [addToTalkedArray,Patty_The_Professor]
+	myName = "Teacher"
+}

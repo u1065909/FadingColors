@@ -24,12 +24,31 @@ else if(obj_game_controller.day == 2 && arrayContains(Tasha_The_Tricky,obj_game_
 
 	myName = "Tasha";
 }
-else if(obj_game_controller.day == 2 && arrayContains(Tasha_The_Tricky,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+else if(obj_game_controller.day == 3 && arrayContains(Tasha_The_Tricky,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
 {
 		myText = -1
 		myText[0] = "The more you know"
 		speaker = -1
 		myName = "Tasha"
 }
-		
-		
+else if(obj_game_controller.day == 3 && arrayContains(Tasha_The_Tricky,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)		
+{
+	myText = -1
+	myText[0] = "Hope the teacher grades it soon"
+	speaker = -1
+	myName = "Tasha"
+}
+else if(obj_game_controller.day == 4 && arrayContains(Tasha_The_Tricky,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)	
+{
+	myText = -1
+	myText[0] = "Looking foward to it"
+	speaker = -1
+	myName = "Tasha"
+}
+else if(obj_game_controller.day == 4 && arrayContains(Tasha_The_Tricky,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)	
+{
+	myText = -1
+	myText[0] = "Finally"
+	speaker = -1
+	myName = "Tasha"
+}

@@ -28,11 +28,30 @@ else if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game
 
 	myName = "Rachel";
 }
-if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
+else if(obj_game_controller.day == 3 && arrayContains(Rachel_The_Random,obj_game_controller.objsTalkedTo)&& !obj_game_controller.classHappened)
 	
 	myText = -1
 	myText[0] = "You have a cat named Talley right?"
 	myText[1] = "I heard it from Myles"
 	speaker = -1;
+	myTextCol = -1
+	myName = "Rachel"
+if(obj_game_controller.day == 3 && arrayContains(Rachel_The_Random,obj_game_controller.objsTalkedTo)&& obj_game_controller.classHappened)
+	
+	myText = -1
+	myText[0] = "Im not"
+	speaker = -1;
+	myTextCol = -1
+	myName = "Rachel"
+if(obj_game_controller.day == 4 && arrayContains(Rachel_The_Random,obj_game_controller.objsTalkedTo)&& !obj_game_controller.classHappened)
+	myText = -1
+	myText[0] = "Yep"
+	speaker = -1;
+	myTextCol = -1
+	myName = "Rachel"
+if(obj_game_controller.day == 4 && arrayContains(Rachel_The_Random,obj_game_controller.objsTalkedTo)&& obj_game_controller.classHappened)
+	myText = -1
+	myText[0] = "And shows"
+	speaker = -1
 	myTextCol = -1
 	myName = "Rachel"
