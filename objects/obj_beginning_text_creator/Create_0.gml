@@ -131,7 +131,7 @@ else if(obj_game_controller.day == 2)
 			fadeIn(.02);
 		}
 	}
-	else if(room == r_hallway)
+	else if(room == r_hallway_Fall)
 	{
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
@@ -151,7 +151,7 @@ else if(obj_game_controller.day == 2)
 			fadeIn(.02);
 		}
 	}
-	else if(room == r_classroom)
+	else if(room == r_classroom_Fall)
 	{
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
@@ -240,7 +240,7 @@ else if(obj_game_controller.day == 3)
 			fadeIn(.02);
 		}
 	}
-	else if(room == r_hallway)
+	else if(room == r_hallway_Winter)
 	{
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
@@ -260,7 +260,7 @@ else if(obj_game_controller.day == 3)
 			fadeIn(.02);
 		}
 	}
-	else if(room == r_classroom)
+	else if(room == r_classroom_Winter)
 	{
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
@@ -346,7 +346,7 @@ else if(obj_game_controller.day == 4)
 			fadeIn(.02);
 		}
 	}
-	else if(room == r_hallway)
+	else if(room == r_hallway_Spring)
 	{
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
@@ -365,7 +365,7 @@ else if(obj_game_controller.day == 4)
 			fadeIn(.02);
 		}
 	}
-	else if(room == r_classroom)
+	else if(room == r_classroom_Spring)
 	{
 		if(!arrayContains(room_get_name(room),obj_game_controller.roomsVisitedTo))
 		{
