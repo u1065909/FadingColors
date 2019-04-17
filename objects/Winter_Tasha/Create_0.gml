@@ -2,7 +2,7 @@
 // You can write your code in this editor
 event_inherited();
 
-if(obj_game_controller.day == 3 && obj_game_controller.classHappened)	
+if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)	
 {	
 	myText[0] = "Finally did an essay";
 	myText[1] = "I feel surprisingly good about it";
