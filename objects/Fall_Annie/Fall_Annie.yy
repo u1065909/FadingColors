@@ -1,8 +1,8 @@
 {
-    "id": "6cbac778-dff4-49bc-9902-9160b0a6ad74",
+    "id": "6d9b3e4c-0f63-4b0b-9525-2ca010e3d9a8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Winter_NPCs",
+    "name": "Fall_Annie",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "8ed31a87-bb4a-4468-a3f2-1249516abfbe",
     "visible": true
 }

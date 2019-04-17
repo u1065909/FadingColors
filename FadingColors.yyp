@@ -172,6 +172,25 @@
             }
         },
         {
+            "Key": "08c21456-4923-440b-b515-a182ee4edc59",
+            "Value": {
+                "id": "2e2d73d8-a17a-4f56-af88-79fcf758b28f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Winter_Butch\/Winter_Butch.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "090c4228-0249-48a8-9d2c-1f4bd7d32560",
             "Value": {
                 "id": "92157ac4-ecd0-43e3-8335-0956d8046757",
@@ -723,6 +742,25 @@
             }
         },
         {
+            "Key": "18152bfa-f86a-409a-a55e-c3f6c5c41a59",
+            "Value": {
+                "id": "cbc1ea83-f0ce-412c-b82d-8b9052172be3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Winter_Myles\/Winter_Myles.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "18825140-fe5d-447e-a98a-536b9e6085a8",
             "Value": {
                 "id": "407e60f8-34b3-4dd7-a167-8454ca7a1ea1",
@@ -815,6 +853,25 @@
                 ],
                 "resourcePath": "sprites\/b_hills\/b_hills.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1c9fd4f5-d24c-4890-8376-747c1a2cd1b8",
+            "Value": {
+                "id": "e08fa065-f353-4c0e-a565-13487d7a2335",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Winter_Jordan\/Winter_Jordan.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1027,25 +1084,6 @@
             }
         },
         {
-            "Key": "222ebce3-525e-41d1-80cd-e77892ba9004",
-            "Value": {
-                "id": "02e1fa2f-157e-4051-aa4f-f65a102ebf48",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/Fall_NPCs\/Fall_NPCs.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "228ab65b-672d-4ff1-bd39-850143ded37d",
             "Value": {
                 "id": "5f2e556c-c626-4d7e-bfb9-6f93842636bd",
@@ -1100,6 +1138,44 @@
                 ],
                 "resourcePath": "scripts\/goToNextDay\/goToNextDay.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "23a70b57-69b3-48a5-b036-ec9b171e1634",
+            "Value": {
+                "id": "0029b8e1-e697-457d-95d7-ba193ead2787",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Winter_Rachel\/Winter_Rachel.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "23f67a63-5534-4fb8-83e2-411dfd8dd5d9",
+            "Value": {
+                "id": "adff84c4-a7cf-4900-8adc-b78fed110013",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Fall_Myles\/Fall_Myles.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1312,6 +1388,25 @@
             }
         },
         {
+            "Key": "31c39f55-6b8d-4ee0-a7bf-6a7a38ffd981",
+            "Value": {
+                "id": "cf4711b6-f3d6-453c-a0d3-ed11f0802955",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/31c39f55-6b8d-4ee0-a7bf-6a7a38ffd981.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "31f80afe-e7de-4f1b-9732-4eac480d46db",
             "Value": {
                 "id": "c5903681-30f3-413b-b7da-2ad184960ca5",
@@ -1442,6 +1537,44 @@
                 ],
                 "resourcePath": "views\/36a52112-7a91-4b47-bdc3-2e0680e0c341.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "36f7f87d-6359-4846-bb1c-19fccbbbd254",
+            "Value": {
+                "id": "93b5738c-30d3-407a-b7d0-6229c8364bf5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Fall_Jordan\/Fall_Jordan.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3868faba-7ce3-4e79-8acc-8e5f6371229e",
+            "Value": {
+                "id": "fe88a4d3-c092-4501-b3e1-443963c5dcea",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Fall_Noah\/Fall_Noah.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1765,6 +1898,25 @@
                 ],
                 "resourcePath": "sprites\/Noah_Back_Walk_Left\/Noah_Back_Walk_Left.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "41309dba-0aea-40bb-880a-23782bfaf44e",
+            "Value": {
+                "id": "dc68211c-d2aa-40fb-aed4-273e17b157b0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Winter_Ellen\/Winter_Ellen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2319,6 +2471,25 @@
             }
         },
         {
+            "Key": "57c2bbf4-9228-4da6-8e4c-c2bfab338886",
+            "Value": {
+                "id": "1c4872b1-6d4b-4807-bb81-f804bcd18888",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Winter_Noah\/Winter_Noah.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "57dec62d-9ad0-4d05-85bf-948c81f5184b",
             "Value": {
                 "id": "214ddca0-bc65-4ba0-9a3b-b256ade692b3",
@@ -2563,6 +2734,25 @@
                 ],
                 "resourcePath": "sprites\/Player_Room_Pixel\/Player_Room_Pixel.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5cecc451-9801-4e32-93ed-42837909dd1a",
+            "Value": {
+                "id": "a8cfa620-e588-4208-a4c1-1994e2d7afb6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Fall_Tasha\/Fall_Tasha.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2965,9 +3155,9 @@
             }
         },
         {
-            "Key": "6cbac778-dff4-49bc-9902-9160b0a6ad74",
+            "Key": "6d0936f3-0ae5-4c99-bf81-0e3630e6f791",
             "Value": {
-                "id": "255a36e7-7341-44fa-8383-fc861eb1120d",
+                "id": "2c9f3831-0d15-420e-ace3-a1943d2f5452",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -2979,8 +3169,8 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/Winter_NPCs\/Winter_NPCs.yy",
-                "resourceType": "GMObject"
+                "resourcePath": "views\/6d0936f3-0ae5-4c99-bf81-0e3630e6f791.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -3019,6 +3209,25 @@
                 ],
                 "resourcePath": "scripts\/approach\/approach.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6d9b3e4c-0f63-4b0b-9525-2ca010e3d9a8",
+            "Value": {
+                "id": "b414b2b3-d0a0-43cf-b4b7-9c22bf64db8f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Fall_Annie\/Fall_Annie.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -3269,6 +3478,25 @@
             }
         },
         {
+            "Key": "764efb4c-61e9-4c2e-b03c-7b83f37141db",
+            "Value": {
+                "id": "dde472ab-24c7-4823-b0b1-1c1df0d41924",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Winter_Annie\/Winter_Annie.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "76799250-20d1-4490-a704-30cdb3a4df1b",
             "Value": {
                 "id": "74afa4e8-5438-4ab8-a8f8-1487d87a486c",
@@ -3285,6 +3513,25 @@
                 ],
                 "resourcePath": "sprites\/Living_Room\/Living_Room.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "77f47601-3f76-4f89-a77f-da1597670065",
+            "Value": {
+                "id": "2f14cb60-2f6d-4a9c-9056-6fe1256f6285",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Fall_Kevin\/Fall_Kevin.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -3858,6 +4105,25 @@
             }
         },
         {
+            "Key": "8dd4c90b-4279-4760-bda7-bd6ae29e3cca",
+            "Value": {
+                "id": "d032df5a-aa52-447a-972c-0c6ed0462e17",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Winter_Sarah\/Winter_Sarah.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8ed31a87-bb4a-4468-a3f2-1249516abfbe",
             "Value": {
                 "id": "d695bafa-346b-47b9-8fb4-bb0bc9612c56",
@@ -4200,6 +4466,25 @@
             }
         },
         {
+            "Key": "975b31a9-b52f-4b2a-9d61-96771a0cb06f",
+            "Value": {
+                "id": "37edb8c7-6456-4096-ac3b-b6ec77cd116b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Fall_Rachel\/Fall_Rachel.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "97bbdae7-61eb-44b4-9012-ecb778c2bb46",
             "Value": {
                 "id": "568497cd-a3e8-45be-acfe-9709560a3445",
@@ -4235,6 +4520,25 @@
                 ],
                 "resourcePath": "sprites\/Noah_Front_Walk_Complete\/Noah_Front_Walk_Complete.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "98cc270e-2e50-489e-9709-bc0f37cd06f1",
+            "Value": {
+                "id": "963be910-8b87-48fb-9351-4d6a6bc5b930",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Fall_Sarah\/Fall_Sarah.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -4599,6 +4903,25 @@
             }
         },
         {
+            "Key": "a5b7f11d-8fd3-4fc5-bb8c-9a29ab10c8ef",
+            "Value": {
+                "id": "674a1d05-708a-438f-a10c-4213ec2f5a35",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Fall_Butch\/Fall_Butch.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a5dac4a0-6c3c-4689-ac8c-1d04901c0e1d",
             "Value": {
                 "id": "da122683-dad2-42a1-94f6-ee74a5d14d35",
@@ -4634,6 +4957,25 @@
                 ],
                 "resourcePath": "sprites\/Tasha_For_Fall\/Tasha_For_Fall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a7a4c959-3eea-4c62-9677-06c542c877d8",
+            "Value": {
+                "id": "94ea76a2-4afa-4222-9cc4-78f93703b6aa",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Winter_Tasha\/Winter_Tasha.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -5606,6 +5948,25 @@
             }
         },
         {
+            "Key": "d60abaa5-8136-4e8d-8325-83847941776d",
+            "Value": {
+                "id": "440dad33-fbec-4a1e-b7d4-de8e99d53ff7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Fall_Ellen\/Fall_Ellen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d6ae1747-cd94-470a-8ace-c918debe68f3",
             "Value": {
                 "id": "4c51a2bd-ea40-429a-9c15-723d001d65d4",
@@ -5926,6 +6287,25 @@
                 ],
                 "resourcePath": "sprites\/Noah_Front_Walk_Left\/Noah_Front_Walk_Left.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e3e2e1ed-c67e-42f3-b212-02201f395a07",
+            "Value": {
+                "id": "995c9703-15fe-493c-998c-ba27f698b3f9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Winter_Kevin\/Winter_Kevin.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -1,8 +1,8 @@
 {
-    "id": "222ebce3-525e-41d1-80cd-e77892ba9004",
+    "id": "1c9fd4f5-d24c-4890-8376-747c1a2cd1b8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Fall_NPCs",
+    "name": "Winter_Jordan",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "9bcac7a0-6eab-43cd-a2ff-d6714313e854",
     "visible": true
 }
