@@ -28,5 +28,10 @@ else if(obj_game_controller.room_id == 3)
 {
 	obj_player.x = 1600;
 	obj_player.y = 250;
-	room_goto(r_hallway);
+	if(obj_game_controller.day == 2)
+		room_goto(r_hallway_Fall);
+	else if(obj_game_controller.day == 3)
+		room_goto(r_hallway_Winter);
+	else
+		room_goto(r_hallway_Spring);
 }
