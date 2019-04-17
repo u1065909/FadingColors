@@ -7,8 +7,8 @@ wasTalkedTo = false;
 if(obj_game_controller.day == 1 ||obj_game_controller.day == 2 || obj_game_controller.day == 3 ||obj_game_controller.day == 4)
 {
 	
-	myText[0] = "*The t.v. lights up with colors from your favorite t.v. show*"
-	myText[1] = "*You feel satisfied*";
+	myText[0] = "*The fountain gives off the pleasant sound of flowing water*"
+	myText[1] = "*You feel relaxed*";
 	myTextCol[0] = -1;
 	speaker = -1;
 	myScripts[0] = [gain_color,10];
