@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+if(obj_game_controller.day == 3 || obj_game_controller.day == 4)
+	instance_destroy();
 // Inherit the parent event
 event_inherited();
 //Check if Talked to already
