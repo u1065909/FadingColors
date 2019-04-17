@@ -2,10 +2,11 @@
 // You can write your code in this editor
 
 // Inherit the parent event
-
+indicatorInst = "";
+indicatorAppeared = false;
 event_inherited();
 wasTalkedTo = false;
-if(obj_game_controller.day == 1 ||obj_game_controller.day == 2)
+if(obj_game_controller.day == 1 ||obj_game_controller.day == 2 || obj_game_controller.day == 3 ||obj_game_controller.day == 4)
 {
 	
 	myText[0] = "*The t.v. lights up with colors from your favorite t.v. show*"

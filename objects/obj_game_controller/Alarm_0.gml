@@ -16,6 +16,7 @@ if(room == r_next_day)
 	objsTalkedTo[0] = 0;
 	thoughtsActivatedOnObjs = -1;
 	thoughtsActivatedOnObjs[0] = 0;
+	classHappened = false;
 	show_debug_message("Next Day");
 	instance_destroy(obj_beginning_text_creator);
 	instance_create_layer(0,0,"Instances",obj_beginning_text_creator);

@@ -15,6 +15,11 @@ else if(colorMeter == 25)
 	attemptsNeededToLeaveBed = 6;
 if(instance_exists(obj_bed) && !leftBed)
 {
+	if(!startedSleeping)
+	{
+		sprite_index = Idle_Noah;
+		startedSleeping = true;
+	}
 	if(attemptsOutOfBed < attemptsNeededToLeaveBed)
 	{
 		canMove = false;

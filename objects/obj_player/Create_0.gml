@@ -11,6 +11,7 @@ leftBed = false;
 lost = false;
 anim_direction = "down";
 anim_isMoving = false;
+startedSleeping = false;
 alarm[0] = secondsPerLoss*room_speed;
 if(!persistent)
 {

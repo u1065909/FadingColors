@@ -4,6 +4,8 @@
 // Inherit the parent event
 
 event_inherited();
+if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
+{
 myText[0] = "I had to bury my hamster yesterday..."
 myText[1] = "this sucks"
 
@@ -16,7 +18,7 @@ myWords[2] = spr_Bury;
 myWords[3] = spr_Bury;
 myScripts[1] = [spawn_mini_game,myWords,Annie_The_Audacious];
 myName = "Annie";
-
+}
 if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 {
 	myText[0] = "My parents called and said we were going to get a puppy"

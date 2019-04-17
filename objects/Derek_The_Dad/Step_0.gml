@@ -12,6 +12,7 @@ if(obj_game_controller.day == 1 && arrayContains(Derek_The_Dad,obj_game_controll
 
 	myTextCol = -1;
 	speaker = -1;
+	myScripts[0] = [doNothing];
 
 }
 if(obj_game_controller.day == 2 && arrayContains(Derek_The_Dad,obj_game_controller.objsTalkedTo))
@@ -21,6 +22,7 @@ if(obj_game_controller.day == 2 && arrayContains(Derek_The_Dad,obj_game_controll
 
 	myTextCol = -1;
 	speaker = -1;
+	myScripts[0] = [doNothing];
 
 }
 else if(obj_game_controller.day == 2 && arrayContains(Derek_The_Dad,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
@@ -30,6 +32,7 @@ else if(obj_game_controller.day == 2 && arrayContains(Derek_The_Dad,obj_game_con
 
 	myTextCol = -1;
 	speaker = -1;
+	myScripts[0] = [doNothing];
 }
 else if(obj_game_controller.day == 3 && arrayContains(Derek_The_Dad,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
 {
@@ -37,6 +40,7 @@ else if(obj_game_controller.day == 3 && arrayContains(Derek_The_Dad,obj_game_con
 	myText[0] = "Be sure to take plenty of notes"
 	myTextCol = -1
 	speaker = -1
+	myScripts[0] = [doNothing];
 }
 else if(obj_game_controller.day == 4 && arrayContains(Derek_The_Dad,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
 {
@@ -44,4 +48,5 @@ else if(obj_game_controller.day == 4 && arrayContains(Derek_The_Dad,obj_game_con
 	myText[0] = "youre in the home stretch champ"
 	myTextCol = -1
 	speaker = -1
+	myScripts[0] = [doNothing];
 }

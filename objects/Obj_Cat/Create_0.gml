@@ -31,3 +31,31 @@ if(obj_game_controller.day == 2)
 	myName = "Tally";
 
 }
+if(obj_game_controller.day == 3)
+{
+	myText[0] = "*You pet Tally*"
+	myText[1] = "*Talley seems pleased*"
+
+	speaker = -1;
+
+	myScripts[0] = [gain_color,10];
+	myScripts[1] = [addToTalkedArray,obj_cat]
+
+
+	myName = "Tally";
+
+}
+if(obj_game_controller.day == 4)
+{
+	myText[0] = "*You pet Tally*"
+	myText[1] = "*Talley seems pleased*"
+
+	speaker = -1;
+
+	myScripts[0] = [gain_color,10];
+	myScripts[1] = [addToTalkedArray,obj_cat]
+
+
+	myName = "Tally";
+
+}

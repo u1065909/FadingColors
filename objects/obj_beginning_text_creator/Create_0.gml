@@ -1,5 +1,22 @@
 /// @description Insert description here
 // You can write your code in this editor
+if(room == r_win)
+{
+	show_debug_message("IN HERE");
+	create_textevent(
+		["Congrats you won", 
+		"Put in meaningful text here", 
+		"Some More meaningful text",
+		"We will restart the game afterwards",
+		"Yep"],
+		-1,
+		-1,
+		-1,
+		-1,
+		-1,
+		 [[doNothing],[doNothing],[doNothing],[doNothing],[RestartGame]],
+		);
+}
 //DAY 1**************************************************************************************
 if(obj_game_controller.day == 1)
 {
@@ -279,7 +296,7 @@ else if(obj_game_controller.day == 4)
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[fadeIn,.02]],
+		 [[doNothing],[doNothing],[fadeIn,.02]],
 		);
 		}
 		else
@@ -300,7 +317,7 @@ else if(obj_game_controller.day == 4)
 		-1,
 		-1,
 		-1,
-		 [[fadeIn,.02]],
+		 [[doNothing],[fadeIn,.02]],
 		);
 		}
 		else
@@ -338,7 +355,7 @@ else if(obj_game_controller.day == 4)
 		-1,
 		-1,
 		-1,
-		 [fadeIn,.02],
+		 [[fadeIn,.02]],
 		);
 		}
 		else

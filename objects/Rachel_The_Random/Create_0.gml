@@ -17,7 +17,7 @@ if(obj_game_controller.day == 2)
 }
 
 if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
-
+{
 	myText[0] = "Yo"
 	myText[1] = "Have you heard the new school anthem?"
 	
@@ -26,7 +26,7 @@ if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
 	
 	myName = "Rachel"
 	myScripts[1] = [addToTalkedArray,Rachel_The_Random]
-	
+}	
 if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)	
 {
 	myText[0] = "I got a pet lizard the other day"

@@ -3,7 +3,7 @@
 
 //-----------Customise (FOR USER)
 playerobject = obj_player;
-interact_key = ord("E");
+interact_key = keyboard_key_press(vk_enter);;
 detection_radius = 120;
 
 myVoice			= snd_voice1;

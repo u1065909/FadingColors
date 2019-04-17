@@ -1335,6 +1335,14 @@
             }
         },
         {
+            "Key": "75e82acc-c971-4291-991e-ceef05f23585",
+            "Value": {
+                "id": "167bf2de-2787-43f1-8b8b-fc419b5ef466",
+                "resourcePath": "scripts\\RestartGame\\RestartGame.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "763f23f8-f7a8-432e-b6bc-3499bbdf68b2",
             "Value": {
                 "id": "70ac2f7b-a651-42c7-bbac-2f105313eae5",
@@ -1548,6 +1556,14 @@
                 "id": "4efde06b-3328-4ac7-a078-7193402712fd",
                 "resourcePath": "scripts\/playerAnim\/playerAnim.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8ba91c01-4574-4711-8e1f-cf04751313df",
+            "Value": {
+                "id": "02f19a59-8ac2-4827-9b02-a54b084f67b7",
+                "resourcePath": "rooms\\r_controls\\r_controls.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -2682,7 +2698,8 @@
         "836205b2-f8ff-4076-8c9d-1c74dae1a85e",
         "5daa557b-739f-44af-a197-55c30c95e7dc",
         "8b9356e5-a7bd-433e-9c7d-3e35fbf375af",
-        "9c51d8be-e89f-4912-9395-d17acb8b0232"
+        "9c51d8be-e89f-4912-9395-d17acb8b0232",
+        "75e82acc-c971-4291-991e-ceef05f23585"
     ],
     "tutorial": ""
 }

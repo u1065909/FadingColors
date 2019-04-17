@@ -4,6 +4,7 @@
 // Inherit the parent event
 
 event_inherited();
+Indicator(20);
 objectsTalkedTo = obj_game_controller.objsTalkedTo;
 if(obj_player.leftBed)
 {
@@ -28,6 +29,32 @@ if(obj_player.leftBed)
 		myTextCol[0] = -1;
 	}
 	else if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
+	{
+		playerInBed = false;
+		myText[0] = "Time For bed"
+		myTextCol = -1;
+		myScripts[0] = [goToNextDay];	
+	}
+	if (obj_game_controller.day == 3 && !obj_game_controller.classHappened)
+	{
+		myText[0] = "Nope, Have to go to school"
+		speaker = -1;
+		myTextCol[0] = -1;
+	}
+	else if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
+	{
+		playerInBed = false;
+		myText[0] = "Time For bed"
+		myTextCol = -1;
+		myScripts[0] = [goToNextDay];	
+	}
+	if (obj_game_controller.day == 4 && !obj_game_controller.classHappened)
+	{
+		myText[0] = "Last day I have to go"
+		speaker = -1;
+		myTextCol[0] = -1;
+	}
+	else if(obj_game_controller.day == 4 && obj_game_controller.classHappened)
 	{
 		playerInBed = false;
 		myText[0] = "Time For bed"

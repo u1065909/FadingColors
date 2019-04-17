@@ -17,7 +17,7 @@ event_inherited();
 	myScripts[1] = [addToTalkedArray,Jordan_The_Jokester]
 }
 if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
-
+{
 	myText[0] = "How ya doin"
 	myText[1] = "Are ya ready for day 2?"
 	
@@ -27,6 +27,7 @@ if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
 	myName = "Jordan"
 	
 	myScripts[1] = [addToTalkedArray,Jordan_The_Jokester]
+}
 if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 {
 	myText[0] = "Yo broseph"

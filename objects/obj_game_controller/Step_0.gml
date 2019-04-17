@@ -10,6 +10,7 @@ if(day != prev_day)
 	roomsVisitedBack[0] = 0;
 }
 */
+//show_debug_message(room_get_name(room));
 
 if(shake){
 	show_debug_message("In here");
@@ -35,7 +36,7 @@ if(currentRoom != room)
 	obj_player.alarm[1] = room_speed;
 	currentRoom = room;
 }
-if(day == 2 && arrayContains(Patty_The_Professor,objsTalkedTo) && !classHappened)
+if((day == 2 || day == 3 || day == 4) && arrayContains(Patty_The_Professor,objsTalkedTo) && !classHappened)
 {
 	objsTalkedTo = -1;
 	objsTalkedTo[0] = 0;
@@ -47,6 +48,8 @@ if(day == 2 && arrayContains(Patty_The_Professor,objsTalkedTo) && !classHappened
 	alarm[3] = 1 * room_speed;
 	fadeOut(.02);
 }
+
+
 //This is for thoughts for the player after talking to an npc
 if(day == 1 && arrayContains(Mallory_The_Mom,objsTalkedTo)
 	&& arrayContains(Derek_The_Dad,objsTalkedTo)

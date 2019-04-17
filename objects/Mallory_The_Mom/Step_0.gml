@@ -13,6 +13,7 @@ if(obj_game_controller.day == 1 && arrayContains(Mallory_The_Mom,obj_game_contro
 	myTextCol = -1;
 	speaker = -1;
 	myName = "Mom";
+	myScripts[0] = [doNothing];
 
 }
 if(obj_game_controller.day == 2 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
@@ -23,6 +24,7 @@ if(obj_game_controller.day == 2 && arrayContains(Mallory_The_Mom,obj_game_contro
 	myTextCol = -1;
 	speaker = -1;
 	myName = "Mom";
+	myScripts[0] = [doNothing];
 
 }
 else if(obj_game_controller.day == 2 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
@@ -32,6 +34,7 @@ else if(obj_game_controller.day == 2 && arrayContains(Mallory_The_Mom,obj_game_c
 	myTextCol = -1
 	speaker = -1
 	myName = "Mom"
+	myScripts[0] = [doNothing];
 }
 else if(obj_game_controller.day == 3 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
 {
@@ -40,6 +43,7 @@ else if(obj_game_controller.day == 3 && arrayContains(Mallory_The_Mom,obj_game_c
 	myTextCol = -1
 	speaker = -1
 	myName = "Mom"
+	myScripts[0] = [doNothing];
 }
 else if(obj_game_controller.day == 3 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo)&& !obj_game_controller.classHappened)
 {
@@ -48,6 +52,7 @@ else if(obj_game_controller.day == 3 && arrayContains(Mallory_The_Mom,obj_game_c
 	myTextCol = -1
 	speaker = -1
 	myName = "Mom"
+	myScripts[0] = [doNothing];
 }
 else if(obj_game_controller.day == 4 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
 {
@@ -55,6 +60,7 @@ else if(obj_game_controller.day == 4 && arrayContains(Mallory_The_Mom,obj_game_c
 	myTextCol = -1
 	speaker = -1
 	myText[0] = "Have a good day at school dear"
+	myScripts[0] = [doNothing];
 }
 else if(obj_game_controller.day == 4 && arrayContains(Mallory_The_Mom,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
 {
@@ -62,4 +68,5 @@ else if(obj_game_controller.day == 4 && arrayContains(Mallory_The_Mom,obj_game_c
 	myTextCol = -1
 	speaker = -1
 	myText[0] = "are you ready for summer?"
+	myScripts[0] = [doNothing];
 }
