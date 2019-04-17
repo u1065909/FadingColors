@@ -56,7 +56,7 @@ if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 	myWords[3] = spr_Problem;
 
 
-if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
+if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
 {
 	myText[0] = "Look, just leave me alone"
 	myText[1] = "Talking to you is pointless"
