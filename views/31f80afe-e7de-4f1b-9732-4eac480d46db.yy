@@ -6,7 +6,8 @@
     "children": [
         "f3cc3ec8-e595-42b1-991a-f01115bddefa",
         "c7000e5d-49fa-4f17-9248-734b26806a22",
-        "fa66ec66-f042-4fdc-b68d-61b96f972740"
+        "fa66ec66-f042-4fdc-b68d-61b96f972740",
+        "5b659eef-21fa-4362-ac37-e3e08d0fa4a6"
     ],
     "filterType": "GMSprite",
     "folderName": "Fall_Park",
