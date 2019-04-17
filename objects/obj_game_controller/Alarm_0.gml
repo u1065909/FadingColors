@@ -3,6 +3,11 @@
 if(room == r_next_day)
 {
 	day++;
+	if(day == 5)
+	{
+		room_goto(r_win);
+		exit;
+	}	
 	room_id--;
 	//Reset Arrays
 	roomsVisitedTo = -1;

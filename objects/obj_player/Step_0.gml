@@ -8,11 +8,11 @@ if(canMove)
 }
 playerAnim();
 if(colorMeter == 70)
-	attemptsNeededToLeaveBed = 2;
-else if(colorMeter == 50)
 	attemptsNeededToLeaveBed = 3;
+else if(colorMeter == 50)
+	attemptsNeededToLeaveBed = 5;
 else if(colorMeter == 25)
-	attemptsNeededToLeaveBed = 4;
+	attemptsNeededToLeaveBed = 6;
 if(instance_exists(obj_bed) && !leftBed)
 {
 	if(attemptsOutOfBed < attemptsNeededToLeaveBed)
