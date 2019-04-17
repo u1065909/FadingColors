@@ -38,7 +38,7 @@ if(obj_game_controller.day == 3 && arrayContains(Butch_The_Bully,obj_game_contro
 	myScripts[0] = [doNothing]
 	myName = "Myles"
 }
-if(obj_game_controller.day == 3 && arrayContains(Butch_The_Bully,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+if(obj_game_controller.day == 3 && arrayContains(Myles_The_Maverick,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
 {
 	myText = -1;
 	myText[0] = "See ya tommorow bro";
@@ -47,7 +47,7 @@ if(obj_game_controller.day == 3 && arrayContains(Butch_The_Bully,obj_game_contro
 	myScripts[0] = [doNothing];
 	myName = "Myles"
 }
-if(obj_game_controller.day == 4 && arrayContains(Butch_The_Bully,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
+if(obj_game_controller.day == 4 && arrayContains(Myles_The_Maverick,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
 {
 	myText = -1
 	myText[0] = "Seems like fun"
@@ -56,7 +56,7 @@ if(obj_game_controller.day == 4 && arrayContains(Butch_The_Bully,obj_game_contro
 	myScripts[0] = [doNothing]
 	myName = "Myles"
 }
-if(obj_game_controller.day == 4 && arrayContains(Butch_The_Bully,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
+if(obj_game_controller.day == 4 && arrayContains(Myles_The_Maverick,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
 {
 	myText = -1
 	myText[0] = "Time for Summer!"

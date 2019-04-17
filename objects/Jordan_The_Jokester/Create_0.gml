@@ -14,7 +14,7 @@ if(obj_game_controller.day == 4 && obj_game_controller.classHappened)
 	myScripts[1] = [gain_color,10];
 	myName = "Jordan"
 }
-if(obj_game_controller.day == 4 && obj_game_controller.classHappened)
+if(obj_game_controller.day == 4 && !obj_game_controller.classHappened)
 {
 	myText[0] = "Finally, now I can catch up on Thrones"
 	myText[1] = "The new season just started"
