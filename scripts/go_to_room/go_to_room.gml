@@ -27,13 +27,23 @@ else if(obj_game_controller.room_id == 3)
 {
 	obj_player.x = 130;
 	obj_player.y = 335;
-	room_goto(r_hallway);
+	if(obj_game_controller.day == 2)
+		room_goto(r_hallway_Fall);
+	else if(obj_game_controller.day == 3)
+		room_goto(r_hallway_Winter);
+	else
+		room_goto(r_hallway_Spring);
 }
 else if(obj_game_controller.room_id == 4)
 {
 	obj_player.x = 290;
 	obj_player.y =200;
-	room_goto(r_classroom);
+	if(obj_game_controller.day == 2)
+		room_goto(r_classroom_Fall);
+	else if(obj_game_controller.day == 3)
+		room_goto(r_classroom_Winter);
+	else
+		room_goto(r_classroom_Spring);
 }
 else if(obj_game_controller.room_id == 5)
 {

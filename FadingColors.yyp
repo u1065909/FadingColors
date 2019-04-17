@@ -591,6 +591,22 @@
             }
         },
         {
+            "Key": "2dfcf0bc-9ecf-4d69-81cc-6a2632b9a14d",
+            "Value": {
+                "id": "8dcd5c31-b4f6-4101-8ec9-ea849288c376",
+                "resourcePath": "rooms\\r_hallway_Spring\\r_hallway_Spring.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2e05bdef-3a91-47f9-9a57-4bd5129da573",
+            "Value": {
+                "id": "b1d76913-8dbd-483f-ac06-ed9e4f3f083a",
+                "resourcePath": "rooms\\r_hallway_Winter\\r_hallway_Winter.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2ef927cf-4901-40e7-be7c-9c1f917510f4",
             "Value": {
                 "id": "632ba650-2fa0-42de-b02a-b01402bf327e",
@@ -1036,6 +1052,14 @@
                 "id": "e91f9bfd-27b6-4c06-836c-00ece2e37318",
                 "resourcePath": "sounds\/snd_voice2\/snd_voice2.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "50c463fa-cd31-4691-957d-76fdf0d8d7f3",
+            "Value": {
+                "id": "bde236d1-b592-453f-ae05-4e216d075f9c",
+                "resourcePath": "rooms\\r_classroom_Spring\\r_classroom_Spring.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -2047,6 +2071,14 @@
             }
         },
         {
+            "Key": "a282d83e-499d-4404-a905-f40525d53d45",
+            "Value": {
+                "id": "4c8e81b3-2c29-4bec-b6ad-3a404b82030f",
+                "resourcePath": "rooms\\r_classroom_Winter\\r_classroom_Winter.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a2d5e3bb-5735-496e-95d0-7a7af9a37118",
             "Value": {
                 "id": "93efe2e3-4ba8-4d52-b239-efdcfe48c5fe",
@@ -2068,6 +2100,22 @@
                 "id": "248f23a4-d435-4c48-91ce-80588c21abc6",
                 "resourcePath": "sprites\/Noah_Room_Remaser\/Noah_Room_Remaser.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a469e8fd-c2f2-40b4-a851-1fbc91709dad",
+            "Value": {
+                "id": "356a3e5e-ee23-4a0b-8df5-47d92ba0b417",
+                "resourcePath": "rooms\\r_classroom_Fall\\r_classroom_Fall.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a46e0401-16fe-4886-a70f-b3f5aee79753",
+            "Value": {
+                "id": "e8183a2b-53fd-4907-be39-57d17ee48816",
+                "resourcePath": "rooms\\r_hallway_Fall\\r_hallway_Fall.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
