@@ -10,7 +10,9 @@
         "1f0f9647-5292-4edc-9c4b-7f429b19c989",
         "5aa34de3-a760-4223-ab9c-01d3a71ea3e0",
         "43929edd-fbfc-4b66-b6d6-0b50b6eed34c",
-        "3e64673f-4bb8-40f2-93fd-5de7c19436f7"
+        "3e64673f-4bb8-40f2-93fd-5de7c19436f7",
+        "d21ecbd1-474e-4953-a8b3-2466ad7c76f2",
+        "b0203725-de18-4d0b-b6b3-b69dfccb66bc"
     ],
     "filterType": "GMObject",
     "folderName": "Park_items",
