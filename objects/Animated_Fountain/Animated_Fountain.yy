@@ -4,11 +4,30 @@
     "mvc": "1.0",
     "name": "Animated_Fountain",
     "eventList": [
-        
+        {
+            "id": "eaf8206a-fd16-4157-ab0b-7c941b055e5c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "1f0f9647-5292-4edc-9c4b-7f429b19c989"
+        },
+        {
+            "id": "0befb476-5d70-4e08-b744-0255ffcfa3c1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "1f0f9647-5292-4edc-9c4b-7f429b19c989"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "53ac0fe9-1557-479f-95d9-386c97810130",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

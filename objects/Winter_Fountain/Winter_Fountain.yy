@@ -4,11 +4,30 @@
     "mvc": "1.0",
     "name": "Winter_Fountain",
     "eventList": [
-        
+        {
+            "id": "c8e630d9-5910-43f9-8c8d-046133a988d1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9b45f002-5b5f-4824-a257-43c7c18a6f56"
+        },
+        {
+            "id": "a796c569-1517-4edb-9218-16815bad3229",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "9b45f002-5b5f-4824-a257-43c7c18a6f56"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "53ac0fe9-1557-479f-95d9-386c97810130",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
