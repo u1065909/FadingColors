@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "Winter_Butch",
     "eventList": [
-        
+        {
+            "id": "67f368db-f6f1-4caf-aa84-a3ac297429cc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "08c21456-4923-440b-b515-a182ee4edc59"
+        },
+        {
+            "id": "00a2866c-244b-444b-858d-878f31a0ce00",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "08c21456-4923-440b-b515-a182ee4edc59"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

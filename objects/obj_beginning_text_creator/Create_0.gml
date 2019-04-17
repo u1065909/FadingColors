@@ -4,17 +4,18 @@ if(room == r_win)
 {
 	show_debug_message("IN HERE");
 	create_textevent(
-		["Congrats you won", 
-		"Put in meaningful text here", 
-		"Some More meaningful text",
-		"We will restart the game afterwards",
-		"Yep"],
+		["The School year is over", 
+		"Its good to be on break", 
+		"I have some friends",
+		"Thats already more than what I expected",
+		"Colors are fading but my friends, classmates, and pets help me feel...",
+		"Good"]
 		-1,
 		-1,
 		-1,
 		-1,
 		-1,
-		 [[doNothing],[doNothing],[doNothing],[doNothing],[RestartGame]],
+		 [[doNothing],[doNothing],[doNothing],[doNothing],[doNothing],[RestartGame]],
 		);
 }
 //DAY 1**************************************************************************************

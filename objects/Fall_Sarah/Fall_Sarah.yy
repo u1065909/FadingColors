@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "Fall_Sarah",
     "eventList": [
-        
+        {
+            "id": "c5b911bd-0371-487c-800d-760eebf7dea5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "98cc270e-2e50-489e-9709-bc0f37cd06f1"
+        },
+        {
+            "id": "bc683495-f6cc-4fbc-92b2-7e8de5b42387",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "98cc270e-2e50-489e-9709-bc0f37cd06f1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

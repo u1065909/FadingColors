@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "Fall_Ellen",
     "eventList": [
-        
+        {
+            "id": "131bf7d1-67e8-4fdb-b062-5969b7a3c8c4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "d60abaa5-8136-4e8d-8325-83847941776d"
+        },
+        {
+            "id": "3440a9e8-865d-48c4-a0cd-4ed1e9b712f1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "d60abaa5-8136-4e8d-8325-83847941776d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

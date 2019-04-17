@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "Winter_Rachel",
     "eventList": [
-        
+        {
+            "id": "e00b331f-68d2-4800-b9f4-c3fe8c03546d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "23a70b57-69b3-48a5-b036-ec9b171e1634"
+        },
+        {
+            "id": "6c35a145-496f-424b-965b-7d7e32de2705",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "23a70b57-69b3-48a5-b036-ec9b171e1634"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "Fall_Jordan",
     "eventList": [
-        
+        {
+            "id": "1cc9d1e4-1598-47c6-bd5c-05061b32b7fe",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "36f7f87d-6359-4846-bb1c-19fccbbbd254"
+        },
+        {
+            "id": "a977a16d-18d9-45be-9f8f-c63efaace1cd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "36f7f87d-6359-4846-bb1c-19fccbbbd254"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
