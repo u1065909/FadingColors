@@ -9,7 +9,8 @@ if(room == r_win)
 		"I have some friends",
 		"Thats already more than what I expected",
 		"Colors are fading but my friends, classmates, and pets help me feel...",
-		"Good"]
+		"Better"
+		"Even if only a bit"]
 		-1,
 		-1,
 		-1,
