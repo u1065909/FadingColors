@@ -19,13 +19,13 @@ if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 
 }
 
-if(obj_game_controller.day == 3 && obj_game_controller.classHappened)	
+if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
 {
 	myText = -1
-	myText[0] = "Are you prepared??"
-	myText[1] = "for shakespeare"
+	myText[0] = "Sucks for Myles"
+	myText[1] = "At least he tried"
 	speaker = -1
-	myScripts[0] = [gain_color,15];
-	myScripts[1] = [addToTalkedArray,Rachel_The_Random]
+	myScripts[0] = [addToTalkedArray,Rachel_The_Random]
+	myScripts[1] = [gain_color,15]
 	myName = "Rachel"
 }

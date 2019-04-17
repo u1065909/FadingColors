@@ -6,7 +6,7 @@ detection_radius = 50;
 event_inherited();
 
 
-if(obj_game_controller.day == 4 && arrayContains(Jordan_The_Jokester,obj_game_controller.objsTalkedTo)&& obj_game_controller.classHappened)
+if(obj_game_controller.day == 4 && arrayContains(Jordan_The_Jokester,obj_game_controller.objsTalkedTo)&& !obj_game_controller.classHappened)
 {
 	myText = -1
 	myText[0] = "At least school is almost done"
