@@ -48,7 +48,7 @@ else if(obj_game_controller.day == 3 && arrayContains(Sarah_The_Socialite,obj_ga
 	myScripts[0] = [doNothing];
 	myName = "Sarah"
 }
-else if(obj_game_controller.day == 4 && arrayContains(Sarah_The_Socialite,obj_game_controller.objsTalkedTo)&& !obj_game_controller.classHappened)
+else if(obj_game_controller.day == 4 && arrayContains(Sarah_The_Socialite,obj_game_controller.objsTalkedTo) && !obj_game_controller.classHappened)
 {
 	myText = -1
 	myText[0] = "..."
@@ -57,7 +57,7 @@ else if(obj_game_controller.day == 4 && arrayContains(Sarah_The_Socialite,obj_ga
 	myScripts[0] = [doNothing];
 	myName = "Sarah"
 }
-else if(obj_game_controller.day == 4 && arrayContains(Sarah_The_Socialite,obj_game_controller.objsTalkedTo)&& obj_game_controller.classHappened)
+else if(obj_game_controller.day == 4 && arrayContains(Sarah_The_Socialite,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
 {
 	myText = -1
 	myText[0] = "A water park will be fun"

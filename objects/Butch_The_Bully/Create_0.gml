@@ -35,7 +35,7 @@ else if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 	speaker = -1;
 
 	myScripts[0] = [gain_color,-5];
-	myScripts[1] = [spawn_mini_game,myWords,Butch_The_Bully];
+	myScripts[1] = [addToTalkedArray,Butch_The_Bully];
 
 	myName = "Butch";
 
@@ -47,7 +47,7 @@ else if(obj_game_controller.day == 2 && arrayContains(Butch_The_Bully,obj_game_c
 if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 	myText[0] = "Hey dweeb"
 	myText[1] = "Where you running to?"
-	myText[2] = "Another fuck up?"
+	myText[2] = "Another problem?"
 	myScripts[1] = [gain_color,-5];
 	myScripts[2] = [spawn_mini_game,myWords,Butch_The_Bully];
 	myName = "Butch"
@@ -62,14 +62,17 @@ if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
 	myText[1] = "Talking to you is pointless"
 	myScripts[0] = [gain_color,-5]
 	myScripts[1] = [spawn_mini_game,myWords,Butch_The_Bully];
+	myWords[1] = spr_Pointless
 	myName = "Butch"
 }
 if(obj_game_controller.day == 4 && !obj_game_controller.classHappened)
 {
 	myText[0] = "Finally, class is almost done"
-	myText[1] = "I'll be free from your face hehehe"
+	myText[1] = "I'll be free from your face"
 	myScripts[0] = [gain_color,-5]
 	myScripts[1] = [spawn_mini_game,myWords,Butch_The_Bully];
+	myWords[1] = spr_Face
+	myWords[2] = spr_Free
 	myName = "Butch"
 }
 if(obj_game_controller.day == 4 && obj_game_controller.classHappened)

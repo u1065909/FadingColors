@@ -56,7 +56,7 @@ if(obj_game_controller.day == 4 && !obj_game_controller.classHappened)
 if(obj_game_controller.day == 4 && obj_game_controller.classHappened)
 {
 	myText[0] = "Time to go to a waterpark"
-	myText[1] = "no use feeling down"
+	myText[1] = "No use feeling down"
 	speaker = -1
 	myScripts[0] = [addToTalkedArray,Sarah_The_Socialite]
 	myScripts[1] = [gain_color,10]
