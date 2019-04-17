@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Winter_Bush",
     "eventList": [
-        
+        {
+            "id": "7d090505-7209-4c3c-b269-dffef2da6111",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "e9d8bfe7-1ece-4fe2-94b7-2e29e6d0b264"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
