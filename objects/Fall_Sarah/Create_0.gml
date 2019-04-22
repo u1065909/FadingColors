@@ -18,7 +18,7 @@ if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
 
 	myScripts[1] = [spawn_mini_game,myWords,Sarah_The_Socialite];
 }
-event_inherited();
+
 if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 {
 	myText[0] = "Heya"
