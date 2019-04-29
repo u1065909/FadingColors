@@ -73,7 +73,7 @@ if(obj_game_controller.day == 4 && !obj_game_controller.classHappened)
 {
 	myText[0] = "Finally, class is almost done"
 	myText[1] = "I'll be free from your face"
-	myTextCol[1] = [8,c_red,12,c_white,23,c_red,27,c_white]
+	myTextCol[1] = [8,c_red,13,c_white,23,c_red,28,c_white]
 	myScripts[0] = [gain_color,-5]
 	myWords[1] = spr_Face
 	myWords[2] = spr_Free

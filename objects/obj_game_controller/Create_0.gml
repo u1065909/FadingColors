@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 room_id = 0;
-day = 3;
+day = 4;
 prev_day = 1;
 roomsVisitedTo[0] = 0;
 roomsVisitedBack[0] = 0;
