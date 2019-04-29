@@ -17,8 +17,7 @@ if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game_cont
 else if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game_controller.objsTalkedTo)&& obj_game_controller.classHappened)
 {
 	myText = -1
-	myText[0] = "Nope"
-	myText[1] = "Still not"
+	myText[0] = "Whats up?"
 	speaker = -1;
 
 	myTextCol = -1;
