@@ -17,7 +17,7 @@ if(obj_game_controller.day == 3 && arrayContains(Kevin_The_King,obj_game_control
 else if(obj_game_controller.day == 3 && arrayContains(Kevin_The_King,obj_game_controller.objsTalkedTo) && obj_game_controller.classHappened)
 {
 	myText = -1
-	myText[0] = "..."
+	myText[0] = "Its irritating"
 	speaker = -1
 	myScripts[0] = [doNothing]
 	myTextCol = -1

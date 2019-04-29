@@ -17,7 +17,7 @@ if(obj_game_controller.day == 3 &&  !obj_game_controller.classHappened)
 if(obj_game_controller.day == 3 &&  obj_game_controller.classHappened)
 {
 	myText = -1
-	myText[0] = "..."
+	myText[0] = "That test was ridiculous"
 	speaker = -1
 	myScripts[0] = [doNothing]
 	myTextCol = -1
