@@ -3,7 +3,7 @@
 
 event_inherited();
 wasTalkedTo = false
-detection_radius = 50
+detection_radius = 25
 if(obj_game_controller.day == 1)
 {
 	myText[0] = "*You see the plant and notice it has a mouth*"

@@ -427,7 +427,7 @@
             "visible": true,
             "vspeed": 0,
             "vtiled": false,
-            "x": -10,
+            "x": -20,
             "y": 0
         },
         {

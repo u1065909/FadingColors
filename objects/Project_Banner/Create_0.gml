@@ -3,8 +3,8 @@
 
 event_inherited();
 wasTalkedTo = false
-detection_radius = 50
-if(obj_game_controller.day == 1)
+detection_radius = 25
+if(obj_game_controller.day == 2|| obj_game_controller.day == 3 || obj_game_controller.day == 4)
 {
 	myText[0] = "*The banner is filled with bright colors and hues*"
 	myText[1] = "*the colors fill you with mixed emotions*"

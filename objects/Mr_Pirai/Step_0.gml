@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 event_inherited();
-detection_radius= 150;
+detection_radius= 25;
 Indicator(20);
 if((obj_game_controller.day == 1 ||obj_game_controller.day == 2 || obj_game_controller.day ==3 || obj_game_controller.day == 4) && arrayContains(Mr_Pirai,obj_game_controller.objsTalkedTo))
 {
