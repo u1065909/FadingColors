@@ -4,6 +4,7 @@
 event_inherited();
 detection_radius= 25;
 Indicator(20);
+InteractableDepthChange(20)
 if((obj_game_controller.day == 1 ||obj_game_controller.day == 2 || obj_game_controller.day ==3 || obj_game_controller.day == 4) && arrayContains(Mr_Pirai,obj_game_controller.objsTalkedTo))
 {
 	myText = -1;

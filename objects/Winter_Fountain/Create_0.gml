@@ -4,6 +4,7 @@ indicatorInst = "";
 indicatorAppeared = false;
 event_inherited();
 wasTalkedTo = false;
+
 if(obj_game_controller.day == 1 ||obj_game_controller.day == 2 || obj_game_controller.day == 3 ||obj_game_controller.day == 4)
 {
 	

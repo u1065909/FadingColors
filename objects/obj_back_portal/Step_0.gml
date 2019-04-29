@@ -5,7 +5,7 @@ if((room == r_classroom || room == r_classroom_Fall ||room == r_classroom_Spring
 	exit;
 }
 	
-if(place_meeting(x,y,obj_player) && !wasTouched)
+if(place_meeting(x,y-50,obj_player) && !wasTouched)
 {
 	obj_player.canMove = false;
 	show_debug_message("WasTouched");

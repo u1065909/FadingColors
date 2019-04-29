@@ -6,6 +6,8 @@
 event_inherited();
 wasTalkedTo = false
 detection_radius = 50
+indicatorAppeared = false;
+indicatorInst = 0;
 if(obj_game_controller.day == 1 || obj_game_controller.day == 2)
 {
 	myText[0] = "Your cat Tally is resting against the wall"

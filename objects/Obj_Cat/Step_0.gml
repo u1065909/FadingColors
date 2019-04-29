@@ -3,7 +3,8 @@
 
 // Inherit the parent event
 event_inherited();
-//Indicator(50);
+Indicator(50);
+InteractableDepthChange(75)
 //Check if Talked to already
 if(obj_game_controller.day == 1 && arrayContains(obj_cat,obj_game_controller.objsTalkedTo))
 {

@@ -30,8 +30,7 @@ if(keyboard_check_pressed(vk_escape)){ game_end(); }
 if(keyboard_check_pressed(ord("p"))){ game_restart(); }
 if(currentRoom != room)
 {
-	show_debug_message(currentRoom);
-	show_debug_message(room);
+	obj_player.movedInRoom = false;
 	alarm[0] = room_speed;
 	obj_player.alarm[1] = room_speed;
 	currentRoom = room;
