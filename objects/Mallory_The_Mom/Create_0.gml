@@ -25,7 +25,7 @@ if(obj_game_controller.day == 1)
 	myScripts[2] = [spawn_mini_game,myWords,Mallory_The_Mom];
 }
 
-if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
+if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
 {
 	myText[0] = "Have a Wonderful day at school dear."
 	myText[1] = "you are going to love it."
