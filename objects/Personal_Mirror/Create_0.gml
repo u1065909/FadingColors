@@ -11,7 +11,7 @@ if(obj_game_controller.day == 1)
 	myText[0] = "*You look into the mirror and notice that nothing has changed*"
 	myText[1] = "*You feel distant*"
 	speaker = -1;
-	myScripts[0] = [gain_color, 3];
+	myScripts[0] = [gain_color, 4];
 	myName = "Personal Mirror";
 	myScripts[1] = [addToTalkedArray, Personal_Mirror];
 }
@@ -20,7 +20,7 @@ if(obj_game_controller.day == 2)
 	myText[0] = "*You look into the mirror and notice that your having a good hair day*"
 	myText[1] = "*You feel elated*"
 	speaker = -1
-	myScripts[0] = [gain_color, 10];
+	myScripts[0] = [gain_color, 11];
 	myName = "Personal Mirror";
 	myScripts[0] = [addToTalkedArray, Personal_Mirror];
 	

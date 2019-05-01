@@ -17,7 +17,7 @@ if(obj_game_controller.day == 4)
 	myText[0] = "*Did this bike just move?*"
 	myText[1] = "*The mystery exictes you*"
 	speaker = -1
-	myScripts[0] = [gain_color, 5];
+	myScripts[0] = [gain_color, 6];
 	myName = "Lost Bike";
 	myScripts[0] = [addToTalkedArray, Bike];
 }
