@@ -41,8 +41,8 @@ if((day == 2 || day == 3 || day == 4) && arrayContains(Patty_The_Professor,objsT
 	objsTalkedTo[0] = 0;
 	classHappened = true;
 	//fadeInThenOut(.02);
-	obj_player.x = 634;
-	obj_player.y = 450;
+	obj_player.x = 1666;
+	obj_player.y = 742;
 	alarm[2] = 2.5 * room_speed;
 	alarm[3] = 1 * room_speed;
 	fadeOut(.02);

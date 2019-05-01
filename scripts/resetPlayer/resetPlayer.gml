@@ -6,3 +6,4 @@ obj_player.lost = false;
 obj_player.leftBed = false;
 obj_player.startedSleeping = false;
 obj_player.sprite_index = Idle_Noah
+obj_game_controller.classHappened= false;

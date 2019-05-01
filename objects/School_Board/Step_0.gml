@@ -3,7 +3,7 @@
 
 
 event_inherited();
-detection_radius= 50;
+detection_radius= 90;
 Indicator(20);
 if((obj_game_controller.day == 2 || obj_game_controller.day == 3 || obj_game_controller.day == 4) && arrayContains(School_Board, obj_game_controller.objsTalkedTo))
 {
