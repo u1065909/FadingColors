@@ -4,9 +4,8 @@ if(!indicatorAppeared && place_meeting(x,y,obj_player))
 {
 	
 	
-	if(self == 100190|| self == 100204 ||self == 100219)
+	if(object_get_name(self.object_index) == "School_Board")
 	{
-		show_debug_message(self);
 		indicatorInst = instance_create_layer(x,y-argument0,"NPCS",obj_indicator);
 	}
 	else

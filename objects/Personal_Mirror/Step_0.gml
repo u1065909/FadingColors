@@ -3,7 +3,7 @@
 
 event_inherited();
 detection_radius= 75;
-Indicator(20);
+Indicator(0);
 if((obj_game_controller.day == 1 ||obj_game_controller.day == 2 || obj_game_controller.day ==3 || obj_game_controller.day == 4) && arrayContains(Personal_Mirror,obj_game_controller.objsTalkedTo))
 {
 	myText = -1;
