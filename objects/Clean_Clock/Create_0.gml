@@ -4,6 +4,8 @@
 event_inherited();
 wasTalkedTo = false
 detection_radius = 50
+indicatorAppeared = false;
+indicatorInst = "";
 if(obj_game_controller.day == 1)
 {
 	myText[0] = "*The clock's hands pass over the numbers in silence*"

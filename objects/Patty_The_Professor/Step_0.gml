@@ -3,8 +3,9 @@
 
 // Inherit the parent event
 event_inherited();
+detection_radius = 80;
 //Check if Talked to already
-if(obj_game_controller.day == 2 && arrayContains(Patty_The_Professor,obj_game_controller.objsTalkedTo))
+if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 {
 	myText = -1;
 	myScripts = -1;
@@ -12,7 +13,7 @@ if(obj_game_controller.day == 2 && arrayContains(Patty_The_Professor,obj_game_co
 	speaker = -1;
 	myScripts[0] = [doNothing];
 }
-if(obj_game_controller.day == 3 && arrayContains(Patty_The_Professor,obj_game_controller.objsTalkedTo))
+if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
 {
 	myText = -1;
 	myScripts = -1;
@@ -20,7 +21,7 @@ if(obj_game_controller.day == 3 && arrayContains(Patty_The_Professor,obj_game_co
 	speaker = -1;
 	myScripts[0] = [doNothing]
 }
-if(obj_game_controller.day == 4 && arrayContains(Patty_The_Professor,obj_game_controller.objsTalkedTo))
+if(obj_game_controller.day == 4 &&obj_game_controller.classHappened)
 {
 	myText = -1
 	myScripts = -1
