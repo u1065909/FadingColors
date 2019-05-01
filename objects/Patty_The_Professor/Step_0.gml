@@ -3,7 +3,7 @@
 
 // Inherit the parent event
 event_inherited();
-detection_radius = 75
+detection_radius = 80;
 //Check if Talked to already
 if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
 {
