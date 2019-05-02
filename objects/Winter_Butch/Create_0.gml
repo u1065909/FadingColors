@@ -26,7 +26,7 @@ if(obj_game_controller.day == 3 && obj_game_controller.classHappened)
 	myScripts[0] = [gain_color,-5]
 	myTextCol[1] = [18,c_red,27,c_white]
 	myWords[1] = spr_Pointless
-	myWords[1] = spr_Pointless
+	myWords[2] = spr_Pointless
 	myScripts[1] = [spawn_mini_game,myWords,Butch_The_Bully];
 	
 	myName = "Butch"
