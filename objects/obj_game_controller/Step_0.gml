@@ -13,7 +13,6 @@ if(day != prev_day)
 //show_debug_message(room_get_name(room));
 
 if(shake){
-	show_debug_message("In here");
     shakeDur --;
     viewx += choose(-shakeForce,shakeForce);
     viewy += choose(-shakeForce,shakeForce);

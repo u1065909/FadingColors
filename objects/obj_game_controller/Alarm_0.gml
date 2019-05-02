@@ -38,7 +38,18 @@ else if(room == r_game_over)
 	
 	resetPlayer();
 	obj_player.colorMeter = 75;
-	go_to_room();
+	create_textevent(
+		["The Color Faded Out", 
+		"But I must try again", 
+		"I Can't Give Up",
+		],
+		-1,
+		-1,
+		-1,
+		-1,
+		-1,
+		 [[doNothing],[doNothing],[go_to_room]],
+		);
 }
 else if(!arrayContains(room_get_name(room),roomsVisitedTo))
 {

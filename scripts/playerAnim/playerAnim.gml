@@ -1,4 +1,5 @@
-
+if(!leftBed)
+	exit;
 if(canMove)
 {
 	if(keyboard_check(ord("D")))

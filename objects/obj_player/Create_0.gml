@@ -3,7 +3,7 @@
 player_speed = 5;
 collision_speed = player_speed;
 colorMeter = 100;
-secondsPerLoss = 1;
+secondsPerLoss = 1.5;
 canMove = true;
 attemptsOutOfBed = 0;
 attemptsNeededToLeaveBed = 1;
