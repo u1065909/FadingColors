@@ -14,7 +14,7 @@ if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game_cont
 	myName = "Rachel";
 
 }
-else if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game_controller.objsTalkedTo)&& obj_game_controller.classHappened)
+else if(obj_game_controller.day == 2 && arrayContains(Rachel_The_Random,obj_game_controller.objsTalkedTo)&& !obj_game_controller.classHappened)
 {
 	myText = -1
 	myText[0] = "Whats up?"

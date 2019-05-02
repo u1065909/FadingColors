@@ -40,12 +40,13 @@ if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
 
 }
 else if(obj_game_controller.day == 2 && obj_game_controller.classHappened)
+{
 	myText = -1;
 	myText[0] = "Did you enjoy your first day at school dear?"
-
+	myScripts[0] = [addToTalkedArray,Mallory_The_Mom];
 	myTextCol = -1;
 	speaker = -1;
-	
+}
 if(obj_game_controller.day == 3 && !obj_game_controller.classHappened)
 {
 	myText[0] = "Are you okay dear?"

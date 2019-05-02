@@ -1,6 +1,6 @@
 if(!leftBed)
 	exit;
-if(canMove)
+if(canMove && !instance_exists(obj_textbox))
 {
 	if(keyboard_check(ord("D")))
 	{
@@ -27,8 +27,10 @@ if(canMove)
 		movedInRoom = true;
 	}
 }
-if((!canMove || keyboard_check(vk_nokey)) && leftBed&& movedInRoom)
+
+if((!canMove || keyboard_check(vk_nokey)) && leftBed && movedInRoom || instance_exists(obj_textbox))
 {
+	
 	if(anim_direction == "right")
 		sprite_index = Noah_Side_Reverse;
 	else if(anim_direction == "left")

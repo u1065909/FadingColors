@@ -8,7 +8,7 @@ if(obj_game_controller.day == 2 && !obj_game_controller.classHappened)
 	myText[2] = "You should check out the fountain"
 
 	speaker = -1;
-	myScripts[0] = [gain_color,10];
+	myScripts[2] = [gain_color,10];
 
 	myName = "Jordan"
 

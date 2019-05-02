@@ -4,12 +4,13 @@ if(!movedInRoom)
 {
 	sprite_index = Idle_Noah
 }
+playerAnim();
 if(instance_exists(obj_textbox) || obj_black_fade.blackFadeAlpha > 0) exit;
 if(canMove)
 {
 	player_movement();
 }
-playerAnim();
+
 if(colorMeter == 70)
 	attemptsNeededToLeaveBed = 3;
 else if(colorMeter == 50)
