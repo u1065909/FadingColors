@@ -9,7 +9,7 @@ if(obj_game_controller.day == 1 ||obj_game_controller.day == 2 || obj_game_contr
 {
 	
 	myText[0] = "*The fountain stands empty and cold*"
-	myText[1] = "*I it feels serene*";
+	myText[1] = "*It feels serene*";
 	myTextCol[0] = -1;
 	speaker = -1;
 	myScripts[0] = [gain_color,10];
